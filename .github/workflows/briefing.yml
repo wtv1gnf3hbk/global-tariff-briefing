@@ -15,6 +15,9 @@ concurrency:
   group: briefing-generate
   cancel-in-progress: true
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
