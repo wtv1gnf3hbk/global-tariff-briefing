@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "name": "Global Tariff Briefing",
+    "slug": "global-tariff-briefing",
+    "owner": "Adam Pasick",
+    "audience": "NYT colleagues tracking tariffs and trade policy globally",
+    "timezone": "America/New_York",
+    "created": "2026-02-22"
+  },
+  "sources": [
+    {
+      "_comment": "=== PRIMARY SOURCES (lead stories come from here) ==="
+    },
+    {
+      "id": "ft_trade",
+      "name": "Financial Times (Trade)",
+      "type": "rss",
+      "url": "https://www.ft.com/trade?format=rss",
+      "priority": "primary",
+      "category": "trade"
+    },
+    {
+      "id": "bloomberg_markets",
+      "name": "Bloomberg Markets",
+      "type": "rss",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "priority": "primary",
+      "category": "business"
+    },
+    {
+      "id": "politico_economy",
+      "name": "Politico (Economy)",
+      "type": "rss",
+      "url": "https://rss.politico.com/economy.xml",
+      "priority": "primary",
+      "category": "trade"
+    },
+    {
+      "_comment": "=== SECONDARY SOURCES (depth and regional angles) ==="
+    },
+    {
+      "id": "bbc_business",
+      "name": "BBC Business",
+      "type": "rss",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "priority": "secondary",
+      "category": "business"
+    },
+    {
+      "id": "bbc_world",
+      "name": "BBC World",
+      "type": "rss",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "priority": "secondary",
+      "category": "general"
+    },
+    {
+      "id": "scmp",
+      "name": "South China Morning Post",
+      "type": "rss",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "priority": "secondary",
+      "category": "regional"
+    },
+    {
+      "id": "nikkei_asia",
+      "name": "Nikkei Asia",
+      "type": "rss",
+      "url": "https://asia.nikkei.com/rss/feed/nar",
+      "priority": "secondary",
+      "category": "regional"
+    },
+    {
+      "id": "politico_eu",
+      "name": "Politico EU",
+      "type": "rss",
+      "url": "https://www.politico.eu/feed/",
+      "priority": "secondary",
+      "category": "trade"
+    },
+    {
+      "id": "politico_us",
+      "name": "Politico",
+      "type": "rss",
+      "url": "https://www.politico.com/rss/politicopicks.xml",
+      "priority": "secondary",
+      "category": "general"
+    },
+    {
+      "_comment": "=== REFERENCE SOURCES (official/institutional) ==="
+    },
+    {
+      "id": "ustr",
+      "name": "US Trade Representative",
+      "type": "rss",
+      "url": "https://ustr.gov/rss.xml",
+      "priority": "reference",
+      "category": "government"
+    },
+    {
+      "id": "wto",
+      "name": "World Trade Organization",
+      "type": "rss",
+      "url": "https://www.wto.org/english/news_e/news_e.rss",
+      "priority": "reference",
+      "category": "government"
+    },
+    {
+      "_comment": "=== TERTIARY (catch-all keyword search) ==="
+    },
+    {
+      "id": "google_tariffs",
+      "name": "Google News (Tariffs)",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=tariffs+trade+policy+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "priority": "tertiary",
+      "category": "general"
+    },
+    {
+      "_comment": "=== SCREENSHOT SOURCES (editorial priority signals) ==="
+    },
+    {
+      "id": "wsj",
+      "name": "Wall Street Journal",
+      "type": "screenshot",
+      "url": "https://www.wsj.com",
+      "priority": "primary",
+      "category": "business"
+    },
+    {
+      "id": "ft_homepage",
+      "name": "Financial Times",
+      "type": "screenshot",
+      "url": "https://www.ft.com",
+      "priority": "primary",
+      "category": "trade"
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "type": "screenshot",
+      "url": "https://www.reuters.com",
+      "priority": "primary",
+      "category": "wire"
+    }
+  ]
+}

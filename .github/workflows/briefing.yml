@@ -1,0 +1,69 @@
+# Generate Global Tariff Briefing daily
+# Also runs on manual trigger for testing
+
+name: Generate Global Tariff Briefing
+
+on:
+  schedule:
+    - cron: '0 11 * * *'
+
+  # Manual trigger for testing
+  workflow_dispatch:
+
+# Cancel in-progress runs when a new one starts
+concurrency:
+  group: briefing-generate
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      # Cache Playwright browsers (~200MB)
+      # Without this, install takes 5+ min and sometimes hangs
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('package-lock.json', 'package.json') }}
+          restore-keys: |
+            playwright-${{ runner.os }}-
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright browsers
+        run: npx playwright install chromium
+
+      - name: Scrape news sources
+        run: node generate-briefing.js
+
+      - name: Write briefing
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node write-briefing.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+          # Fetch latest to prevent push conflicts from concurrent runs
+          git fetch origin main
+          git reset --soft origin/main
+
+          git add briefing.json briefing.md index.html screenshots/
+          git diff --staged --quiet || {
+            git commit -m "Update briefing $(TZ=America/New_York date +%Y-%m-%d)"
+            git push origin main
+          }

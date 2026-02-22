@@ -1,0 +1,6 @@
+name = "global-tariff-briefing-refresh"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# After deploying, your worker URL will be:
+# https://global-tariff-briefing-refresh.<your-subdomain>.workers.dev

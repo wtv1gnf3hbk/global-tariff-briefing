@@ -1,0 +1,18 @@
+{
+  "name": "global-tariff-briefing",
+  "version": "1.0.0",
+  "description": "Daily automated briefing on global tariffs and trade policy for NYT colleagues",
+  "main": "generate-briefing.js",
+  "scripts": {
+    "generate": "node generate-briefing.js",
+    "write": "node write-briefing.js",
+    "briefing": "node generate-briefing.js && node write-briefing.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "playwright": "^1.40.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
