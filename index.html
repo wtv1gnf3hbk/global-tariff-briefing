@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Global Tariff Briefing</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      line-height: 1.7;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 32px 16px;
+      background: #fafafa;
+      color: #1a1a1a;
+    }
+    .header { margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid #e0e0e0; }
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 1.5rem; font-weight: 700; margin-bottom: 8px;
+    }
+    .timestamp { font-size: 0.85rem; color: #666; }
+    .refresh-link { color: #666; text-decoration: underline; cursor: pointer; }
+    h1, h2, strong { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    p { margin-bottom: 16px; }
+    ul { margin: 12px 0 20px 0; padding-left: 0; list-style: none; }
+    li { margin-bottom: 10px; padding-left: 16px; position: relative; }
+    li::before { content: "\2022"; position: absolute; left: 0; color: #999; }
+    a { color: #1a1a1a; text-decoration: underline; text-decoration-color: #999; text-underline-offset: 2px; }
+    a:hover { text-decoration-color: #333; }
+    strong { font-weight: 600; }
+    .section-header { margin-top: 24px; margin-bottom: 12px; }
+    .screenshots-section { margin-top: 40px; padding-top: 24px; border-top: 1px solid #e0e0e0; }
+    .screenshots-header {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 1.1rem; font-weight: 600; margin-bottom: 16px;
+    }
+    .screenshots-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; }
+    .screenshot-card { border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; background: white; }
+    .screenshot-card img { width: 100%; height: auto; display: block; }
+    .screenshot-card .label {
+      padding: 8px 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 0.85rem; background: #f5f5f5; border-top: 1px solid #e0e0e0;
+    }
+    .screenshot-card .label a { color: #666; text-decoration: none; }
+    .screenshot-card .label a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="title">Global Tariff Briefing</div>
+    <div class="timestamp">
+      Generated Sunday, February 22, 2026 at 6:35 PM EST
+      &middot; <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
+    </div>
+  </div>
+
+  <script>
+    const WORKER_URL = 'https://global-tariff-briefing-refresh.adampasick.workers.dev';
+
+    async function refreshBriefing() {
+      const link = event.target;
+      const originalText = link.textContent;
+      try {
+        link.textContent = 'Triggering...';
+        const triggerRes = await fetch(WORKER_URL + '/trigger', { method: 'POST' });
+        if (!triggerRes.ok) throw new Error('Failed to trigger');
+
+        link.textContent = 'Starting...';
+        await new Promise(r => setTimeout(r, 3000));
+
+        const runsRes = await fetch(WORKER_URL + '/runs');
+        const runsData = await runsRes.json();
+        if (!runsData.workflow_runs?.length) throw new Error('No runs found');
+
+        const runId = runsData.workflow_runs[0].id;
+        const runUrl = runsData.workflow_runs[0].html_url;
+
+        let attempts = 0;
+        while (attempts < 60) {
+          const statusRes = await fetch(WORKER_URL + '/status/' + runId);
+          const statusData = await statusRes.json();
+          if (statusData.status === 'completed') {
+            if (statusData.conclusion === 'success') {
+              link.textContent = 'Done! Reloading...';
+              await new Promise(r => setTimeout(r, 5000));
+              location.reload(true);
+              return;
+            } else {
+              link.innerHTML = 'Failed (<a href="' + runUrl + '" target="_blank">logs</a>)';
+              return;
+            }
+          }
+          link.textContent = 'Running... ' + (attempts * 5) + 's';
+          await new Promise(r => setTimeout(r, 5000));
+          attempts++;
+        }
+        link.innerHTML = 'Timeout (<a href="' + runUrl + '" target="_blank">check</a>)';
+      } catch (error) {
+        console.error('Refresh error:', error);
+        link.textContent = 'Error';
+        setTimeout(() => { link.textContent = originalText; }, 3000);
+      }
+    }
+  </script>
+
+  <div id="content">
+<p>The Supreme Court <a href="https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap" target="_blank">struck down</a> President Trump's sweeping reciprocal tariffs on Friday, forcing the administration to pivot to new global tariffs. Trump quickly announced <a href="https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss" target="_blank">10% global tariffs</a>, which he has now increased to 15% across all imports. The <a href="https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap" target="_blank">dollar weakened</a> in Asian trading as uncertainty lingers over the administration's next moves.</p>
+
+<p>Senior US officials are scrambling to reassure trading partners that existing bilateral agreements remain intact despite the tariff setback. Trade representative Katherine Greer told partners to <a href="https://www.bloomberg.com/news/articles/2026-02-22/us-bilateral-trade-deals-are-still-on-track-greer-says" target="_blank">honor deals</a> already negotiated with the US as the administration defends its assertive trade policy. European Central Bank President Christine Lagarde warned that Trump's latest <a href="https://www.bloomberg.com/news/articles/2026-02-22/lagarde-says-us-tariff-moves-risk-upsetting-equilibrium-with-eu" target="_blank">tariff moves</a> risk upsetting the previously negotiated equilibrium between the EU and US, potentially creating new economic headwinds for Europe.</p>
+
+<p>## Tariff Actions & Retaliation</p>
+
+<p>• Trump announced <a href="https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss" target="_blank">15% global tariffs</a> on all imports after the Supreme Court blocked his reciprocal tariff system, up from an initially announced 10% rate.</p>
+
+<p>• The Supreme Court <a href="https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap" target="_blank">struck down</a> Trump's sweeping reciprocal tariffs under the International Emergency Economic Powers Act.</p>
+
+<p>• US imports from China now comprise <a href="https://www.politico.com/news/2026/02/21/electronics-imports-plunged-trump-china-tariffs-00790374?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication" target="_blank">less than 10%</a> of total US imports, down from previous levels due to existing tariff policies.</p>
+
+<p>• The EU Parliament is considering delaying a key <a href="https://www.politico.eu/article/eu-parliament-delay-trade-vote-donald-trump-tariffs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication" target="_blank">trade vote</a> with the US following Trump's latest tariff threats.</p>
+
+<p>## Trade Negotiations & Diplomacy</p>
+
+<p>• The US Trade Representative issued statements defending <a href="https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-supreme-court-ieepa-decision" target="_blank">bilateral deals</a> with partners including recent agreements with Indonesia and Taiwan.</p>
+
+<p>• French President Macron asked Trump to <a href="https://www.politico.eu/article/emmanuel-macron-donald-trump-lift-sanctions-thierry-breton/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication" target="_blank">lift sanctions</a> on former EU tech chief Thierry Breton and other European officials.</p>
+
+<p>## Market & Economic Impact</p>
+
+<p>• The dollar <a href="https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap" target="_blank">weakened broadly</a> in Asian trading as traders grappled with uncertainty over Trump's tariff plans following the Supreme Court ruling.</p>
+
+<p>• Bond markets are showing <a href="https://www.bloomberg.com/news/articles/2026-02-22/bond-market-momentum-shifts-bears-way-as-sell-signals-flash" target="_blank">bearish momentum</a> with the Supreme Court tariff decision among factors pressuring sentiment shifts.</p>
+
+<p>• Businesses report continued <a href="https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&at_campaign=rss" target="_blank">uncertainty</a> about compliance and planning following Trump's announcement of new 15% global tariffs.</p>
+
+<p>## Sources</p>
+
+<p>• <a href="https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap" target="_blank">Bloomberg Markets</a></p>
+<p>• <a href="https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss" target="_blank">BBC Business</a></p>
+<p>• <a href="https://www.politico.eu/article/eu-parliament-delay-trade-vote-donald-trump-tariffs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication" target="_blank">Politico EU</a></p>
+<p>• <a href="https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-supreme-court-ieepa-decision" target="_blank">US Trade Representative</a></p>
+  </div>
+
+  <div class="screenshots-section"><div class="screenshots-header">Homepage Screenshots</div><div class="screenshots-grid"><div class="screenshot-card"><a href="https://www.wsj.com" target="_blank"><img src="screenshots/wsj.png" alt="Wall Street Journal" loading="lazy"></a><div class="label"><a href="https://www.wsj.com" target="_blank">Wall Street Journal</a></div></div><div class="screenshot-card"><a href="https://www.ft.com" target="_blank"><img src="screenshots/ft_homepage.png" alt="Financial Times" loading="lazy"></a><div class="label"><a href="https://www.ft.com" target="_blank">Financial Times</a></div></div><div class="screenshot-card"><a href="https://www.reuters.com" target="_blank"><img src="screenshots/reuters.png" alt="Reuters" loading="lazy"></a><div class="label"><a href="https://www.reuters.com" target="_blank">Reuters</a></div></div></div></div>
+</body>
+</html>

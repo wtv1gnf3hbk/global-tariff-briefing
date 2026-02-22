@@ -1,0 +1,2182 @@
+{
+  "metadata": {
+    "name": "Global Tariff Briefing",
+    "slug": "global-tariff-briefing",
+    "owner": "Adam Pasick",
+    "audience": "NYT colleagues tracking tariffs and trade policy globally",
+    "timezone": "America/New_York",
+    "created": "2026-02-22",
+    "generated": "2026-02-22T23:35:35.295Z",
+    "generatedTimestamp": 1771803335295
+  },
+  "stats": {
+    "sourceCount": 15,
+    "successCount": 14,
+    "totalStories": 70,
+    "totalScreenshots": 3,
+    "elapsed": "16.6s"
+  },
+  "stories": {
+    "all": [
+      {
+        "headline": "Dollar Weakens as Uncertainty Over Tariff Persists: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap",
+        "source": "Bloomberg Markets",
+        "sourceId": "bloomberg_markets",
+        "category": "business",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 21:03:47 GMT",
+        "description": "The dollar weakened in early Asia trading as uncertainty lingered after the US Supreme Court struck down President Donald Trump’s sweeping reciprocal tariffs and the leader said he instead plans to im"
+      },
+      {
+        "headline": "US Tells Partners to Honor Tariff Deals as Trump Regroups",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-22/us-bilateral-trade-deals-are-still-on-track-greer-says",
+        "source": "Bloomberg Markets",
+        "sourceId": "bloomberg_markets",
+        "category": "business",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 14:49:57 GMT",
+        "description": "Senior US officials said President Donald Trump’s tariff defeat at the Supreme Court won’t unravel deals negotiated with US partners as they sought to defend the administration’s assertive trade polic"
+      },
+      {
+        "headline": "Blue Owl Anxiety Rattles the $1.8 Trillion Private Credit Market",
+        "url": "https://www.bloomberg.com/news/features/2026-02-22/blue-owl-redemptions-halt-intensifies-private-credit-fears",
+        "source": "Bloomberg Markets",
+        "sourceId": "bloomberg_markets",
+        "category": "business",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 22:00:02 GMT",
+        "description": "Despite years of solid returns, direct lenders can't shake concerns about the once-niche corner of global finance."
+      },
+      {
+        "headline": "Rolls-Royce Plans £1.5 Billion Stock Buyback, Sky News Says",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-22/rolls-royce-plans-a-1-5-billion-stock-buyback-sky-news-says",
+        "source": "Bloomberg Markets",
+        "sourceId": "bloomberg_markets",
+        "category": "business",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 18:45:17 GMT",
+        "description": "Rolls-Royce Holdings PLC is set to announce a share buyback worth as much as £1.5 billion ($2 billion), Sky News reported."
+      },
+      {
+        "headline": "Bond Market Momentum Shifts Bears’ Way as Sell Signals Flash",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-22/bond-market-momentum-shifts-bears-way-as-sell-signals-flash",
+        "source": "Bloomberg Markets",
+        "sourceId": "bloomberg_markets",
+        "category": "business",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 17:54:22 GMT",
+        "description": "From the Supreme Court’s decision against Donald Trump’s tariffs to the threat of Federal Reserve rate hikes and signs of labor-market resilience, a range of pressures are forcing a sentiment shift in"
+      },
+      {
+        "headline": "Lagarde Says US Tariff Moves Risk Upsetting Equilibrium With EU",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-22/lagarde-says-us-tariff-moves-risk-upsetting-equilibrium-with-eu",
+        "source": "Bloomberg Markets",
+        "sourceId": "bloomberg_markets",
+        "category": "business",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 17:06:33 GMT",
+        "description": "President Donald Trump’s latest tariff moves risk upsetting the previously negotiated “equilibrium” between the European Union and the US and could pose a new headwind to the economy, European Central"
+      },
+      {
+        "headline": "Germany Is About to Find Out Whether Its Recovery Is Real",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-21/germany-about-to-find-out-whether-its-recovery-is-real",
+        "source": "Bloomberg Markets",
+        "sourceId": "bloomberg_markets",
+        "category": "business",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 21:00:00 GMT",
+        "description": "Data from Germany in the coming days will shed light on whether Europe’s largest economy is on the cusp of a meaningful revival or still being hampered by Donald Trump’s tariffs and its own chronic sh"
+      },
+      {
+        "headline": "Option Pros Trade Index Versus Index to Play Huge Stock Rotation",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-22/option-pros-trade-index-versus-index-to-play-huge-stock-rotation",
+        "source": "Bloomberg Markets",
+        "sourceId": "bloomberg_markets",
+        "category": "business",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 15:00:00 GMT",
+        "description": "Equity-options investors are looking to relative value trades between markets as opportunities to profit from dispersion strategies become scare."
+      },
+      {
+        "headline": "Hungary to Block EU Sanctions, Loans Over Druzhba Standoff",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-22/szijjarto-says-hungary-to-block-eu-sanctions-package-on-monday",
+        "source": "Bloomberg Markets",
+        "sourceId": "bloomberg_markets",
+        "category": "business",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 11:55:37 GMT",
+        "description": "Hungary plans to block every European Union decision concerning Ukraine, including a new sanctions package against Russia and key loans, until oil starts flowing again through the Druzhba pipeline in "
+      },
+      {
+        "headline": "Global Cash Is Fueling a Historic Start for Latin America Stocks",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-22/global-cash-fuels-record-start-of-year-for-latin-america-stocks",
+        "source": "Bloomberg Markets",
+        "sourceId": "bloomberg_markets",
+        "category": "business",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 13:30:00 GMT",
+        "description": "Global investors are piling into Latin American stocks at the fastest clip in a decade, sending markets across the region to multi-year highs."
+      },
+      {
+        "headline": "The uncertainties facing businesses and consumers after Trump's tariff changes",
+        "url": "https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 16:55:58 GMT",
+        "description": "Businesses say questions remain after US President Donald Trump announced he will impose global tariffs of 15%."
+      },
+      {
+        "headline": "'It is a catastrophe' - the man battling to stem rising youth unemployment",
+        "url": "https://www.bbc.com/news/articles/cy7jxv7p2mxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 03:37:08 GMT",
+        "description": "Alan Milburn returns to his hometown of Newcastle as he undertakes a review into the growing numbers of young people out of work."
+      },
+      {
+        "headline": "Trump says he will increase his new global tariffs to 15%",
+        "url": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 08:08:24 GMT",
+        "description": "After most of his tariffs were outlawed on Friday, Trump announced new global tariffs of 10% - which he says he has now increased to 15%."
+      },
+      {
+        "headline": "Is £70 becoming harder to justify? The rise of cheaper blockbuster games",
+        "url": "https://www.bbc.com/news/articles/ckg1nwwv1xyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Sat, 21 Feb 2026 01:30:31 GMT",
+        "description": "As top games such as GTA 6 are speculated to cost $100 (£74), some developers are deliberately pricing lower."
+      },
+      {
+        "headline": "Trump tariffs ripped up global trade order. What now?",
+        "url": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Fri, 20 Feb 2026 16:25:34 GMT",
+        "description": "If you think the Supreme Court ruling heralds a return to pre-Trump business as usual - think again."
+      },
+      {
+        "headline": "MPs to discuss inquiry into trade envoy role after Andrew arrest",
+        "url": "https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 06:00:54 GMT",
+        "description": "A cross-party committee will also look into the appointment and accountability of UK trade envoys."
+      },
+      {
+        "headline": "KFC, Nando's, and others ditch chicken welfare pledge",
+        "url": "https://www.bbc.com/news/articles/cm2r6jqm042o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Fri, 20 Feb 2026 16:17:53 GMT",
+        "description": "Wingstop, Burger King, and others have walked away from an industry commitment to avoid using fast-growing chickens"
+      },
+      {
+        "headline": "Higher tax helped UK government reach record January surplus",
+        "url": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Fri, 20 Feb 2026 12:13:35 GMT",
+        "description": "The government took in more from tax receipts than expected, official data suggests."
+      },
+      {
+        "headline": "Lobbying firm co-founded by Mandelson goes into administration",
+        "url": "https://www.bbc.com/news/articles/cjd9zx7zne2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Fri, 20 Feb 2026 13:25:43 GMT",
+        "description": "Global Counsel's clients cut ties with the firm over Lord Mandelson's links with sex offender Jeffrey Epstein."
+      },
+      {
+        "headline": "UK agrees drone defence plan with four EU allies",
+        "url": "https://www.bbc.com/news/articles/c875jj3y475o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Fri, 20 Feb 2026 17:35:35 GMT",
+        "description": "The scheme will seek to take inspiration from Ukraine's drone manufacturing programme."
+      },
+      {
+        "headline": "Zelensky tells BBC Putin has started WW3 and must be stopped",
+        "url": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 22:00:47 GMT",
+        "description": "Ukraine's president sat down with the BBC's Jeremy Bowen in Kyiv days before the four-year anniversary of the war."
+      },
+      {
+        "headline": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
+        "url": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 23:19:30 GMT",
+        "description": "Nemesio Oseguera Cervantes, known as \"El Mencho\", headed one of Mexico's most powerful drug cartels."
+      },
+      {
+        "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+        "url": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 22:08:03 GMT",
+        "description": "The suspect was carrying a shotgun and fuel can when he was killed, officers said. Trump was in Washington DC at the time."
+      },
+      {
+        "headline": "Pakistan launches deadly strikes on Afghanistan",
+        "url": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 11:33:11 GMT",
+        "description": "Pakistan says the strikes were retaliation for recent suicide bombings in the country."
+      },
+      {
+        "headline": "Bones of St Francis of Assisi go on public display in Italy",
+        "url": "https://www.bbc.com/news/articles/cz7glr9dpy8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 17:49:01 GMT",
+        "description": "The remains of Italy's patron saint have only been seen in public once before - for one day in 1978."
+      },
+      {
+        "headline": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
+        "url": "https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 18:18:41 GMT",
+        "description": "US envoy Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major American military build-up nearby."
+      },
+      {
+        "headline": "Greenland says 'no thanks' to Trump US hospital boat",
+        "url": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 17:27:16 GMT",
+        "description": "Greenland's PM reminded Trump of its free healthcare, after Trump said he was sending a boat to aid people who were allegedly \"not being taken care of\"."
+      },
+      {
+        "headline": "US ambassador's Israel comments condemned by Arab and Muslim nations",
+        "url": "https://www.bbc.com/news/articles/cn5gkkgdzkyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 11:23:20 GMT",
+        "description": "Mike Huckabee suggested Israel would be justified in taking much of the Middle East on Biblical grounds."
+      },
+      {
+        "headline": "Explosions kill police officer and injure 25 in western Ukraine",
+        "url": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 14:19:02 GMT",
+        "description": "Twenty-five people were injured by explosions overnight in what officials are calling a terror attack."
+      },
+      {
+        "headline": "More than 1,500 Venezuelan political prisoners apply for amnesty",
+        "url": "https://www.bbc.com/news/articles/c93w9g2dvn5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 05:04:57 GMT",
+        "description": "The announcement by the head of Venezuela's National Assembly comes amid US pressure following the capture of ex-President Nicolás Maduro."
+      },
+      {
+        "headline": "Iran agreed secret US$589 million deal with Russia for shoulder-fired missiles: reports",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3344283/iran-agreed-secret-us589-million-deal-russia-shoulder-fired-missiles-reports?utm_source=rss_feed",
+        "source": "South China Morning Post",
+        "sourceId": "scmp",
+        "category": "regional",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 22:57:45 +0000",
+        "description": ""
+      },
+      {
+        "headline": "One Battle After Another wins 6 prizes including best picture at UK Baftas",
+        "url": "https://www.scmp.com/culture/film-tv/article/3344282/one-battle-after-another-wins-6-prizes-including-best-picture-uk-baftas?utm_source=rss_feed",
+        "source": "South China Morning Post",
+        "sourceId": "scmp",
+        "category": "regional",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 22:02:46 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Trump’s neo‑royalist world order and ‘weaponised interdependence’: Abraham Newman",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3344243/trumps-neo-royalist-world-order-and-weaponised-interdependence-abraham-newman?utm_source=rss_feed",
+        "source": "South China Morning Post",
+        "sourceId": "scmp",
+        "category": "regional",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 22:00:15 +0000",
+        "description": "Abraham Newman is an American political scientist and a professor in the School of Foreign Service and Department of Government at Georgetown University. His research focuses on the ways in which econ"
+      },
+      {
+        "headline": "Hong Kong’s budget must help those who need it most",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3344158/hong-kongs-budget-must-help-those-who-need-it-most?utm_source=rss_feed",
+        "source": "South China Morning Post",
+        "sourceId": "scmp",
+        "category": "regional",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 21:30:08 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Police officer killed, 24 people wounded in bomb explosions in Ukraine’s Lviv",
+        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3344281/police-officer-killed-24-people-wounded-bomb-explosions-ukraines-lviv?utm_source=rss_feed",
+        "source": "South China Morning Post",
+        "sourceId": "scmp",
+        "category": "regional",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 21:00:07 +0000",
+        "description": ""
+      },
+      {
+        "headline": "New York Mayor Mamdani orders citywide travel ban ahead of major US storm",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3344280/new-york-mayor-mamdani-orders-citywide-travel-ban-ahead-major-us-storm?utm_source=rss_feed",
+        "source": "South China Morning Post",
+        "sourceId": "scmp",
+        "category": "regional",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 19:51:35 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Mexican army kills leader of Jalisco New Generation Cartel, official says",
+        "url": "https://www.scmp.com/news/world/americas/article/3344279/mexican-army-kills-leader-jalisco-new-generation-cartel-official-says?utm_source=rss_feed",
+        "source": "South China Morning Post",
+        "sourceId": "scmp",
+        "category": "regional",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 18:43:54 +0000",
+        "description": ""
+      },
+      {
+        "headline": "France will summon US envoy Charles Kushner over comments on activist’s death",
+        "url": "https://www.scmp.com/news/world/europe/article/3344278/france-will-summon-us-envoy-charles-kushner-over-comments-activists-death?utm_source=rss_feed",
+        "source": "South China Morning Post",
+        "sourceId": "scmp",
+        "category": "regional",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 17:47:48 +0000",
+        "description": ""
+      },
+      {
+        "headline": "UK protection officers instructed to guard 2010 Epstein dinner party, reports say",
+        "url": "https://www.scmp.com/news/world/europe/article/3344277/uk-protection-officers-instructed-guard-2010-epstein-dinner-party-reports-say?utm_source=rss_feed",
+        "source": "South China Morning Post",
+        "sourceId": "scmp",
+        "category": "regional",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 17:12:16 +0000",
+        "description": ""
+      },
+      {
+        "headline": "5 dogs found poisoned to death in Hong Kong’s New Territories in single week",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3344276/5-dogs-found-poisoned-death-hong-kongs-new-territories-single-week?utm_source=rss_feed",
+        "source": "South China Morning Post",
+        "sourceId": "scmp",
+        "category": "regional",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 15:49:06 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Macron announces pick for new budget minister",
+        "url": "https://www.politico.eu/article/emmanuel-macron-france-new-budget-minister-david-amiel/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "source": "Politico EU",
+        "sourceId": "politico_eu",
+        "category": "trade",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 18:14:25 +0000",
+        "description": "David Amiel, a 33-year-old close ally of the French president, pledges to roll out the 2026 budget agreed only last month."
+      },
+      {
+        "headline": "Democrats salivate over Trump tariff chaos",
+        "url": "https://www.politico.com/news/2026/02/22/trump-tariffs-midterms-affordability-00792411?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "source": "Politico EU",
+        "sourceId": "politico_eu",
+        "category": "trade",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 16:55:41 +0000",
+        "description": "For Democrats, it’s not just the tariff ruling that could open a new messaging avenue — it’s also President Donald Trump’s doubling down."
+      },
+      {
+        "headline": "Macron asks Trump to lift sanctions on former EU tech chief Thierry Breton",
+        "url": "https://www.politico.eu/article/emmanuel-macron-donald-trump-lift-sanctions-thierry-breton/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "source": "Politico EU",
+        "sourceId": "politico_eu",
+        "category": "trade",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 14:34:06 +0000",
+        "description": "Sanctions on EU citizens including Frenchman Thierry Breton were \"unjustly imposed\" by Washington, the French president argued."
+      },
+      {
+        "headline": "EU loses patience following Trump’s latest tariff threat",
+        "url": "https://www.politico.eu/article/eu-parliament-delay-trade-vote-donald-trump-tariffs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "source": "Politico EU",
+        "sourceId": "politico_eu",
+        "category": "trade",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 13:21:20 +0000",
+        "description": "European Commission demands \"full clarity\" on Washington's plans, as a top EU trade lawmaker calls to delay a key vote on EU-U.S. trade deal."
+      },
+      {
+        "headline": "Trump&#8217;s unlikely hero: Supreme Court Justice Brett Kavanaugh",
+        "url": "https://www.politico.com/news/2026/02/21/trump-brett-kavanaugh-scotus-00792284?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "source": "Politico EU",
+        "sourceId": "politico_eu",
+        "category": "trade",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 12:46:18 +0000",
+        "description": "“I am so proud of him,” the president said Friday."
+      },
+      {
+        "headline": "Kyiv condemns ‘blackmail’ by Hungary, Slovakia as energy standoff escalates",
+        "url": "https://www.politico.eu/article/ukraine-condemns-blackmail-hungary-slovakia-energy-standoff/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "source": "Politico EU",
+        "sourceId": "politico_eu",
+        "category": "trade",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 11:52:55 +0000",
+        "description": "Budapest and Bratislava have seized on the closure of a key oil pipeline to threaten to cut off electricity supplies to Ukraine."
+      },
+      {
+        "headline": "How the US is moving away from Chinese imports",
+        "url": "https://www.politico.com/news/2026/02/21/electronics-imports-plunged-trump-china-tariffs-00790374?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "source": "Politico EU",
+        "sourceId": "politico_eu",
+        "category": "trade",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 09:00:28 +0000",
+        "description": "Chinese goods now comprise less than 10 percent of U.S. imports."
+      },
+      {
+        "headline": "Wer gewinnt Rheinland-Pfalz? Alexander Schweitzer im Gespräch",
+        "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/wer-gewinnt-rheinland-pfalz-alexander-schweitzer-im-gesprach/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "source": "Politico EU",
+        "sourceId": "politico_eu",
+        "category": "trade",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 09:00:00 +0000",
+        "description": "In der rheinland-pfälzischen Landeshauptstadt Mainz bereitet sich Alexander Schweitzer auf seine erste Bewährungsprobe als gewählter Regierungschef vor. Es ist ein Spiel gegen die Zeit und gegen den B"
+      },
+      {
+        "headline": "Trump says he’s sending hospital ship to Greenland; Denmark says no thank you",
+        "url": "https://www.politico.eu/article/trump-says-hes-sending-hospital-ship-to-greenland/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "source": "Politico EU",
+        "sourceId": "politico_eu",
+        "category": "trade",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 07:30:01 +0000",
+        "description": "Danish prime minister extolled the health care system of Denmark and Greenland after Trump dispatched the vessel \"to take care of the many people who are sick, and not being taken care of there.\""
+      },
+      {
+        "headline": "Meloni and Macron postpone their first high-level summit",
+        "url": "https://www.politico.eu/article/meloni-and-macron-postpone-their-first-high-level-summit/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "source": "Politico EU",
+        "sourceId": "politico_eu",
+        "category": "trade",
+        "priority": "secondary",
+        "date": "Sat, 21 Feb 2026 18:58:02 +0000",
+        "description": "Italy asked France to delay the Toulouse meeting until after the G7 summit in June."
+      },
+      {
+        "headline": "Weekly Trade Focus: APEC",
+        "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
+        "source": "US Trade Representative",
+        "sourceId": "ustr",
+        "category": "government",
+        "priority": "reference",
+        "date": "Mon, 20 Jul 2009 18:28:39 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Ambassador Greer Issues Statement on Supreme Court IEEPA Decision",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-supreme-court-ieepa-decision",
+        "source": "US Trade Representative",
+        "sourceId": "ustr",
+        "category": "government",
+        "priority": "reference",
+        "date": "Fri, 20 Feb 2026 21:56:05 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Ambassador Greer Issues Statement on President Trump Announcing a Trade Deal with Indonesia",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-president-trump-announcing-trade-deal-indonesia",
+        "source": "US Trade Representative",
+        "sourceId": "ustr",
+        "category": "government",
+        "priority": "reference",
+        "date": "Thu, 19 Feb 2026 23:42:36 +0000",
+        "description": ""
+      },
+      {
+        "headline": "U.S.-Taiwan Deal Draws Praise from American Farmers, Ranchers, and Industry Leaders",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/us-taiwan-deal-draws-praise-american-farmers-ranchers-and-industry-leaders",
+        "source": "US Trade Representative",
+        "sourceId": "ustr",
+        "category": "government",
+        "priority": "reference",
+        "date": "Tue, 17 Feb 2026 17:49:46 +0000",
+        "description": ""
+      },
+      {
+        "headline": "United States and Ecuador ART Negotiations",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/united-states-and-ecuador-art-negotiations",
+        "source": "US Trade Representative",
+        "sourceId": "ustr",
+        "category": "government",
+        "priority": "reference",
+        "date": "Fri, 13 Feb 2026 21:24:44 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Public Hearing Regarding the 2026 Special 301 Review",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/public-hearing-regarding-2026-special-301-review",
+        "source": "US Trade Representative",
+        "sourceId": "ustr",
+        "category": "government",
+        "priority": "reference",
+        "date": "Fri, 13 Feb 2026 18:02:16 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Ambassador Greer Issues Statement on Framework for Agreement on Reciprocal Trade with North Macedonia",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-framework-agreement-reciprocal-trade-north-macedonia",
+        "source": "US Trade Representative",
+        "sourceId": "ustr",
+        "category": "government",
+        "priority": "reference",
+        "date": "Thu, 12 Feb 2026 22:35:56 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Ambassador Greer Oversees Signing of U.S.-Taiwan Agreement on Reciprocal Trade",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-oversees-signing-us-taiwan-agreement-reciprocal-trade",
+        "source": "US Trade Representative",
+        "sourceId": "ustr",
+        "category": "government",
+        "priority": "reference",
+        "date": "Thu, 12 Feb 2026 22:29:14 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Fact Sheet: The United States and North Macedonia Reach a Framework for Agreement on Reciprocal Trade",
+        "url": "https://ustr.gov/about/policy-offices/press-office/fact-sheets/2026/february/fact-sheet-united-states-and-north-macedonia-reach-framework-agreement-reciprocal-trade",
+        "source": "US Trade Representative",
+        "sourceId": "ustr",
+        "category": "government",
+        "priority": "reference",
+        "date": "Thu, 12 Feb 2026 21:47:27 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Fact Sheet on U.S.-Taiwan Agreement on Reciprocal Trade",
+        "url": "https://ustr.gov/about/policy-offices/press-office/fact-sheets/2026/february/fact-sheet-us-taiwan-agreement-reciprocal-trade",
+        "source": "US Trade Representative",
+        "sourceId": "ustr",
+        "category": "government",
+        "priority": "reference",
+        "date": "Thu, 12 Feb 2026 21:39:59 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Here Are the Countries and Products Subject to Tariffs Now - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjg2dnFmWVhreXFuam9oQ3dmbnJIM1NrS2VaSkYwbnBZR0I4cjRXODItSHBEX2xmaVI3VmhMNXZfSWVWaDNtOHhHNVZxbjVidWFYYXVvNXZ6UDg3WVQ0N283V1lDdXJiZjFMNDZYdi1pTlIzX2NZS21CQWtaSHJ1a0JzcVh4dGJfamdn?oc=5",
+        "source": "Google News (Tariffs)",
+        "sourceId": "google_tariffs",
+        "category": "general",
+        "priority": "tertiary",
+        "date": "Sun, 22 Feb 2026 15:55:57 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjg2dnFmWVhreXFuam9oQ3dmbnJIM1NrS2VaSkYwbnBZR0I4cjRXODItSHBEX2xmaVI3VmhMNXZfSWVWaDNtOHhHNVZxbjVidWFYYXVvNXZ6UDg3WVQ0N283V1lDdXJiZjFMNDZ"
+      },
+      {
+        "headline": "US tariff policy ‘hasn’t changed’ despite supreme court ruling, trade chief says - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSkdNX1VTSW16eDdOaHY1TWdpa1A3OXExaVBPdE9laEw0MEJwbzJab0dyM25TODdzNnozXzBOT29NaU90eVFWdUJvWmZ0RkdBZGl6OVlqMElIRHdkdWE1RktURmZGSzkxUlljWUQyY2h5TE5QT3c4ODRFUElWd28?oc=5",
+        "source": "Google News (Tariffs)",
+        "sourceId": "google_tariffs",
+        "category": "general",
+        "priority": "tertiary",
+        "date": "Sun, 22 Feb 2026 21:39:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSkdNX1VTSW16eDdOaHY1TWdpa1A3OXExaVBPdE9laEw0MEJwbzJab0dyM25TODdzNnozXzBOT29NaU90eVFWdUJvWmZ0RkdBZGl6OVlqMElIRHdkdWE1RktURmZGSzkxUlljWUQ"
+      },
+      {
+        "headline": "US trade representative says GOP lawmakers who weren’t always in favor of tariffs have ‘now come around’ - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmlmb0Y2QkFXM1MyRWhMa1N3aTUzX3ZuTGp4LXBsbW1wRWN0SHEwaURMOVF2U1U5TFhSZ3lJeURRLUdSLWNpV0hBeUlNVnkyb2dwdDN4VEVzV2Jjenl0LVRIaXBQWDhaQnRud2t1RmR1SW1iQjhrNDVNYTZNRlp0WA?oc=5",
+        "source": "Google News (Tariffs)",
+        "sourceId": "google_tariffs",
+        "category": "general",
+        "priority": "tertiary",
+        "date": "Sun, 22 Feb 2026 20:10:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmlmb0Y2QkFXM1MyRWhMa1N3aTUzX3ZuTGp4LXBsbW1wRWN0SHEwaURMOVF2U1U5TFhSZ3lJeURRLUdSLWNpV0hBeUlNVnkyb2dwdDN4VEVzV2Jjenl0LVRIaXBQWDhaQnRud2t"
+      },
+      {
+        "headline": "US Tells Partners to Honor Tariff Deals as Trump Recalibrates - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWRLZHUzQW5QYXpEdEFwX0dCZ01oVWpVZGFYTHQwYXFQMko1WERHQzNaMVZ5Rmd1Y2VTdXVERkgyQXV0eGk?oc=5",
+        "source": "Google News (Tariffs)",
+        "sourceId": "google_tariffs",
+        "category": "general",
+        "priority": "tertiary",
+        "date": "Sun, 22 Feb 2026 22:36:25 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWR"
+      },
+      {
+        "headline": "CommSec’s James Gruber says US President Donald Trump “reacted angrily” to the Supreme Court’s decision to rule against his tariffs, vowing to impose a 10 per cent global levy. - facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNblBqa0hCQVFUc3B5bDdFU3h4d3BEejQzUXh0ZVpMYkpzTDlWWkxYcUhXcUd2eVFQYzF6V2NrNHFHaFhuRzc2X3Z4N21WZ3NMNzZXVnU1LU5HTkNEMGdFc1p3SFFKelQyTC1odU9aVGFSaHloUVRNeWRlQ3J6TG4xSUFlV0VtWWFiNF9tdzFTQmtmT2U2SjktMU95SHA1X0NNc25BelhUWi1mUDFqMkJuWFF3cUZYQmFWX1BTckhSaXNzcU9wdy1vbEpibWYwZXV2dV9mWXVvX1cyM0tvU2xJ?oc=5",
+        "source": "Google News (Tariffs)",
+        "sourceId": "google_tariffs",
+        "category": "general",
+        "priority": "tertiary",
+        "date": "Sun, 22 Feb 2026 22:26:05 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNblBqa0hCQVFUc3B5bDdFU3h4d3BEejQzUXh0ZVpMYkpzTDlWWkxYcUhXcUd2eVFQYzF6V2NrNHFHaFhuRzc2X3Z4N21WZ3NMNzZXVnU1LU5HTkNEMGdFc1p3SFFKelQyTC1odU9"
+      },
+      {
+        "headline": "European Commission demands US clarity on trade policy after tariff ruling - Букви",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNllSeHJIS1l6OXplN2s2ckVnMXcwV3RzV1gyd0U2V2VkVlFqOGZ5RVZxREZXUTN3WENFdDByaldiWDZodHN2dE5GNF95dmZGTWdNWG9BMmZKVk1qM3VaaV9pYjIwa1RvUVQ4V3pobTdnd3N3SWFPcUxfbUJpbVlnSGNvQnl6aDFIVHVPV2FwSnBZdjhjbmFBWkREVDY5SmwtSU9YcW1B0gGrAUFVX3lxTE82LVY3MkpnMmtHTU9OQkgzQU56ZzcxNU10dFN3VG5iYTBYTnB1cTVsamRnbXdxOTA3MWM1OEc4UF9YeVZnSE42OHVzT0dtSEtOOWh4V0dVT0RRT1UyVXZjZTNUWFBhZGkwSGN0RkJvbF92SmEtRVlVYXlaZENkVS1zVkRSdHZveVdwaEFpX3hXWjBMblpfbFp5U2RJZ2NUVjR6RTE5cUg0a0RYUQ?oc=5",
+        "source": "Google News (Tariffs)",
+        "sourceId": "google_tariffs",
+        "category": "general",
+        "priority": "tertiary",
+        "date": "Sun, 22 Feb 2026 21:46:14 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNllSeHJIS1l6OXplN2s2ckVnMXcwV3RzV1gyd0U2V2VkVlFqOGZ5RVZxREZXUTN3WENFdDByaldiWDZodHN2dE5GNF95dmZGTWdNWG9BMmZKVk1qM3VaaV9pYjIwa1RvUVQ4V3p"
+      },
+      {
+        "headline": "Uncertainty abounds for countries after US tariff ruling - Semafor",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS201bWRMb0NaenNyYzB1U05pNXlwNTc1THNZc2JBNXoxOHJvX0dFZFI0aXdubk05Um9HRHF3RkJzaVFXOXNGWlIwRTV6eUdEcHFSZ2V3dHo3d3FydDJLNW94ZjBoYVNQV0RuR0dHYm5MalpnTjJiRG4tcmxGZXBUZmxlbXl6ZWFxeV9YbEFR?oc=5",
+        "source": "Google News (Tariffs)",
+        "sourceId": "google_tariffs",
+        "category": "general",
+        "priority": "tertiary",
+        "date": "Sun, 22 Feb 2026 22:33:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPS201bWRMb0NaenNyYzB1U05pNXlwNTc1THNZc2JBNXoxOHJvX0dFZFI0aXdubk05Um9HRHF3RkJzaVFXOXNGWlIwRTV6eUdEcHFSZ2V3dHo3d3FydDJLNW94ZjBoYVNQV0RuR0d"
+      },
+      {
+        "headline": "Trump announces increase of new global tariffs from 10% to 15% - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTGNjazgzbFFMOGJoYkxoMHZGc0txYW00YjdrX1l5WnBZd3Y5SFJFcFVyN0pRRWd0OExVV0NXbXkwQUhfRFRVMVJDemFtalF3SXJubkhsOTRYUQ?oc=5",
+        "source": "Google News (Tariffs)",
+        "sourceId": "google_tariffs",
+        "category": "general",
+        "priority": "tertiary",
+        "date": "Sun, 22 Feb 2026 08:08:24 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTGNjazgzbFFMOGJoYkxoMHZGc0txYW00YjdrX1l5WnBZd3Y5SFJFcFVyN0pRRWd0OExVV0NXbXkwQUhfRFRVMVJDemFtalF3SXJubkhsOTRYUQ?oc=5\" target=\"_blank\"&gt"
+      },
+      {
+        "headline": "Tariff Policy by the Numbers - Paul Krugman | Substack",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VUEx0VWRtbFB4ZkdsN2V2VWJZWkNrTkY4NU5JVG95SU10aWZkZlNodXkwdzc3T3VXQktPLW9TbTI0M3Azc3VxSnJxQWJiZDYtV3hJNXJ5RWkxSGlCdy13QnpMNU45aDVmQnVzLU5JSzQ?oc=5",
+        "source": "Google News (Tariffs)",
+        "sourceId": "google_tariffs",
+        "category": "general",
+        "priority": "tertiary",
+        "date": "Sun, 22 Feb 2026 11:30:33 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1VUEx0VWRtbFB4ZkdsN2V2VWJZWkNrTkY4NU5JVG95SU10aWZkZlNodXkwdzc3T3VXQktPLW9TbTI0M3Azc3VxSnJxQWJiZDYtV3hJNXJ5RWkxSGlCdy13QnpMNU45aDVmQnVzLU5"
+      },
+      {
+        "headline": "Tariff Turmoil and Wallet Worries: How the Supreme Court’s Ruling on Trump’s Duties Could Reshape U.S. Prices and Trade - abacusnews.com",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS1lzWXBhb3ZPcUo1OXRTTHRtOGQxR2tzcTJlTWFGOEEyMVV1a2xXeGZUYVBRbW9XQ2twQXRpV1lVSzBaeVh2Ukl6eFFLZ0RQU29KbWwxSS1QTjhJR0tiMHMyZ3VHelZsYnZ3ZDh4UHVHQXREenVIZDdMTS1VVWdoN1ltekxfYzRNZnZ2N21aWDEtNWlXOVlPX05IU0ZzODhidWFOM0hDUVZwZkowVW5ONXVMUWhoVWJZYnppSVk3NWtFRlVMVHM0bm84TlpXalpocXV6NkYydmR0VDQ?oc=5",
+        "source": "Google News (Tariffs)",
+        "sourceId": "google_tariffs",
+        "category": "general",
+        "priority": "tertiary",
+        "date": "Sun, 22 Feb 2026 17:54:41 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS1lzWXBhb3ZPcUo1OXRTTHRtOGQxR2tzcTJlTWFGOEEyMVV1a2xXeGZUYVBRbW9XQ2twQXRpV1lVSzBaeVh2Ukl6eFFLZ0RQU29KbWwxSS1QTjhJR0tiMHMyZ3VHelZsYnZ3ZDh"
+      }
+    ],
+    "byCategory": {
+      "business": [
+        {
+          "headline": "Dollar Weakens as Uncertainty Over Tariff Persists: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 21:03:47 GMT",
+          "description": "The dollar weakened in early Asia trading as uncertainty lingered after the US Supreme Court struck down President Donald Trump’s sweeping reciprocal tariffs and the leader said he instead plans to im"
+        },
+        {
+          "headline": "US Tells Partners to Honor Tariff Deals as Trump Regroups",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/us-bilateral-trade-deals-are-still-on-track-greer-says",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 14:49:57 GMT",
+          "description": "Senior US officials said President Donald Trump’s tariff defeat at the Supreme Court won’t unravel deals negotiated with US partners as they sought to defend the administration’s assertive trade polic"
+        },
+        {
+          "headline": "Blue Owl Anxiety Rattles the $1.8 Trillion Private Credit Market",
+          "url": "https://www.bloomberg.com/news/features/2026-02-22/blue-owl-redemptions-halt-intensifies-private-credit-fears",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 22:00:02 GMT",
+          "description": "Despite years of solid returns, direct lenders can't shake concerns about the once-niche corner of global finance."
+        },
+        {
+          "headline": "Rolls-Royce Plans £1.5 Billion Stock Buyback, Sky News Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/rolls-royce-plans-a-1-5-billion-stock-buyback-sky-news-says",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 18:45:17 GMT",
+          "description": "Rolls-Royce Holdings PLC is set to announce a share buyback worth as much as £1.5 billion ($2 billion), Sky News reported."
+        },
+        {
+          "headline": "Bond Market Momentum Shifts Bears’ Way as Sell Signals Flash",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/bond-market-momentum-shifts-bears-way-as-sell-signals-flash",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 17:54:22 GMT",
+          "description": "From the Supreme Court’s decision against Donald Trump’s tariffs to the threat of Federal Reserve rate hikes and signs of labor-market resilience, a range of pressures are forcing a sentiment shift in"
+        },
+        {
+          "headline": "Lagarde Says US Tariff Moves Risk Upsetting Equilibrium With EU",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/lagarde-says-us-tariff-moves-risk-upsetting-equilibrium-with-eu",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 17:06:33 GMT",
+          "description": "President Donald Trump’s latest tariff moves risk upsetting the previously negotiated “equilibrium” between the European Union and the US and could pose a new headwind to the economy, European Central"
+        },
+        {
+          "headline": "Germany Is About to Find Out Whether Its Recovery Is Real",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-21/germany-about-to-find-out-whether-its-recovery-is-real",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 21:00:00 GMT",
+          "description": "Data from Germany in the coming days will shed light on whether Europe’s largest economy is on the cusp of a meaningful revival or still being hampered by Donald Trump’s tariffs and its own chronic sh"
+        },
+        {
+          "headline": "Option Pros Trade Index Versus Index to Play Huge Stock Rotation",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/option-pros-trade-index-versus-index-to-play-huge-stock-rotation",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 15:00:00 GMT",
+          "description": "Equity-options investors are looking to relative value trades between markets as opportunities to profit from dispersion strategies become scare."
+        },
+        {
+          "headline": "Hungary to Block EU Sanctions, Loans Over Druzhba Standoff",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/szijjarto-says-hungary-to-block-eu-sanctions-package-on-monday",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 11:55:37 GMT",
+          "description": "Hungary plans to block every European Union decision concerning Ukraine, including a new sanctions package against Russia and key loans, until oil starts flowing again through the Druzhba pipeline in "
+        },
+        {
+          "headline": "Global Cash Is Fueling a Historic Start for Latin America Stocks",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/global-cash-fuels-record-start-of-year-for-latin-america-stocks",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 13:30:00 GMT",
+          "description": "Global investors are piling into Latin American stocks at the fastest clip in a decade, sending markets across the region to multi-year highs."
+        },
+        {
+          "headline": "The uncertainties facing businesses and consumers after Trump's tariff changes",
+          "url": "https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 16:55:58 GMT",
+          "description": "Businesses say questions remain after US President Donald Trump announced he will impose global tariffs of 15%."
+        },
+        {
+          "headline": "'It is a catastrophe' - the man battling to stem rising youth unemployment",
+          "url": "https://www.bbc.com/news/articles/cy7jxv7p2mxo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 03:37:08 GMT",
+          "description": "Alan Milburn returns to his hometown of Newcastle as he undertakes a review into the growing numbers of young people out of work."
+        },
+        {
+          "headline": "Trump says he will increase his new global tariffs to 15%",
+          "url": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 08:08:24 GMT",
+          "description": "After most of his tariffs were outlawed on Friday, Trump announced new global tariffs of 10% - which he says he has now increased to 15%."
+        },
+        {
+          "headline": "Is £70 becoming harder to justify? The rise of cheaper blockbuster games",
+          "url": "https://www.bbc.com/news/articles/ckg1nwwv1xyo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sat, 21 Feb 2026 01:30:31 GMT",
+          "description": "As top games such as GTA 6 are speculated to cost $100 (£74), some developers are deliberately pricing lower."
+        },
+        {
+          "headline": "Trump tariffs ripped up global trade order. What now?",
+          "url": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Fri, 20 Feb 2026 16:25:34 GMT",
+          "description": "If you think the Supreme Court ruling heralds a return to pre-Trump business as usual - think again."
+        },
+        {
+          "headline": "MPs to discuss inquiry into trade envoy role after Andrew arrest",
+          "url": "https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 06:00:54 GMT",
+          "description": "A cross-party committee will also look into the appointment and accountability of UK trade envoys."
+        },
+        {
+          "headline": "KFC, Nando's, and others ditch chicken welfare pledge",
+          "url": "https://www.bbc.com/news/articles/cm2r6jqm042o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Fri, 20 Feb 2026 16:17:53 GMT",
+          "description": "Wingstop, Burger King, and others have walked away from an industry commitment to avoid using fast-growing chickens"
+        },
+        {
+          "headline": "Higher tax helped UK government reach record January surplus",
+          "url": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Fri, 20 Feb 2026 12:13:35 GMT",
+          "description": "The government took in more from tax receipts than expected, official data suggests."
+        },
+        {
+          "headline": "Lobbying firm co-founded by Mandelson goes into administration",
+          "url": "https://www.bbc.com/news/articles/cjd9zx7zne2o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Fri, 20 Feb 2026 13:25:43 GMT",
+          "description": "Global Counsel's clients cut ties with the firm over Lord Mandelson's links with sex offender Jeffrey Epstein."
+        },
+        {
+          "headline": "UK agrees drone defence plan with four EU allies",
+          "url": "https://www.bbc.com/news/articles/c875jj3y475o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Fri, 20 Feb 2026 17:35:35 GMT",
+          "description": "The scheme will seek to take inspiration from Ukraine's drone manufacturing programme."
+        }
+      ],
+      "general": [
+        {
+          "headline": "Zelensky tells BBC Putin has started WW3 and must be stopped",
+          "url": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 22:00:47 GMT",
+          "description": "Ukraine's president sat down with the BBC's Jeremy Bowen in Kyiv days before the four-year anniversary of the war."
+        },
+        {
+          "headline": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
+          "url": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 23:19:30 GMT",
+          "description": "Nemesio Oseguera Cervantes, known as \"El Mencho\", headed one of Mexico's most powerful drug cartels."
+        },
+        {
+          "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+          "url": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 22:08:03 GMT",
+          "description": "The suspect was carrying a shotgun and fuel can when he was killed, officers said. Trump was in Washington DC at the time."
+        },
+        {
+          "headline": "Pakistan launches deadly strikes on Afghanistan",
+          "url": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 11:33:11 GMT",
+          "description": "Pakistan says the strikes were retaliation for recent suicide bombings in the country."
+        },
+        {
+          "headline": "Bones of St Francis of Assisi go on public display in Italy",
+          "url": "https://www.bbc.com/news/articles/cz7glr9dpy8o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 17:49:01 GMT",
+          "description": "The remains of Italy's patron saint have only been seen in public once before - for one day in 1978."
+        },
+        {
+          "headline": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
+          "url": "https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 18:18:41 GMT",
+          "description": "US envoy Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major American military build-up nearby."
+        },
+        {
+          "headline": "Greenland says 'no thanks' to Trump US hospital boat",
+          "url": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 17:27:16 GMT",
+          "description": "Greenland's PM reminded Trump of its free healthcare, after Trump said he was sending a boat to aid people who were allegedly \"not being taken care of\"."
+        },
+        {
+          "headline": "US ambassador's Israel comments condemned by Arab and Muslim nations",
+          "url": "https://www.bbc.com/news/articles/cn5gkkgdzkyo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 11:23:20 GMT",
+          "description": "Mike Huckabee suggested Israel would be justified in taking much of the Middle East on Biblical grounds."
+        },
+        {
+          "headline": "Explosions kill police officer and injure 25 in western Ukraine",
+          "url": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 14:19:02 GMT",
+          "description": "Twenty-five people were injured by explosions overnight in what officials are calling a terror attack."
+        },
+        {
+          "headline": "More than 1,500 Venezuelan political prisoners apply for amnesty",
+          "url": "https://www.bbc.com/news/articles/c93w9g2dvn5o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 05:04:57 GMT",
+          "description": "The announcement by the head of Venezuela's National Assembly comes amid US pressure following the capture of ex-President Nicolás Maduro."
+        },
+        {
+          "headline": "Here Are the Countries and Products Subject to Tariffs Now - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjg2dnFmWVhreXFuam9oQ3dmbnJIM1NrS2VaSkYwbnBZR0I4cjRXODItSHBEX2xmaVI3VmhMNXZfSWVWaDNtOHhHNVZxbjVidWFYYXVvNXZ6UDg3WVQ0N283V1lDdXJiZjFMNDZYdi1pTlIzX2NZS21CQWtaSHJ1a0JzcVh4dGJfamdn?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 15:55:57 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjg2dnFmWVhreXFuam9oQ3dmbnJIM1NrS2VaSkYwbnBZR0I4cjRXODItSHBEX2xmaVI3VmhMNXZfSWVWaDNtOHhHNVZxbjVidWFYYXVvNXZ6UDg3WVQ0N283V1lDdXJiZjFMNDZ"
+        },
+        {
+          "headline": "US tariff policy ‘hasn’t changed’ despite supreme court ruling, trade chief says - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSkdNX1VTSW16eDdOaHY1TWdpa1A3OXExaVBPdE9laEw0MEJwbzJab0dyM25TODdzNnozXzBOT29NaU90eVFWdUJvWmZ0RkdBZGl6OVlqMElIRHdkdWE1RktURmZGSzkxUlljWUQyY2h5TE5QT3c4ODRFUElWd28?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 21:39:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSkdNX1VTSW16eDdOaHY1TWdpa1A3OXExaVBPdE9laEw0MEJwbzJab0dyM25TODdzNnozXzBOT29NaU90eVFWdUJvWmZ0RkdBZGl6OVlqMElIRHdkdWE1RktURmZGSzkxUlljWUQ"
+        },
+        {
+          "headline": "US trade representative says GOP lawmakers who weren’t always in favor of tariffs have ‘now come around’ - The Hill",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmlmb0Y2QkFXM1MyRWhMa1N3aTUzX3ZuTGp4LXBsbW1wRWN0SHEwaURMOVF2U1U5TFhSZ3lJeURRLUdSLWNpV0hBeUlNVnkyb2dwdDN4VEVzV2Jjenl0LVRIaXBQWDhaQnRud2t1RmR1SW1iQjhrNDVNYTZNRlp0WA?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 20:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmlmb0Y2QkFXM1MyRWhMa1N3aTUzX3ZuTGp4LXBsbW1wRWN0SHEwaURMOVF2U1U5TFhSZ3lJeURRLUdSLWNpV0hBeUlNVnkyb2dwdDN4VEVzV2Jjenl0LVRIaXBQWDhaQnRud2t"
+        },
+        {
+          "headline": "US Tells Partners to Honor Tariff Deals as Trump Recalibrates - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWRLZHUzQW5QYXpEdEFwX0dCZ01oVWpVZGFYTHQwYXFQMko1WERHQzNaMVZ5Rmd1Y2VTdXVERkgyQXV0eGk?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 22:36:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWR"
+        },
+        {
+          "headline": "CommSec’s James Gruber says US President Donald Trump “reacted angrily” to the Supreme Court’s decision to rule against his tariffs, vowing to impose a 10 per cent global levy. - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNblBqa0hCQVFUc3B5bDdFU3h4d3BEejQzUXh0ZVpMYkpzTDlWWkxYcUhXcUd2eVFQYzF6V2NrNHFHaFhuRzc2X3Z4N21WZ3NMNzZXVnU1LU5HTkNEMGdFc1p3SFFKelQyTC1odU9aVGFSaHloUVRNeWRlQ3J6TG4xSUFlV0VtWWFiNF9tdzFTQmtmT2U2SjktMU95SHA1X0NNc25BelhUWi1mUDFqMkJuWFF3cUZYQmFWX1BTckhSaXNzcU9wdy1vbEpibWYwZXV2dV9mWXVvX1cyM0tvU2xJ?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 22:26:05 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNblBqa0hCQVFUc3B5bDdFU3h4d3BEejQzUXh0ZVpMYkpzTDlWWkxYcUhXcUd2eVFQYzF6V2NrNHFHaFhuRzc2X3Z4N21WZ3NMNzZXVnU1LU5HTkNEMGdFc1p3SFFKelQyTC1odU9"
+        },
+        {
+          "headline": "European Commission demands US clarity on trade policy after tariff ruling - Букви",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNllSeHJIS1l6OXplN2s2ckVnMXcwV3RzV1gyd0U2V2VkVlFqOGZ5RVZxREZXUTN3WENFdDByaldiWDZodHN2dE5GNF95dmZGTWdNWG9BMmZKVk1qM3VaaV9pYjIwa1RvUVQ4V3pobTdnd3N3SWFPcUxfbUJpbVlnSGNvQnl6aDFIVHVPV2FwSnBZdjhjbmFBWkREVDY5SmwtSU9YcW1B0gGrAUFVX3lxTE82LVY3MkpnMmtHTU9OQkgzQU56ZzcxNU10dFN3VG5iYTBYTnB1cTVsamRnbXdxOTA3MWM1OEc4UF9YeVZnSE42OHVzT0dtSEtOOWh4V0dVT0RRT1UyVXZjZTNUWFBhZGkwSGN0RkJvbF92SmEtRVlVYXlaZENkVS1zVkRSdHZveVdwaEFpX3hXWjBMblpfbFp5U2RJZ2NUVjR6RTE5cUg0a0RYUQ?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 21:46:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNllSeHJIS1l6OXplN2s2ckVnMXcwV3RzV1gyd0U2V2VkVlFqOGZ5RVZxREZXUTN3WENFdDByaldiWDZodHN2dE5GNF95dmZGTWdNWG9BMmZKVk1qM3VaaV9pYjIwa1RvUVQ4V3p"
+        },
+        {
+          "headline": "Uncertainty abounds for countries after US tariff ruling - Semafor",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS201bWRMb0NaenNyYzB1U05pNXlwNTc1THNZc2JBNXoxOHJvX0dFZFI0aXdubk05Um9HRHF3RkJzaVFXOXNGWlIwRTV6eUdEcHFSZ2V3dHo3d3FydDJLNW94ZjBoYVNQV0RuR0dHYm5MalpnTjJiRG4tcmxGZXBUZmxlbXl6ZWFxeV9YbEFR?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 22:33:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPS201bWRMb0NaenNyYzB1U05pNXlwNTc1THNZc2JBNXoxOHJvX0dFZFI0aXdubk05Um9HRHF3RkJzaVFXOXNGWlIwRTV6eUdEcHFSZ2V3dHo3d3FydDJLNW94ZjBoYVNQV0RuR0d"
+        },
+        {
+          "headline": "Trump announces increase of new global tariffs from 10% to 15% - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTGNjazgzbFFMOGJoYkxoMHZGc0txYW00YjdrX1l5WnBZd3Y5SFJFcFVyN0pRRWd0OExVV0NXbXkwQUhfRFRVMVJDemFtalF3SXJubkhsOTRYUQ?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 08:08:24 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTGNjazgzbFFMOGJoYkxoMHZGc0txYW00YjdrX1l5WnBZd3Y5SFJFcFVyN0pRRWd0OExVV0NXbXkwQUhfRFRVMVJDemFtalF3SXJubkhsOTRYUQ?oc=5\" target=\"_blank\"&gt"
+        },
+        {
+          "headline": "Tariff Policy by the Numbers - Paul Krugman | Substack",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VUEx0VWRtbFB4ZkdsN2V2VWJZWkNrTkY4NU5JVG95SU10aWZkZlNodXkwdzc3T3VXQktPLW9TbTI0M3Azc3VxSnJxQWJiZDYtV3hJNXJ5RWkxSGlCdy13QnpMNU45aDVmQnVzLU5JSzQ?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 11:30:33 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1VUEx0VWRtbFB4ZkdsN2V2VWJZWkNrTkY4NU5JVG95SU10aWZkZlNodXkwdzc3T3VXQktPLW9TbTI0M3Azc3VxSnJxQWJiZDYtV3hJNXJ5RWkxSGlCdy13QnpMNU45aDVmQnVzLU5"
+        },
+        {
+          "headline": "Tariff Turmoil and Wallet Worries: How the Supreme Court’s Ruling on Trump’s Duties Could Reshape U.S. Prices and Trade - abacusnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS1lzWXBhb3ZPcUo1OXRTTHRtOGQxR2tzcTJlTWFGOEEyMVV1a2xXeGZUYVBRbW9XQ2twQXRpV1lVSzBaeVh2Ukl6eFFLZ0RQU29KbWwxSS1QTjhJR0tiMHMyZ3VHelZsYnZ3ZDh4UHVHQXREenVIZDdMTS1VVWdoN1ltekxfYzRNZnZ2N21aWDEtNWlXOVlPX05IU0ZzODhidWFOM0hDUVZwZkowVW5ONXVMUWhoVWJZYnppSVk3NWtFRlVMVHM0bm84TlpXalpocXV6NkYydmR0VDQ?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 17:54:41 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS1lzWXBhb3ZPcUo1OXRTTHRtOGQxR2tzcTJlTWFGOEEyMVV1a2xXeGZUYVBRbW9XQ2twQXRpV1lVSzBaeVh2Ukl6eFFLZ0RQU29KbWwxSS1QTjhJR0tiMHMyZ3VHelZsYnZ3ZDh"
+        }
+      ],
+      "regional": [
+        {
+          "headline": "Iran agreed secret US$589 million deal with Russia for shoulder-fired missiles: reports",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3344283/iran-agreed-secret-us589-million-deal-russia-shoulder-fired-missiles-reports?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 22:57:45 +0000",
+          "description": ""
+        },
+        {
+          "headline": "One Battle After Another wins 6 prizes including best picture at UK Baftas",
+          "url": "https://www.scmp.com/culture/film-tv/article/3344282/one-battle-after-another-wins-6-prizes-including-best-picture-uk-baftas?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 22:02:46 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Trump’s neo‑royalist world order and ‘weaponised interdependence’: Abraham Newman",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3344243/trumps-neo-royalist-world-order-and-weaponised-interdependence-abraham-newman?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 22:00:15 +0000",
+          "description": "Abraham Newman is an American political scientist and a professor in the School of Foreign Service and Department of Government at Georgetown University. His research focuses on the ways in which econ"
+        },
+        {
+          "headline": "Hong Kong’s budget must help those who need it most",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3344158/hong-kongs-budget-must-help-those-who-need-it-most?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 21:30:08 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Police officer killed, 24 people wounded in bomb explosions in Ukraine’s Lviv",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3344281/police-officer-killed-24-people-wounded-bomb-explosions-ukraines-lviv?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 21:00:07 +0000",
+          "description": ""
+        },
+        {
+          "headline": "New York Mayor Mamdani orders citywide travel ban ahead of major US storm",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3344280/new-york-mayor-mamdani-orders-citywide-travel-ban-ahead-major-us-storm?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 19:51:35 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Mexican army kills leader of Jalisco New Generation Cartel, official says",
+          "url": "https://www.scmp.com/news/world/americas/article/3344279/mexican-army-kills-leader-jalisco-new-generation-cartel-official-says?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 18:43:54 +0000",
+          "description": ""
+        },
+        {
+          "headline": "France will summon US envoy Charles Kushner over comments on activist’s death",
+          "url": "https://www.scmp.com/news/world/europe/article/3344278/france-will-summon-us-envoy-charles-kushner-over-comments-activists-death?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 17:47:48 +0000",
+          "description": ""
+        },
+        {
+          "headline": "UK protection officers instructed to guard 2010 Epstein dinner party, reports say",
+          "url": "https://www.scmp.com/news/world/europe/article/3344277/uk-protection-officers-instructed-guard-2010-epstein-dinner-party-reports-say?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 17:12:16 +0000",
+          "description": ""
+        },
+        {
+          "headline": "5 dogs found poisoned to death in Hong Kong’s New Territories in single week",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3344276/5-dogs-found-poisoned-death-hong-kongs-new-territories-single-week?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 15:49:06 +0000",
+          "description": ""
+        }
+      ],
+      "trade": [
+        {
+          "headline": "Macron announces pick for new budget minister",
+          "url": "https://www.politico.eu/article/emmanuel-macron-france-new-budget-minister-david-amiel/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 18:14:25 +0000",
+          "description": "David Amiel, a 33-year-old close ally of the French president, pledges to roll out the 2026 budget agreed only last month."
+        },
+        {
+          "headline": "Democrats salivate over Trump tariff chaos",
+          "url": "https://www.politico.com/news/2026/02/22/trump-tariffs-midterms-affordability-00792411?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 16:55:41 +0000",
+          "description": "For Democrats, it’s not just the tariff ruling that could open a new messaging avenue — it’s also President Donald Trump’s doubling down."
+        },
+        {
+          "headline": "Macron asks Trump to lift sanctions on former EU tech chief Thierry Breton",
+          "url": "https://www.politico.eu/article/emmanuel-macron-donald-trump-lift-sanctions-thierry-breton/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 14:34:06 +0000",
+          "description": "Sanctions on EU citizens including Frenchman Thierry Breton were \"unjustly imposed\" by Washington, the French president argued."
+        },
+        {
+          "headline": "EU loses patience following Trump’s latest tariff threat",
+          "url": "https://www.politico.eu/article/eu-parliament-delay-trade-vote-donald-trump-tariffs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 13:21:20 +0000",
+          "description": "European Commission demands \"full clarity\" on Washington's plans, as a top EU trade lawmaker calls to delay a key vote on EU-U.S. trade deal."
+        },
+        {
+          "headline": "Trump&#8217;s unlikely hero: Supreme Court Justice Brett Kavanaugh",
+          "url": "https://www.politico.com/news/2026/02/21/trump-brett-kavanaugh-scotus-00792284?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 12:46:18 +0000",
+          "description": "“I am so proud of him,” the president said Friday."
+        },
+        {
+          "headline": "Kyiv condemns ‘blackmail’ by Hungary, Slovakia as energy standoff escalates",
+          "url": "https://www.politico.eu/article/ukraine-condemns-blackmail-hungary-slovakia-energy-standoff/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 11:52:55 +0000",
+          "description": "Budapest and Bratislava have seized on the closure of a key oil pipeline to threaten to cut off electricity supplies to Ukraine."
+        },
+        {
+          "headline": "How the US is moving away from Chinese imports",
+          "url": "https://www.politico.com/news/2026/02/21/electronics-imports-plunged-trump-china-tariffs-00790374?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 09:00:28 +0000",
+          "description": "Chinese goods now comprise less than 10 percent of U.S. imports."
+        },
+        {
+          "headline": "Wer gewinnt Rheinland-Pfalz? Alexander Schweitzer im Gespräch",
+          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/wer-gewinnt-rheinland-pfalz-alexander-schweitzer-im-gesprach/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 09:00:00 +0000",
+          "description": "In der rheinland-pfälzischen Landeshauptstadt Mainz bereitet sich Alexander Schweitzer auf seine erste Bewährungsprobe als gewählter Regierungschef vor. Es ist ein Spiel gegen die Zeit und gegen den B"
+        },
+        {
+          "headline": "Trump says he’s sending hospital ship to Greenland; Denmark says no thank you",
+          "url": "https://www.politico.eu/article/trump-says-hes-sending-hospital-ship-to-greenland/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 07:30:01 +0000",
+          "description": "Danish prime minister extolled the health care system of Denmark and Greenland after Trump dispatched the vessel \"to take care of the many people who are sick, and not being taken care of there.\""
+        },
+        {
+          "headline": "Meloni and Macron postpone their first high-level summit",
+          "url": "https://www.politico.eu/article/meloni-and-macron-postpone-their-first-high-level-summit/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sat, 21 Feb 2026 18:58:02 +0000",
+          "description": "Italy asked France to delay the Toulouse meeting until after the G7 summit in June."
+        }
+      ],
+      "government": [
+        {
+          "headline": "Weekly Trade Focus: APEC",
+          "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Mon, 20 Jul 2009 18:28:39 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Ambassador Greer Issues Statement on Supreme Court IEEPA Decision",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-supreme-court-ieepa-decision",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Fri, 20 Feb 2026 21:56:05 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Ambassador Greer Issues Statement on President Trump Announcing a Trade Deal with Indonesia",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-president-trump-announcing-trade-deal-indonesia",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Thu, 19 Feb 2026 23:42:36 +0000",
+          "description": ""
+        },
+        {
+          "headline": "U.S.-Taiwan Deal Draws Praise from American Farmers, Ranchers, and Industry Leaders",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/us-taiwan-deal-draws-praise-american-farmers-ranchers-and-industry-leaders",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Tue, 17 Feb 2026 17:49:46 +0000",
+          "description": ""
+        },
+        {
+          "headline": "United States and Ecuador ART Negotiations",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/united-states-and-ecuador-art-negotiations",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Fri, 13 Feb 2026 21:24:44 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Public Hearing Regarding the 2026 Special 301 Review",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/public-hearing-regarding-2026-special-301-review",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Fri, 13 Feb 2026 18:02:16 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Ambassador Greer Issues Statement on Framework for Agreement on Reciprocal Trade with North Macedonia",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-framework-agreement-reciprocal-trade-north-macedonia",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Thu, 12 Feb 2026 22:35:56 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Ambassador Greer Oversees Signing of U.S.-Taiwan Agreement on Reciprocal Trade",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-oversees-signing-us-taiwan-agreement-reciprocal-trade",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Thu, 12 Feb 2026 22:29:14 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Fact Sheet: The United States and North Macedonia Reach a Framework for Agreement on Reciprocal Trade",
+          "url": "https://ustr.gov/about/policy-offices/press-office/fact-sheets/2026/february/fact-sheet-united-states-and-north-macedonia-reach-framework-agreement-reciprocal-trade",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Thu, 12 Feb 2026 21:47:27 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Fact Sheet on U.S.-Taiwan Agreement on Reciprocal Trade",
+          "url": "https://ustr.gov/about/policy-offices/press-office/fact-sheets/2026/february/fact-sheet-us-taiwan-agreement-reciprocal-trade",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Thu, 12 Feb 2026 21:39:59 +0000",
+          "description": ""
+        }
+      ]
+    },
+    "byPriority": {
+      "primary": [
+        {
+          "headline": "Dollar Weakens as Uncertainty Over Tariff Persists: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 21:03:47 GMT",
+          "description": "The dollar weakened in early Asia trading as uncertainty lingered after the US Supreme Court struck down President Donald Trump’s sweeping reciprocal tariffs and the leader said he instead plans to im"
+        },
+        {
+          "headline": "US Tells Partners to Honor Tariff Deals as Trump Regroups",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/us-bilateral-trade-deals-are-still-on-track-greer-says",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 14:49:57 GMT",
+          "description": "Senior US officials said President Donald Trump’s tariff defeat at the Supreme Court won’t unravel deals negotiated with US partners as they sought to defend the administration’s assertive trade polic"
+        },
+        {
+          "headline": "Blue Owl Anxiety Rattles the $1.8 Trillion Private Credit Market",
+          "url": "https://www.bloomberg.com/news/features/2026-02-22/blue-owl-redemptions-halt-intensifies-private-credit-fears",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 22:00:02 GMT",
+          "description": "Despite years of solid returns, direct lenders can't shake concerns about the once-niche corner of global finance."
+        },
+        {
+          "headline": "Rolls-Royce Plans £1.5 Billion Stock Buyback, Sky News Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/rolls-royce-plans-a-1-5-billion-stock-buyback-sky-news-says",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 18:45:17 GMT",
+          "description": "Rolls-Royce Holdings PLC is set to announce a share buyback worth as much as £1.5 billion ($2 billion), Sky News reported."
+        },
+        {
+          "headline": "Bond Market Momentum Shifts Bears’ Way as Sell Signals Flash",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/bond-market-momentum-shifts-bears-way-as-sell-signals-flash",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 17:54:22 GMT",
+          "description": "From the Supreme Court’s decision against Donald Trump’s tariffs to the threat of Federal Reserve rate hikes and signs of labor-market resilience, a range of pressures are forcing a sentiment shift in"
+        },
+        {
+          "headline": "Lagarde Says US Tariff Moves Risk Upsetting Equilibrium With EU",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/lagarde-says-us-tariff-moves-risk-upsetting-equilibrium-with-eu",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 17:06:33 GMT",
+          "description": "President Donald Trump’s latest tariff moves risk upsetting the previously negotiated “equilibrium” between the European Union and the US and could pose a new headwind to the economy, European Central"
+        },
+        {
+          "headline": "Germany Is About to Find Out Whether Its Recovery Is Real",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-21/germany-about-to-find-out-whether-its-recovery-is-real",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 21:00:00 GMT",
+          "description": "Data from Germany in the coming days will shed light on whether Europe’s largest economy is on the cusp of a meaningful revival or still being hampered by Donald Trump’s tariffs and its own chronic sh"
+        },
+        {
+          "headline": "Option Pros Trade Index Versus Index to Play Huge Stock Rotation",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/option-pros-trade-index-versus-index-to-play-huge-stock-rotation",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 15:00:00 GMT",
+          "description": "Equity-options investors are looking to relative value trades between markets as opportunities to profit from dispersion strategies become scare."
+        },
+        {
+          "headline": "Hungary to Block EU Sanctions, Loans Over Druzhba Standoff",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/szijjarto-says-hungary-to-block-eu-sanctions-package-on-monday",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 11:55:37 GMT",
+          "description": "Hungary plans to block every European Union decision concerning Ukraine, including a new sanctions package against Russia and key loans, until oil starts flowing again through the Druzhba pipeline in "
+        },
+        {
+          "headline": "Global Cash Is Fueling a Historic Start for Latin America Stocks",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-22/global-cash-fuels-record-start-of-year-for-latin-america-stocks",
+          "source": "Bloomberg Markets",
+          "sourceId": "bloomberg_markets",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 13:30:00 GMT",
+          "description": "Global investors are piling into Latin American stocks at the fastest clip in a decade, sending markets across the region to multi-year highs."
+        }
+      ],
+      "secondary": [
+        {
+          "headline": "The uncertainties facing businesses and consumers after Trump's tariff changes",
+          "url": "https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 16:55:58 GMT",
+          "description": "Businesses say questions remain after US President Donald Trump announced he will impose global tariffs of 15%."
+        },
+        {
+          "headline": "'It is a catastrophe' - the man battling to stem rising youth unemployment",
+          "url": "https://www.bbc.com/news/articles/cy7jxv7p2mxo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 03:37:08 GMT",
+          "description": "Alan Milburn returns to his hometown of Newcastle as he undertakes a review into the growing numbers of young people out of work."
+        },
+        {
+          "headline": "Trump says he will increase his new global tariffs to 15%",
+          "url": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 08:08:24 GMT",
+          "description": "After most of his tariffs were outlawed on Friday, Trump announced new global tariffs of 10% - which he says he has now increased to 15%."
+        },
+        {
+          "headline": "Is £70 becoming harder to justify? The rise of cheaper blockbuster games",
+          "url": "https://www.bbc.com/news/articles/ckg1nwwv1xyo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sat, 21 Feb 2026 01:30:31 GMT",
+          "description": "As top games such as GTA 6 are speculated to cost $100 (£74), some developers are deliberately pricing lower."
+        },
+        {
+          "headline": "Trump tariffs ripped up global trade order. What now?",
+          "url": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Fri, 20 Feb 2026 16:25:34 GMT",
+          "description": "If you think the Supreme Court ruling heralds a return to pre-Trump business as usual - think again."
+        },
+        {
+          "headline": "MPs to discuss inquiry into trade envoy role after Andrew arrest",
+          "url": "https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 06:00:54 GMT",
+          "description": "A cross-party committee will also look into the appointment and accountability of UK trade envoys."
+        },
+        {
+          "headline": "KFC, Nando's, and others ditch chicken welfare pledge",
+          "url": "https://www.bbc.com/news/articles/cm2r6jqm042o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Fri, 20 Feb 2026 16:17:53 GMT",
+          "description": "Wingstop, Burger King, and others have walked away from an industry commitment to avoid using fast-growing chickens"
+        },
+        {
+          "headline": "Higher tax helped UK government reach record January surplus",
+          "url": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Fri, 20 Feb 2026 12:13:35 GMT",
+          "description": "The government took in more from tax receipts than expected, official data suggests."
+        },
+        {
+          "headline": "Lobbying firm co-founded by Mandelson goes into administration",
+          "url": "https://www.bbc.com/news/articles/cjd9zx7zne2o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Fri, 20 Feb 2026 13:25:43 GMT",
+          "description": "Global Counsel's clients cut ties with the firm over Lord Mandelson's links with sex offender Jeffrey Epstein."
+        },
+        {
+          "headline": "UK agrees drone defence plan with four EU allies",
+          "url": "https://www.bbc.com/news/articles/c875jj3y475o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Fri, 20 Feb 2026 17:35:35 GMT",
+          "description": "The scheme will seek to take inspiration from Ukraine's drone manufacturing programme."
+        },
+        {
+          "headline": "Zelensky tells BBC Putin has started WW3 and must be stopped",
+          "url": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 22:00:47 GMT",
+          "description": "Ukraine's president sat down with the BBC's Jeremy Bowen in Kyiv days before the four-year anniversary of the war."
+        },
+        {
+          "headline": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
+          "url": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 23:19:30 GMT",
+          "description": "Nemesio Oseguera Cervantes, known as \"El Mencho\", headed one of Mexico's most powerful drug cartels."
+        },
+        {
+          "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+          "url": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 22:08:03 GMT",
+          "description": "The suspect was carrying a shotgun and fuel can when he was killed, officers said. Trump was in Washington DC at the time."
+        },
+        {
+          "headline": "Pakistan launches deadly strikes on Afghanistan",
+          "url": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 11:33:11 GMT",
+          "description": "Pakistan says the strikes were retaliation for recent suicide bombings in the country."
+        },
+        {
+          "headline": "Bones of St Francis of Assisi go on public display in Italy",
+          "url": "https://www.bbc.com/news/articles/cz7glr9dpy8o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 17:49:01 GMT",
+          "description": "The remains of Italy's patron saint have only been seen in public once before - for one day in 1978."
+        },
+        {
+          "headline": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
+          "url": "https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 18:18:41 GMT",
+          "description": "US envoy Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major American military build-up nearby."
+        },
+        {
+          "headline": "Greenland says 'no thanks' to Trump US hospital boat",
+          "url": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 17:27:16 GMT",
+          "description": "Greenland's PM reminded Trump of its free healthcare, after Trump said he was sending a boat to aid people who were allegedly \"not being taken care of\"."
+        },
+        {
+          "headline": "US ambassador's Israel comments condemned by Arab and Muslim nations",
+          "url": "https://www.bbc.com/news/articles/cn5gkkgdzkyo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 11:23:20 GMT",
+          "description": "Mike Huckabee suggested Israel would be justified in taking much of the Middle East on Biblical grounds."
+        },
+        {
+          "headline": "Explosions kill police officer and injure 25 in western Ukraine",
+          "url": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 14:19:02 GMT",
+          "description": "Twenty-five people were injured by explosions overnight in what officials are calling a terror attack."
+        },
+        {
+          "headline": "More than 1,500 Venezuelan political prisoners apply for amnesty",
+          "url": "https://www.bbc.com/news/articles/c93w9g2dvn5o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 05:04:57 GMT",
+          "description": "The announcement by the head of Venezuela's National Assembly comes amid US pressure following the capture of ex-President Nicolás Maduro."
+        },
+        {
+          "headline": "Iran agreed secret US$589 million deal with Russia for shoulder-fired missiles: reports",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3344283/iran-agreed-secret-us589-million-deal-russia-shoulder-fired-missiles-reports?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 22:57:45 +0000",
+          "description": ""
+        },
+        {
+          "headline": "One Battle After Another wins 6 prizes including best picture at UK Baftas",
+          "url": "https://www.scmp.com/culture/film-tv/article/3344282/one-battle-after-another-wins-6-prizes-including-best-picture-uk-baftas?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 22:02:46 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Trump’s neo‑royalist world order and ‘weaponised interdependence’: Abraham Newman",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3344243/trumps-neo-royalist-world-order-and-weaponised-interdependence-abraham-newman?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 22:00:15 +0000",
+          "description": "Abraham Newman is an American political scientist and a professor in the School of Foreign Service and Department of Government at Georgetown University. His research focuses on the ways in which econ"
+        },
+        {
+          "headline": "Hong Kong’s budget must help those who need it most",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3344158/hong-kongs-budget-must-help-those-who-need-it-most?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 21:30:08 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Police officer killed, 24 people wounded in bomb explosions in Ukraine’s Lviv",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3344281/police-officer-killed-24-people-wounded-bomb-explosions-ukraines-lviv?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 21:00:07 +0000",
+          "description": ""
+        },
+        {
+          "headline": "New York Mayor Mamdani orders citywide travel ban ahead of major US storm",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3344280/new-york-mayor-mamdani-orders-citywide-travel-ban-ahead-major-us-storm?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 19:51:35 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Mexican army kills leader of Jalisco New Generation Cartel, official says",
+          "url": "https://www.scmp.com/news/world/americas/article/3344279/mexican-army-kills-leader-jalisco-new-generation-cartel-official-says?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 18:43:54 +0000",
+          "description": ""
+        },
+        {
+          "headline": "France will summon US envoy Charles Kushner over comments on activist’s death",
+          "url": "https://www.scmp.com/news/world/europe/article/3344278/france-will-summon-us-envoy-charles-kushner-over-comments-activists-death?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 17:47:48 +0000",
+          "description": ""
+        },
+        {
+          "headline": "UK protection officers instructed to guard 2010 Epstein dinner party, reports say",
+          "url": "https://www.scmp.com/news/world/europe/article/3344277/uk-protection-officers-instructed-guard-2010-epstein-dinner-party-reports-say?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 17:12:16 +0000",
+          "description": ""
+        },
+        {
+          "headline": "5 dogs found poisoned to death in Hong Kong’s New Territories in single week",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3344276/5-dogs-found-poisoned-death-hong-kongs-new-territories-single-week?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "sourceId": "scmp",
+          "category": "regional",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 15:49:06 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Macron announces pick for new budget minister",
+          "url": "https://www.politico.eu/article/emmanuel-macron-france-new-budget-minister-david-amiel/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 18:14:25 +0000",
+          "description": "David Amiel, a 33-year-old close ally of the French president, pledges to roll out the 2026 budget agreed only last month."
+        },
+        {
+          "headline": "Democrats salivate over Trump tariff chaos",
+          "url": "https://www.politico.com/news/2026/02/22/trump-tariffs-midterms-affordability-00792411?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 16:55:41 +0000",
+          "description": "For Democrats, it’s not just the tariff ruling that could open a new messaging avenue — it’s also President Donald Trump’s doubling down."
+        },
+        {
+          "headline": "Macron asks Trump to lift sanctions on former EU tech chief Thierry Breton",
+          "url": "https://www.politico.eu/article/emmanuel-macron-donald-trump-lift-sanctions-thierry-breton/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 14:34:06 +0000",
+          "description": "Sanctions on EU citizens including Frenchman Thierry Breton were \"unjustly imposed\" by Washington, the French president argued."
+        },
+        {
+          "headline": "EU loses patience following Trump’s latest tariff threat",
+          "url": "https://www.politico.eu/article/eu-parliament-delay-trade-vote-donald-trump-tariffs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 13:21:20 +0000",
+          "description": "European Commission demands \"full clarity\" on Washington's plans, as a top EU trade lawmaker calls to delay a key vote on EU-U.S. trade deal."
+        },
+        {
+          "headline": "Trump&#8217;s unlikely hero: Supreme Court Justice Brett Kavanaugh",
+          "url": "https://www.politico.com/news/2026/02/21/trump-brett-kavanaugh-scotus-00792284?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 12:46:18 +0000",
+          "description": "“I am so proud of him,” the president said Friday."
+        },
+        {
+          "headline": "Kyiv condemns ‘blackmail’ by Hungary, Slovakia as energy standoff escalates",
+          "url": "https://www.politico.eu/article/ukraine-condemns-blackmail-hungary-slovakia-energy-standoff/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 11:52:55 +0000",
+          "description": "Budapest and Bratislava have seized on the closure of a key oil pipeline to threaten to cut off electricity supplies to Ukraine."
+        },
+        {
+          "headline": "How the US is moving away from Chinese imports",
+          "url": "https://www.politico.com/news/2026/02/21/electronics-imports-plunged-trump-china-tariffs-00790374?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 09:00:28 +0000",
+          "description": "Chinese goods now comprise less than 10 percent of U.S. imports."
+        },
+        {
+          "headline": "Wer gewinnt Rheinland-Pfalz? Alexander Schweitzer im Gespräch",
+          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/wer-gewinnt-rheinland-pfalz-alexander-schweitzer-im-gesprach/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 09:00:00 +0000",
+          "description": "In der rheinland-pfälzischen Landeshauptstadt Mainz bereitet sich Alexander Schweitzer auf seine erste Bewährungsprobe als gewählter Regierungschef vor. Es ist ein Spiel gegen die Zeit und gegen den B"
+        },
+        {
+          "headline": "Trump says he’s sending hospital ship to Greenland; Denmark says no thank you",
+          "url": "https://www.politico.eu/article/trump-says-hes-sending-hospital-ship-to-greenland/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 07:30:01 +0000",
+          "description": "Danish prime minister extolled the health care system of Denmark and Greenland after Trump dispatched the vessel \"to take care of the many people who are sick, and not being taken care of there.\""
+        },
+        {
+          "headline": "Meloni and Macron postpone their first high-level summit",
+          "url": "https://www.politico.eu/article/meloni-and-macron-postpone-their-first-high-level-summit/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Sat, 21 Feb 2026 18:58:02 +0000",
+          "description": "Italy asked France to delay the Toulouse meeting until after the G7 summit in June."
+        }
+      ],
+      "tertiary": [
+        {
+          "headline": "Here Are the Countries and Products Subject to Tariffs Now - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjg2dnFmWVhreXFuam9oQ3dmbnJIM1NrS2VaSkYwbnBZR0I4cjRXODItSHBEX2xmaVI3VmhMNXZfSWVWaDNtOHhHNVZxbjVidWFYYXVvNXZ6UDg3WVQ0N283V1lDdXJiZjFMNDZYdi1pTlIzX2NZS21CQWtaSHJ1a0JzcVh4dGJfamdn?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 15:55:57 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjg2dnFmWVhreXFuam9oQ3dmbnJIM1NrS2VaSkYwbnBZR0I4cjRXODItSHBEX2xmaVI3VmhMNXZfSWVWaDNtOHhHNVZxbjVidWFYYXVvNXZ6UDg3WVQ0N283V1lDdXJiZjFMNDZ"
+        },
+        {
+          "headline": "US tariff policy ‘hasn’t changed’ despite supreme court ruling, trade chief says - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSkdNX1VTSW16eDdOaHY1TWdpa1A3OXExaVBPdE9laEw0MEJwbzJab0dyM25TODdzNnozXzBOT29NaU90eVFWdUJvWmZ0RkdBZGl6OVlqMElIRHdkdWE1RktURmZGSzkxUlljWUQyY2h5TE5QT3c4ODRFUElWd28?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 21:39:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSkdNX1VTSW16eDdOaHY1TWdpa1A3OXExaVBPdE9laEw0MEJwbzJab0dyM25TODdzNnozXzBOT29NaU90eVFWdUJvWmZ0RkdBZGl6OVlqMElIRHdkdWE1RktURmZGSzkxUlljWUQ"
+        },
+        {
+          "headline": "US trade representative says GOP lawmakers who weren’t always in favor of tariffs have ‘now come around’ - The Hill",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmlmb0Y2QkFXM1MyRWhMa1N3aTUzX3ZuTGp4LXBsbW1wRWN0SHEwaURMOVF2U1U5TFhSZ3lJeURRLUdSLWNpV0hBeUlNVnkyb2dwdDN4VEVzV2Jjenl0LVRIaXBQWDhaQnRud2t1RmR1SW1iQjhrNDVNYTZNRlp0WA?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 20:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmlmb0Y2QkFXM1MyRWhMa1N3aTUzX3ZuTGp4LXBsbW1wRWN0SHEwaURMOVF2U1U5TFhSZ3lJeURRLUdSLWNpV0hBeUlNVnkyb2dwdDN4VEVzV2Jjenl0LVRIaXBQWDhaQnRud2t"
+        },
+        {
+          "headline": "US Tells Partners to Honor Tariff Deals as Trump Recalibrates - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWRLZHUzQW5QYXpEdEFwX0dCZ01oVWpVZGFYTHQwYXFQMko1WERHQzNaMVZ5Rmd1Y2VTdXVERkgyQXV0eGk?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 22:36:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWR"
+        },
+        {
+          "headline": "CommSec’s James Gruber says US President Donald Trump “reacted angrily” to the Supreme Court’s decision to rule against his tariffs, vowing to impose a 10 per cent global levy. - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNblBqa0hCQVFUc3B5bDdFU3h4d3BEejQzUXh0ZVpMYkpzTDlWWkxYcUhXcUd2eVFQYzF6V2NrNHFHaFhuRzc2X3Z4N21WZ3NMNzZXVnU1LU5HTkNEMGdFc1p3SFFKelQyTC1odU9aVGFSaHloUVRNeWRlQ3J6TG4xSUFlV0VtWWFiNF9tdzFTQmtmT2U2SjktMU95SHA1X0NNc25BelhUWi1mUDFqMkJuWFF3cUZYQmFWX1BTckhSaXNzcU9wdy1vbEpibWYwZXV2dV9mWXVvX1cyM0tvU2xJ?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 22:26:05 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNblBqa0hCQVFUc3B5bDdFU3h4d3BEejQzUXh0ZVpMYkpzTDlWWkxYcUhXcUd2eVFQYzF6V2NrNHFHaFhuRzc2X3Z4N21WZ3NMNzZXVnU1LU5HTkNEMGdFc1p3SFFKelQyTC1odU9"
+        },
+        {
+          "headline": "European Commission demands US clarity on trade policy after tariff ruling - Букви",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNllSeHJIS1l6OXplN2s2ckVnMXcwV3RzV1gyd0U2V2VkVlFqOGZ5RVZxREZXUTN3WENFdDByaldiWDZodHN2dE5GNF95dmZGTWdNWG9BMmZKVk1qM3VaaV9pYjIwa1RvUVQ4V3pobTdnd3N3SWFPcUxfbUJpbVlnSGNvQnl6aDFIVHVPV2FwSnBZdjhjbmFBWkREVDY5SmwtSU9YcW1B0gGrAUFVX3lxTE82LVY3MkpnMmtHTU9OQkgzQU56ZzcxNU10dFN3VG5iYTBYTnB1cTVsamRnbXdxOTA3MWM1OEc4UF9YeVZnSE42OHVzT0dtSEtOOWh4V0dVT0RRT1UyVXZjZTNUWFBhZGkwSGN0RkJvbF92SmEtRVlVYXlaZENkVS1zVkRSdHZveVdwaEFpX3hXWjBMblpfbFp5U2RJZ2NUVjR6RTE5cUg0a0RYUQ?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 21:46:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNllSeHJIS1l6OXplN2s2ckVnMXcwV3RzV1gyd0U2V2VkVlFqOGZ5RVZxREZXUTN3WENFdDByaldiWDZodHN2dE5GNF95dmZGTWdNWG9BMmZKVk1qM3VaaV9pYjIwa1RvUVQ4V3p"
+        },
+        {
+          "headline": "Uncertainty abounds for countries after US tariff ruling - Semafor",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS201bWRMb0NaenNyYzB1U05pNXlwNTc1THNZc2JBNXoxOHJvX0dFZFI0aXdubk05Um9HRHF3RkJzaVFXOXNGWlIwRTV6eUdEcHFSZ2V3dHo3d3FydDJLNW94ZjBoYVNQV0RuR0dHYm5MalpnTjJiRG4tcmxGZXBUZmxlbXl6ZWFxeV9YbEFR?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 22:33:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPS201bWRMb0NaenNyYzB1U05pNXlwNTc1THNZc2JBNXoxOHJvX0dFZFI0aXdubk05Um9HRHF3RkJzaVFXOXNGWlIwRTV6eUdEcHFSZ2V3dHo3d3FydDJLNW94ZjBoYVNQV0RuR0d"
+        },
+        {
+          "headline": "Trump announces increase of new global tariffs from 10% to 15% - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTGNjazgzbFFMOGJoYkxoMHZGc0txYW00YjdrX1l5WnBZd3Y5SFJFcFVyN0pRRWd0OExVV0NXbXkwQUhfRFRVMVJDemFtalF3SXJubkhsOTRYUQ?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 08:08:24 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTGNjazgzbFFMOGJoYkxoMHZGc0txYW00YjdrX1l5WnBZd3Y5SFJFcFVyN0pRRWd0OExVV0NXbXkwQUhfRFRVMVJDemFtalF3SXJubkhsOTRYUQ?oc=5\" target=\"_blank\"&gt"
+        },
+        {
+          "headline": "Tariff Policy by the Numbers - Paul Krugman | Substack",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VUEx0VWRtbFB4ZkdsN2V2VWJZWkNrTkY4NU5JVG95SU10aWZkZlNodXkwdzc3T3VXQktPLW9TbTI0M3Azc3VxSnJxQWJiZDYtV3hJNXJ5RWkxSGlCdy13QnpMNU45aDVmQnVzLU5JSzQ?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 11:30:33 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1VUEx0VWRtbFB4ZkdsN2V2VWJZWkNrTkY4NU5JVG95SU10aWZkZlNodXkwdzc3T3VXQktPLW9TbTI0M3Azc3VxSnJxQWJiZDYtV3hJNXJ5RWkxSGlCdy13QnpMNU45aDVmQnVzLU5"
+        },
+        {
+          "headline": "Tariff Turmoil and Wallet Worries: How the Supreme Court’s Ruling on Trump’s Duties Could Reshape U.S. Prices and Trade - abacusnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS1lzWXBhb3ZPcUo1OXRTTHRtOGQxR2tzcTJlTWFGOEEyMVV1a2xXeGZUYVBRbW9XQ2twQXRpV1lVSzBaeVh2Ukl6eFFLZ0RQU29KbWwxSS1QTjhJR0tiMHMyZ3VHelZsYnZ3ZDh4UHVHQXREenVIZDdMTS1VVWdoN1ltekxfYzRNZnZ2N21aWDEtNWlXOVlPX05IU0ZzODhidWFOM0hDUVZwZkowVW5ONXVMUWhoVWJZYnppSVk3NWtFRlVMVHM0bm84TlpXalpocXV6NkYydmR0VDQ?oc=5",
+          "source": "Google News (Tariffs)",
+          "sourceId": "google_tariffs",
+          "category": "general",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 17:54:41 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS1lzWXBhb3ZPcUo1OXRTTHRtOGQxR2tzcTJlTWFGOEEyMVV1a2xXeGZUYVBRbW9XQ2twQXRpV1lVSzBaeVh2Ukl6eFFLZ0RQU29KbWwxSS1QTjhJR0tiMHMyZ3VHelZsYnZ3ZDh"
+        }
+      ],
+      "reference": [
+        {
+          "headline": "Weekly Trade Focus: APEC",
+          "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Mon, 20 Jul 2009 18:28:39 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Ambassador Greer Issues Statement on Supreme Court IEEPA Decision",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-supreme-court-ieepa-decision",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Fri, 20 Feb 2026 21:56:05 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Ambassador Greer Issues Statement on President Trump Announcing a Trade Deal with Indonesia",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-president-trump-announcing-trade-deal-indonesia",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Thu, 19 Feb 2026 23:42:36 +0000",
+          "description": ""
+        },
+        {
+          "headline": "U.S.-Taiwan Deal Draws Praise from American Farmers, Ranchers, and Industry Leaders",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/us-taiwan-deal-draws-praise-american-farmers-ranchers-and-industry-leaders",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Tue, 17 Feb 2026 17:49:46 +0000",
+          "description": ""
+        },
+        {
+          "headline": "United States and Ecuador ART Negotiations",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/united-states-and-ecuador-art-negotiations",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Fri, 13 Feb 2026 21:24:44 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Public Hearing Regarding the 2026 Special 301 Review",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/public-hearing-regarding-2026-special-301-review",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Fri, 13 Feb 2026 18:02:16 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Ambassador Greer Issues Statement on Framework for Agreement on Reciprocal Trade with North Macedonia",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-framework-agreement-reciprocal-trade-north-macedonia",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Thu, 12 Feb 2026 22:35:56 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Ambassador Greer Oversees Signing of U.S.-Taiwan Agreement on Reciprocal Trade",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-oversees-signing-us-taiwan-agreement-reciprocal-trade",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Thu, 12 Feb 2026 22:29:14 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Fact Sheet: The United States and North Macedonia Reach a Framework for Agreement on Reciprocal Trade",
+          "url": "https://ustr.gov/about/policy-offices/press-office/fact-sheets/2026/february/fact-sheet-united-states-and-north-macedonia-reach-framework-agreement-reciprocal-trade",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Thu, 12 Feb 2026 21:47:27 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Fact Sheet on U.S.-Taiwan Agreement on Reciprocal Trade",
+          "url": "https://ustr.gov/about/policy-offices/press-office/fact-sheets/2026/february/fact-sheet-us-taiwan-agreement-reciprocal-trade",
+          "source": "US Trade Representative",
+          "sourceId": "ustr",
+          "category": "government",
+          "priority": "reference",
+          "date": "Thu, 12 Feb 2026 21:39:59 +0000",
+          "description": ""
+        }
+      ]
+    }
+  },
+  "screenshots": [
+    {
+      "id": "wsj",
+      "name": "Wall Street Journal",
+      "url": "https://www.wsj.com",
+      "filename": "wsj.png",
+      "category": "business",
+      "priority": "primary",
+      "language": "en"
+    },
+    {
+      "id": "ft_homepage",
+      "name": "Financial Times",
+      "url": "https://www.ft.com",
+      "filename": "ft_homepage.png",
+      "category": "trade",
+      "priority": "primary",
+      "language": "en"
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "url": "https://www.reuters.com",
+      "filename": "reuters.png",
+      "category": "wire",
+      "priority": "primary",
+      "language": "en"
+    }
+  ],
+  "feedHealth": {
+    "failed": [
+      {
+        "name": "Financial Times (Trade)",
+        "error": "Invalid URL"
+      }
+    ]
+  }
+}
