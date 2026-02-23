@@ -1,34 +1,29 @@
-The Supreme Court [struck down](https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap) President Trump's sweeping reciprocal tariffs on Friday, forcing the administration to pivot to new global tariffs. Trump quickly announced [10% global tariffs](https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss), which he has now increased to 15% across all imports. The [dollar weakened](https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap) in Asian trading as uncertainty lingers over the administration's next moves.
+A landmark week in global trade policy began with the US Supreme Court striking down President Trump's emergency tariffs, sending ripples across multiple trade relationships. The [court ruling](https://www.bloomberg.com/news/articles/2026-02-23/india-gains-leverage-in-us-trade-talks-after-court-verdict) has given India more leverage in bilateral trade negotiations, while prompting the EU to hit pause on its own trade deal ratification process with Washington.
 
-Senior US officials are scrambling to reassure trading partners that existing bilateral agreements remain intact despite the tariff setback. Trade representative Katherine Greer told partners to [honor deals](https://www.bloomberg.com/news/articles/2026-02-22/us-bilateral-trade-deals-are-still-on-track-greer-says) already negotiated with the US as the administration defends its assertive trade policy. European Central Bank President Christine Lagarde warned that Trump's latest [tariff moves](https://www.bloomberg.com/news/articles/2026-02-22/lagarde-says-us-tariff-moves-risk-upsetting-equilibrium-with-eu) risk upsetting the previously negotiated equilibrium between the EU and US, potentially creating new economic headwinds for Europe.
+Trump quickly responded by announcing new [15% global tariffs](https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss) to replace the struck-down emergency measures. The European Union is now [freezing approval](https://www.bloomberg.com/news/videos/2026-02-23/eu-set-to-freeze-us-trade-deal-approval-over-tariff-risk-video) of its US trade deal as officials await details on Trump's revised tariff program. The uncertainty has boosted [gold prices](https://www.bloomberg.com/news/articles/2026-02-22/gold-rises-as-trump-s-tariff-knockback-generates-uncertainty) and weakened the dollar as markets grapple with the shifting trade landscape.
 
-## Tariff Actions & Retaliation
+**Tariff Actions & Retaliation**
 
-• Trump announced [15% global tariffs](https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss) on all imports after the Supreme Court blocked his reciprocal tariff system, up from an initially announced 10% rate.
+• **US announces 15% global tariffs:** Trump [raised rates](https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss) from his initially proposed 10% following Supreme Court rejection of emergency measures
 
-• The Supreme Court [struck down](https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap) Trump's sweeping reciprocal tariffs under the International Emergency Economic Powers Act.
+• **Supreme Court blocks emergency tariffs:** High court [struck down](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-supreme-court-ieepa-decision) Trump's use of International Emergency Economic Powers Act for trade measures
 
-• US imports from China now comprise [less than 10%](https://www.politico.com/news/2026/02/21/electronics-imports-plunged-trump-china-tariffs-00790374?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication) of total US imports, down from previous levels due to existing tariff policies.
+**Trade Negotiations & Diplomacy**
 
-• The EU Parliament is considering delaying a key [trade vote](https://www.politico.eu/article/eu-parliament-delay-trade-vote-donald-trump-tariffs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication) with the US following Trump's latest tariff threats.
+• **EU freezes US trade deal:** Brussels [halts ratification](https://www.bloomberg.com/news/videos/2026-02-23/eu-set-to-freeze-us-trade-deal-approval-over-tariff-risk-video) of trade agreement pending clarity on Trump tariff program
 
-## Trade Negotiations & Diplomacy
+• **India gains negotiating leverage:** New Delhi sees [more options](https://www.bloomberg.com/news/articles/2026-02-23/india-gains-leverage-in-us-trade-talks-after-court-verdict) in bilateral trade talks following court ruling against emergency tariffs
 
-• The US Trade Representative issued statements defending [bilateral deals](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-supreme-court-ieepa-decision) with partners including recent agreements with Indonesia and Taiwan.
+• **US-Taiwan deal wins industry support:** American farmers and ranchers [praise agreement](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/us-taiwan-deal-draws-praise-american-farmers-ranchers-and-industry-leaders) while US pursues Ecuador trade negotiations
 
-• French President Macron asked Trump to [lift sanctions](https://www.politico.eu/article/emmanuel-macron-donald-trump-lift-sanctions-thierry-breton/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication) on former EU tech chief Thierry Breton and other European officials.
+**Market & Economic Impact**
 
-## Market & Economic Impact
+• **Gold rises on trade uncertainty:** Precious metal [climbed](https://www.bloomberg.com/news/articles/2026-02-22/gold-rises-as-trump-s-tariff-knockback-generates-uncertainty) after three weekly gains as tariff policy doubts hurt dollar
 
-• The dollar [weakened broadly](https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap) in Asian trading as traders grappled with uncertainty over Trump's tariff plans following the Supreme Court ruling.
+• **Business concerns mount:** Companies report [ongoing uncertainties](https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&at_campaign=rss) about Trump's 15% global tariff implementation and timing
 
-• Bond markets are showing [bearish momentum](https://www.bloomberg.com/news/articles/2026-02-22/bond-market-momentum-shifts-bears-way-as-sell-signals-flash) with the Supreme Court tariff decision among factors pressuring sentiment shifts.
+**Sources**
 
-• Businesses report continued [uncertainty](https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&at_campaign=rss) about compliance and planning following Trump's announcement of new 15% global tariffs.
-
-## Sources
-
-• [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap)
+• [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-02-23/india-gains-leverage-in-us-trade-talks-after-court-verdict)
 • [BBC Business](https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss)
-• [Politico EU](https://www.politico.eu/article/eu-parliament-delay-trade-vote-donald-trump-tariffs/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication)
 • [US Trade Representative](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-supreme-court-ieepa-decision)
