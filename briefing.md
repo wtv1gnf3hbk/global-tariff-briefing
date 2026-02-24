@@ -1,29 +1,30 @@
-A landmark week in global trade policy began with the US Supreme Court striking down President Trump's emergency tariffs, sending ripples across multiple trade relationships. The [court ruling](https://www.bloomberg.com/news/articles/2026-02-23/india-gains-leverage-in-us-trade-talks-after-court-verdict) has given India more leverage in bilateral trade negotiations, while prompting the EU to hit pause on its own trade deal ratification process with Washington.
+The Supreme Court has struck down President Trump's tariff program, creating a significant shift in US trade policy. The [Court ruled](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-supreme-court-ieepa-decision) that Trump overstepped his authority under the International Emergency Economic Powers Act when imposing the levies. This opens the door for companies like [FedEx to seek](https://www.bbc.com/news/articles/cly83r1njjro?at_medium=RSS&at_campaign=rss) tariff refunds, while BNY strategists say the Treasury will likely [issue more T-bills](https://www.bloomberg.com/news/articles/2026-02-24/us-can-sell-more-t-bills-to-offset-lost-tariff-revenue-bny-says) to offset lost tariff revenue.
 
-Trump quickly responded by announcing new [15% global tariffs](https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss) to replace the struck-down emergency measures. The European Union is now [freezing approval](https://www.bloomberg.com/news/videos/2026-02-23/eu-set-to-freeze-us-trade-deal-approval-over-tariff-risk-video) of its US trade deal as officials await details on Trump's revised tariff program. The uncertainty has boosted [gold prices](https://www.bloomberg.com/news/articles/2026-02-22/gold-rises-as-trump-s-tariff-knockback-generates-uncertainty) and weakened the dollar as markets grapple with the shifting trade landscape.
+Despite the legal setback, Trump has implemented a new [global 10% tariff](https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&at_campaign=rss) that applies to most countries, including the EU and UK. This rate is lower than the 15% Trump had threatened over the weekend. The move [spares European exporters](https://www.politico.eu/article/trump-spares-eu-uk-higher-global-tariff-rates-trade-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication) from higher rates for now, though UK officials warn Britain could be among the worst hit by the new levies.
 
 **Tariff Actions & Retaliation**
 
-• **US announces 15% global tariffs:** Trump [raised rates](https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss) from his initially proposed 10% following Supreme Court rejection of emergency measures
+• Trump imposed a [10% global tariff](https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&at_campaign=rss) on most countries, effective immediately, lower than the previously threatened 15% rate
 
-• **Supreme Court blocks emergency tariffs:** High court [struck down](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-supreme-court-ieepa-decision) Trump's use of International Emergency Economic Powers Act for trade measures
+• The UK announced its [largest sanctions package](https://www.politico.eu/article/uk-announce-sanctions-package-russia-ukraine-war/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication) against Russia since the invasion began, targeting the country's war economy on the fourth anniversary of the conflict
+
+• EU and UK exporters were [spared higher rates](https://www.politico.eu/article/trump-spares-eu-uk-higher-global-tariff-rates-trade-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication) under the new global tariff, maintaining the 10% level rather than facing steeper penalties
 
 **Trade Negotiations & Diplomacy**
 
-• **EU freezes US trade deal:** Brussels [halts ratification](https://www.bloomberg.com/news/videos/2026-02-23/eu-set-to-freeze-us-trade-deal-approval-over-tariff-risk-video) of trade agreement pending clarity on Trump tariff program
+• US Trade Representative praised new [trade deals with Indonesia](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/us-indonesia-deal-draws-praise-american-farmers-and-industry-leaders) and [Taiwan](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/us-taiwan-deal-draws-praise-american-farmers-ranchers-and-industry-leaders) that drew support from American farmers and industry groups
 
-• **India gains negotiating leverage:** New Delhi sees [more options](https://www.bloomberg.com/news/articles/2026-02-23/india-gains-leverage-in-us-trade-talks-after-court-verdict) in bilateral trade talks following court ruling against emergency tariffs
-
-• **US-Taiwan deal wins industry support:** American farmers and ranchers [praise agreement](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/us-taiwan-deal-draws-praise-american-farmers-ranchers-and-industry-leaders) while US pursues Ecuador trade negotiations
+• France blocked US Ambassador Charles Kushner from [meeting government officials](https://www.politico.eu/article/france-fm-jean-barrot-says-us-charles-kushner-ambassador-summons-no-show-will-impact-role/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication) after he failed to attend a diplomatic summons, with Paris saying this will affect his role
 
 **Market & Economic Impact**
 
-• **Gold rises on trade uncertainty:** Precious metal [climbed](https://www.bloomberg.com/news/articles/2026-02-22/gold-rises-as-trump-s-tariff-knockback-generates-uncertainty) after three weekly gains as tariff policy doubts hurt dollar
+• The Treasury is expected to [issue additional T-bills](https://www.bloomberg.com/news/articles/2026-02-24/us-can-sell-more-t-bills-to-offset-lost-tariff-revenue-bny-says) to compensate for lost tariff revenue following the Supreme Court ruling that overturned Trump's original tariff program
 
-• **Business concerns mount:** Companies report [ongoing uncertainties](https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&at_campaign=rss) about Trump's 15% global tariff implementation and timing
+• Companies affected by the overturned tariffs can now seek refunds, with [FedEx filing suit](https://www.bbc.com/news/articles/cly83r1njjro?at_medium=RSS&at_campaign=rss) to recover payments made under the now-invalidated program
 
 **Sources**
 
-• [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-02-23/india-gains-leverage-in-us-trade-talks-after-court-verdict)
-• [BBC Business](https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss)
+• [BBC Business](https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&at_campaign=rss)
+• [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-02-24/us-can-sell-more-t-bills-to-offset-lost-tariff-revenue-bny-says)
+• [Politico EU](https://www.politico.eu/article/trump-spares-eu-uk-higher-global-tariff-rates-trade-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication)
 • [US Trade Representative](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-supreme-court-ieepa-decision)
