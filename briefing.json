@@ -6,167 +6,167 @@
     "audience": "NYT colleagues tracking tariffs and trade policy globally",
     "timezone": "America/New_York",
     "created": "2026-02-22",
-    "generated": "2026-02-24T11:33:54.183Z",
-    "generatedTimestamp": 1771932834183
+    "generated": "2026-02-25T11:33:49.058Z",
+    "generatedTimestamp": 1772019229058
   },
   "stats": {
     "sourceCount": 15,
     "successCount": 14,
     "totalStories": 70,
     "totalScreenshots": 3,
-    "elapsed": "16.8s"
+    "elapsed": "16.2s"
   },
   "stories": {
     "all": [
       {
-        "headline": "Indian IT Stocks Slide to 30-Month Low as Citrini Flags AI Risks",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-24/indian-it-stock-selloff-deepens-on-ai-scare-after-citrini-report",
+        "headline": "Bitcoin Holders Sitting on Losses Are Selling Into Every Bounce",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-02-25/bitcoin-holders-sitting-on-losses-are-selling-into-every-bounce",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Tue, 24 Feb 2026 04:58:07 GMT",
-        "description": "A rout in Indian software services stocks deepened, tracking a US tech selloff, after a report from Citrini Research amplified concerns about companies vulnerable to the growing influence of artificia"
+        "date": "Wed, 25 Feb 2026 11:15:37 GMT",
+        "description": "About 45% of all of Bitcoin in circulation are currently valued at below what the owner paid."
       },
       {
-        "headline": "Arini’s Lemssouguer Says AI Fear Risks Software Defaults",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-24/arini-s-lemssouguer-says-ai-fear-alone-risks-software-defaults",
+        "headline": "Bond Traders Are Betting on Fed Rate Cuts Spilling Into 2027",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-24/bond-traders-are-betting-on-fed-rate-cuts-spilling-into-2027",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Tue, 24 Feb 2026 09:09:52 GMT",
-        "description": "Fear of AI’s potential for disruption is enough to push up borrowing costs for software companies, causing problems for a sector that has a lot of debt, according to Arini Capital Management’s founder"
+        "date": "Tue, 24 Feb 2026 21:30:19 GMT",
+        "description": "Traders in US futures and options markets are piling on bets that the Federal Reserve will continue cutting rates into next year instead of raising them."
       },
       {
-        "headline": "US Can Sell More T-Bills to Offset Lost Tariff Revenue, BNY Says",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-24/us-can-sell-more-t-bills-to-offset-lost-tariff-revenue-bny-says",
+        "headline": "Deutsche's Saravelos to 'Keep Writing' After US Ire",
+        "url": "https://www.bloomberg.com/news/videos/2026-02-25/deutsche-s-saravelos-to-keep-writing-after-us-ire-video",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Tue, 24 Feb 2026 11:21:28 GMT",
-        "description": "The US is likely to issue more short-dated notes to make up for lost revenues after the Supreme Court overturned President Donald Trump’s tariffs, according to a BNY strategist."
+        "date": "Wed, 25 Feb 2026 11:12:00 GMT",
+        "description": "Deutsche Bank's global head of FX research George Saravelos, who wrote a report that became the subject of US ire, says the episode \"really reaffirmed the importance of research independence.\" Last mo"
       },
       {
-        "headline": "Fire, Power Outage Disrupt Operations at Cape Town Airport",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-24/fire-power-outage-disrupt-operations-at-cape-town-airport",
+        "headline": "Temenos Jumps as Software Firm Lifts Targets and Plays Down AI Fear",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-25/temenos-jumps-as-software-firm-lifts-targets-plays-down-ai-fear",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Tue, 24 Feb 2026 11:16:13 GMT",
-        "description": "A fire and a power outage disrupted operations at Cape Town International Airport on Tuesday, leading to delays at the gateway to South Africa’s main tourism hub."
+        "date": "Wed, 25 Feb 2026 11:07:25 GMT",
+        "description": "Temenos shares gained after the software company lifted its mid-term guidance, pushing back on worries over the impact of artificial intelligence on the sector."
       },
       {
-        "headline": "Old-Economy Stocks Are Looking Pretty Good Right About Now",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-02-24/old-economy-stocks-are-looking-pretty-good-right-about-now",
+        "headline": "Bangladesh Bank Chief Quits Abruptly After Government Change",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-25/bangladesh-bank-chief-quits-abruptly-after-change-in-government",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Tue, 24 Feb 2026 11:06:54 GMT",
-        "description": "A basket of capital-intensive stocks is rallying as investors flee AI disruption."
+        "date": "Wed, 25 Feb 2026 09:55:36 GMT",
+        "description": "The head of Bangladesh’s central bank stepped down in a surprise departure that comes just over a week after the inauguration of the country’s new democratically elected government."
       },
       {
-        "headline": "Tata Defers Vote on Chairman’s New Term, Signaling Power Tussle",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-24/tata-defers-vote-on-chairman-s-new-term-signaling-power-tussle",
+        "headline": "Gold Rises as Traders Weigh Tariff Risks and Middle East Tension",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-24/gold-dips-for-second-day-on-prospects-of-prolonged-rate-hold",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Tue, 24 Feb 2026 11:00:30 GMT",
-        "description": "The board of Tata Sons Pvt. deferred a decision on granting a third term to Chairman Natarajan Chandrasekaran, people familiar said, in the latest sign that another leadership tussle could be brewing "
+        "date": "Tue, 24 Feb 2026 23:38:37 GMT",
+        "description": "Gold rose and silver surged, as traders weighed uncertainty around US import tariffs and frictions in the Middle East."
       },
       {
-        "headline": "America’s Ube Obsession Is Straining Supplies",
-        "url": "https://www.bloomberg.com/news/videos/2026-02-24/america-s-ube-obsession-is-straining-supplies",
+        "headline": "RBA’s Bullock Says Tough to Make Judgments on Economy at Moment",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-25/rba-s-bullock-says-tough-to-make-judgments-on-economy-at-moment",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Tue, 24 Feb 2026 11:00:04 GMT",
-        "description": "Ube has officially gone viral. Purple lattes, cheesecakes and pancakes are increasingly cropping up on dessert menus, but as a result, supplies are tightening. Ilena Peng has more. (Source: Bloomberg)"
+        "date": "Wed, 25 Feb 2026 10:50:00 GMT",
+        "description": "Australia’s central bank Governor Michele Bullock said judging the economy is “a little bit more difficult” now than in previous periods when it was raising interest rates, reinforcing her cautious po"
       },
       {
-        "headline": "Meat Snack Maker Archer Gets $100 Million Loan as Demand From Women Grows",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-24/meat-snack-maker-archer-gets-100-million-loan-as-demand-from-women-grows",
+        "headline": "European and UK Stocks Hit Records Powered by Banks and Miners",
+        "url": "https://www.bloomberg.com/news/live-blog/2026-02-25/ftse-100-live-trump-tariffs-pound-gilts-hsbc-diageo-what-s-moving-uk-markets-right-now-markets-today",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Tue, 24 Feb 2026 11:00:00 GMT",
-        "description": "Archer Meat Snacks secured a credit facility for nearly $100 million from JPMorgan Chase &amp; Co., allowing it to ramp up production as demand surges for its high-protein snacks &mdash; particularly "
+        "date": "Wed, 25 Feb 2026 06:45:25 GMT",
+        "description": ""
       },
       {
-        "headline": "Exxon Touts Guyana Growth in Race For Next Decade’s Oil Fields",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-24/exxon-touts-guyana-growth-in-race-for-next-decade-s-oil-fields",
+        "headline": "Diageo’s New CEO Wants Distiller to Get Back to Serving Drinkers",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-25/diageo-cuts-outlook-in-early-challenge-for-new-ceo-dave-lewis",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Tue, 24 Feb 2026 11:00:00 GMT",
-        "description": "Exxon Mobil Corp. is betting the economic boom unleashed by its giant discovery in Guyana will give the company an edge when negotiating fiscal terms with other nations looking to develop their own oi"
+        "date": "Wed, 25 Feb 2026 07:07:29 GMT",
+        "description": "Diageo Plc’s new Chief Executive Officer Dave Lewis has found the main cause of the British distiller’s struggles: It has forgotten how to serve drinks to its customers properly."
       },
       {
-        "headline": "Nippon Steel Upsizes Bond Sale for US Steel Loan to $3.8 Billion",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-24/nippon-steel-to-sell-3-5-billion-worth-of-convertible-bonds",
+        "headline": "Stocks Rise as AI Trade Faces Nvidia Earnings Test: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-02-24/stock-market-today-dow-s-p-live-updates-",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Tue, 24 Feb 2026 07:12:00 GMT",
-        "description": "Nippon Steel Corp. is seeking 600 billion yen ($3.8 billion) from an upsized sale of convertible bonds, one of the biggest Japanese offerings of its kind on record, to help repay loans taken out for i"
+        "date": "Tue, 24 Feb 2026 22:33:40 GMT",
+        "description": "Stocks posted modest gains after days of swings as traders await Nvidia Corp.’s earnings to see whether the chipmaker can regain its place as the artificial-intelligence trade’s main driver."
       },
       {
-        "headline": "Trump's new tariff comes into effect at lower than expected rate",
-        "url": "https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Household energy bills to fall in April after charges shake-up",
+        "url": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Business",
         "sourceId": "bbc_business",
         "category": "business",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 10:38:28 GMT",
-        "description": "The global levy comes in at 10%, lower than the rate the president had threatened at the weekend."
+        "date": "Wed, 25 Feb 2026 09:49:24 GMT",
+        "description": "Changes announced in the Budget mean all energy bills will see some kind of reduction, but it will vary."
       },
       {
-        "headline": "Number of workers on zero-hours contracts hits record high ahead of crackdown",
-        "url": "https://www.bbc.com/news/articles/czj1m7d4gxpo?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Aston Martin cuts 20% of workforce as losses widen",
+        "url": "https://www.bbc.com/news/articles/cp9m8n2vx0mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Business",
         "sourceId": "bbc_business",
         "category": "business",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 06:01:50 GMT",
-        "description": "There has been a 181,000 increase in the number of zero-hours contracts since Labour was elected."
+        "date": "Wed, 25 Feb 2026 10:09:37 GMT",
+        "description": "About 600 jobs will go at the luxury car maker, which in part blames US tariffs for its troubles."
       },
       {
-        "headline": "Chocolate kept in anti-theft boxes as shops warn it's being stolen to order",
-        "url": "https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Gucci criticised for 'AI slop' images ahead of major fashion show",
+        "url": "https://www.bbc.com/news/articles/cjwz6yzn5jqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Business",
         "sourceId": "bbc_business",
         "category": "business",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 10:39:39 GMT",
-        "description": "Retailers and police forces tell the BBC that thieves are targeting chocolate and selling it on."
+        "date": "Wed, 25 Feb 2026 10:55:39 GMT",
+        "description": "Users of social media - where the marketing campaign has been launched - say it is out of keeping with Gucci's reputation for luxury."
       },
       {
-        "headline": "Reform vows to overhaul pension schemes for new local government workers",
-        "url": "https://www.bbc.com/news/articles/c875edj1qeno?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Shein's elusive boss hails Chinese roots in rare public appearance",
+        "url": "https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Business",
         "sourceId": "bbc_business",
         "category": "business",
         "priority": "secondary",
-        "date": "Mon, 23 Feb 2026 22:14:36 GMT",
-        "description": "Reform plans to end more generous defined benefit pension schemes for new local government workers if it wins office"
+        "date": "Wed, 25 Feb 2026 03:18:11 GMT",
+        "description": "His speech follows years of the firm focusing away from China as it moved its headquarters to Singapore."
       },
       {
-        "headline": "Trump Organization unveils plan for 'Australia's tallest building'",
-        "url": "https://www.bbc.com/news/articles/cyv9nj336v5o?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "New travel rules kick in - how are dual nationals affected?",
+        "url": "https://www.bbc.com/news/articles/cy57p1v61d1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Business",
         "sourceId": "bbc_business",
         "category": "business",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 03:20:45 GMT",
-        "description": "The tower will be built on Queensland's Gold Coast and be 335 metres high, taller than the Shard in London."
+        "date": "Wed, 25 Feb 2026 10:07:33 GMT",
+        "description": "From 25 February, a new system will come into force which will affect many people, including British dual nationals."
       },
       {
         "headline": "Orbital space race heats up in Arctic north",
@@ -179,344 +179,344 @@
         "description": "Europe lags far behind the US and China in orbital space launches, but new facilities are opening up."
       },
       {
-        "headline": "FedEx sues for Trump tariff refund",
-        "url": "https://www.bbc.com/news/articles/cly83r1njjro?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Discord delays age verification plans after user outcry",
+        "url": "https://www.bbc.com/news/articles/cvgv0yg4n9lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Business",
         "sourceId": "bbc_business",
         "category": "business",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 01:18:27 GMT",
-        "description": "The US Supreme Court ruling that the US president overstepped when imposing levies paved the way for firms to seek a refund."
+        "date": "Tue, 24 Feb 2026 22:43:26 GMT",
+        "description": "Users were unhappy about plans for age verification to require facial or ID scans."
       },
       {
-        "headline": "No 10 says ‘nothing off the table’ over new US tariffs as UK could be among worst hit",
-        "url": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Paramount boosts Warner Bros offer to rival Netflix in takeover bid",
+        "url": "https://www.bbc.com/news/articles/c24dz0683dyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Business",
         "sourceId": "bbc_business",
         "category": "business",
         "priority": "secondary",
-        "date": "Mon, 23 Feb 2026 18:34:22 GMT",
-        "description": "Downing Street says discussions are ongoing following US President Donald Trump's announcement of a 15% global tariffs."
+        "date": "Wed, 25 Feb 2026 00:01:02 GMT",
+        "description": "Warner Bros says the latest proposal could convince it to abandon the deal it struck with Netflix."
       },
       {
-        "headline": "Company director jailed over £7m airline parts fraud",
-        "url": "https://www.bbc.com/news/articles/c14mgl4ddr2o?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "US threatens Anthropic with deadline in dispute on AI safeguards",
+        "url": "https://www.bbc.com/news/articles/cjrq1vwe73po?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Business",
         "sourceId": "bbc_business",
         "category": "business",
         "priority": "secondary",
-        "date": "Mon, 23 Feb 2026 16:43:44 GMT",
-        "description": "The judge said the actions were a \"more or less complete undermining\" of rules designed to ensure passenger flights are safe."
+        "date": "Tue, 24 Feb 2026 22:58:46 GMT",
+        "description": "The AI developer laid out red lines on military use of its products, a source said."
       },
       {
-        "headline": "Netflix boss defends bid for Warner Bros as Paramount deadline looms",
-        "url": "https://www.bbc.com/news/articles/c20jn073gj4o?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Apple says some Mac Mini production will move to the US",
+        "url": "https://www.bbc.com/news/articles/c4g8eq9z2v8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Business",
         "sourceId": "bbc_business",
         "category": "business",
         "priority": "secondary",
-        "date": "Mon, 23 Feb 2026 12:21:31 GMT",
-        "description": "Ted Sarandos says his company's offer is better for industry growth as it is \"buying assets we don't currently have\"."
+        "date": "Tue, 24 Feb 2026 22:09:00 GMT",
+        "description": "The technology giant had pledged to increase investment in the US by $600bn, under pressure from Trump."
       },
       {
-        "headline": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
-        "url": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Trump's theatrical State of the Union address offers little hint of any change in course",
+        "url": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 06:02:13 GMT",
-        "description": "Four men expose the horror and brutality of conditions in the Ukraine war, with two saying they saw soldiers being shot for refusing orders."
+        "date": "Wed, 25 Feb 2026 10:11:20 GMT",
+        "description": "The BBC's Anthony Zurcher says the US president appealed to his base and taunted his opponents in a marathon speech."
       },
       {
-        "headline": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
-        "url": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Japan to deploy missiles on island near Taiwan by 2031",
+        "url": "https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Mon, 23 Feb 2026 21:12:47 GMT",
-        "description": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces."
+        "date": "Wed, 25 Feb 2026 06:00:50 GMT",
+        "description": "The remote Yonaguni island lies on the frontlines of self-governing Taiwan's growing tensions with China."
       },
       {
-        "headline": "More than 5,000 flights cancelled as US east coast digs out of record snow",
-        "url": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Chinese dance group's tour triggers bomb threat against Australian PM",
+        "url": "https://www.bbc.com/news/articles/ce3gj35q541o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 08:30:46 GMT",
-        "description": "A major snowstorm dumps more than a foot of snow in several areas, bringing power cuts and disruption."
+        "date": "Wed, 25 Feb 2026 08:13:42 GMT",
+        "description": "The group was told to cancel its performances or explosives would be set off at Anthony Albanese's house."
       },
       {
-        "headline": "French minister moves to block US envoy Kushner from government access",
-        "url": "https://www.bbc.com/news/articles/c8d5eg5pl34o?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Drones hammer Sudan's gold and oil zone - the pivotal new front line",
+        "url": "https://www.bbc.com/news/articles/cjwz6z14w65o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Mon, 23 Feb 2026 22:55:06 GMT",
-        "description": "The minister says Charles Kushner, father of Trump's son-in-law Jared, failed to explain comments about violence in France."
+        "date": "Wed, 25 Feb 2026 00:43:00 GMT",
+        "description": "Intensified attacks in the Kordofan region have led to mass casualties as peace remains elusive."
       },
       {
-        "headline": "Ukraine negotiator tells BBC how it feels to sit across table from Russia",
-        "url": "https://www.bbc.com/news/articles/c89k0lxlpnpo?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Senegal PM proposes tougher anti-LGBT law, doubling prison terms",
+        "url": "https://www.bbc.com/news/articles/c7vj15zlmv6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Mon, 23 Feb 2026 19:17:11 GMT",
-        "description": "Sergiy Kyslytsya is among those trying to negotiate an end to the conflict, which is entering its fifth year."
+        "date": "Wed, 25 Feb 2026 05:46:42 GMT",
+        "description": "The bill seeks prison terms of five to ten years for what it describes as \"acts against nature\"."
       },
       {
-        "headline": "Robert Carradine, Lizzie McGuire and Revenge of the Nerds star, dies aged 71",
-        "url": "https://www.bbc.com/news/articles/cy0dqpjjprno?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "German chancellor lands in Beijing for inaugural China trip",
+        "url": "https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 09:34:31 GMT",
-        "description": "His family says the actor took his own life after living with bipolar disorder for nearly two decades."
+        "date": "Wed, 25 Feb 2026 05:53:48 GMT",
+        "description": "Friedrich Merz said it would be a mistake to \"decouple\" Germany from China shortly before boarding a plane to Beijing."
       },
       {
-        "headline": "Probe under way after illness kills 72 tigers in Thai tourist park",
-        "url": "https://www.bbc.com/news/articles/cly833zjp4po?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Australia police make arrests over alleged murder of grandfather mistakenly kidnapped",
+        "url": "https://www.bbc.com/news/articles/cx2d7zyd41go?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 08:31:11 GMT",
-        "description": "Authorities say samples showed the canine distemper virus, but have not confirmed where it came from."
+        "date": "Wed, 25 Feb 2026 05:09:56 GMT",
+        "description": "Police have said 85-year-old Chris Baghsarian was not the intended target of the alleged crime."
       },
       {
-        "headline": "US partially evacuates Beirut embassy amid rising Iran tensions",
-        "url": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Louvre museum director resigns months after high-profile heist",
+        "url": "https://www.bbc.com/news/articles/ce3gj7jjl7jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Mon, 23 Feb 2026 19:08:55 GMT",
-        "description": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review."
+        "date": "Tue, 24 Feb 2026 19:23:36 GMT",
+        "description": "Laurence des Carrs submitted her resignation to President Emmanel Macron, who said it was \"an act of responsibility\"."
       },
       {
-        "headline": "Trump threatens countries that 'play games' with existing trade deals",
-        "url": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Don't break up NewJeans and I'll forgo $18m payout, says ex-K-pop boss",
+        "url": "https://www.bbc.com/news/articles/c98qd17e274o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Mon, 23 Feb 2026 21:12:43 GMT",
-        "description": "The threat comes after the Supreme Court ruled on Friday that Trump had exceeded his authority in enacting a sweeping global programme of tariffs."
+        "date": "Wed, 25 Feb 2026 07:54:46 GMT",
+        "description": "Min Hee-jin has said she \"can no longer bear to watch\" the group get \"torn apart\"."
       },
       {
-        "headline": "Moscow rail hub explosion was suicide bomb, Russian officials say",
-        "url": "https://www.bbc.com/news/articles/czx4pyx9g46o?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Ukraine remembers its dead as war enters a fifth year",
+        "url": "https://www.bbc.com/news/articles/clyg7r3nd3ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 10:49:52 GMT",
-        "description": "A traffic police officer and the suspect were killed in the explosion, Russian officials say."
+        "date": "Tue, 24 Feb 2026 18:13:58 GMT",
+        "description": "Events were held across Ukraine to mark four years since Russia launched its full-scale invasion."
       },
       {
-        "headline": "Why Indonesia’s lead role in Gaza peacekeeping force carries high political risk",
-        "url": "https://www.scmp.com/week-asia/politics/article/3344477/why-indonesias-lead-role-gaza-peacekeeping-force-carries-high-political-risk?utm_source=rss_feed",
+        "headline": "China’s MiniMax, Moonshot top AI token use ranking, ending year of US dominance",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3344587/chinas-minimax-moonshot-top-ai-token-use-ranking-ending-year-us-dominance?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 10:31:59 +0000",
+        "date": "Wed, 25 Feb 2026 11:30:07 +0000",
         "description": ""
       },
       {
-        "headline": "4 years into Ukraine conflict, Zelensky says Russia’s Putin ‘did not win this war’",
-        "url": "https://www.scmp.com/news/world/russia-central-asia/article/3344478/4-years-ukraine-conflict-zelensky-says-russias-putin-did-not-win-war?utm_source=rss_feed",
+        "headline": "Can China and Philippines replace ‘disputes with cooperation’ after years of tension?",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3344626/can-china-and-philippines-replace-disputes-cooperation-after-years-tension?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 10:29:35 +0000",
+        "date": "Wed, 25 Feb 2026 11:26:30 +0000",
         "description": ""
       },
       {
-        "headline": "‘Record’ Chinese maritime militia deployed in South China Sea in 2025: US report",
-        "url": "https://www.scmp.com/news/china/military/article/3344474/record-chinese-maritime-militia-deployed-south-china-sea-2025-us-report?utm_source=rss_feed",
+        "headline": "Pressure mounts on Malaysia’s Anwar as allies seek new inquiry into MACC allegations",
+        "url": "https://www.scmp.com/week-asia/politics/article/3344621/pressure-mounts-malaysias-anwar-allies-seeks-new-inquiry-macc-allegations?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 10:18:23 +0000",
+        "date": "Wed, 25 Feb 2026 11:05:56 +0000",
         "description": ""
       },
       {
-        "headline": "China’s top court backs legal action against corrupt firms amid equity markets rally",
-        "url": "https://www.scmp.com/business/markets/article/3344453/chinas-top-court-backs-legal-action-against-corrupt-firms-amid-equity-markets-rally?utm_source=rss_feed",
+        "headline": "Hong Kong’s home prices reach 19-month high as rise gathers pace",
+        "url": "https://www.scmp.com/business/article/3344622/hong-kongs-home-prices-reach-19-month-high-rise-gathers-pace?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 10:00:20 +0000",
+        "date": "Wed, 25 Feb 2026 11:05:35 +0000",
         "description": ""
       },
       {
-        "headline": "Why did 72 tigers die at a Thailand tourist park in under 2 weeks?",
-        "url": "https://www.scmp.com/week-asia/health-environment/article/3344470/why-did-72-tigers-die-thailand-tourist-park-under-2-weeks?utm_source=rss_feed",
+        "headline": "In meeting with Merz, Xi urges efforts to advance China-Germany ties to ‘new levels’",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3344618/meeting-merz-xi-urges-efforts-advance-china-germany-ties-new-levels?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 09:58:22 +0000",
+        "date": "Wed, 25 Feb 2026 10:34:57 +0000",
         "description": ""
       },
       {
-        "headline": "China’s Lunar New Year box office hits 6-year low as releases fall flat",
-        "url": "https://www.scmp.com/economy/china-economy/article/3344458/chinas-lunar-new-year-box-office-hits-6-year-low-releases-fall-flat?utm_source=rss_feed",
+        "headline": "Row over speakers on Indonesian ‘island of 1,000 mosques’ sparks debate on compromise",
+        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3344616/row-over-speakers-indonesian-island-1000-mosques-sparks-debate-compromise?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 09:30:50 +0000",
+        "date": "Wed, 25 Feb 2026 10:31:05 +0000",
         "description": ""
       },
       {
-        "headline": "Hong Kong authorities probe death of scaffolding worker who fell from factory",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3344460/hong-kong-authorities-probe-death-scaffolding-worker-who-fell-factory?utm_source=rss_feed",
+        "headline": "A boat in every dock? Chinese billionaire unveils plan for mass yacht production",
+        "url": "https://www.scmp.com/economy/china-economy/article/3344583/boat-every-dock-chinese-billionaire-unveils-plan-mass-yacht-production?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 09:09:44 +0000",
+        "date": "Wed, 25 Feb 2026 10:30:07 +0000",
         "description": ""
       },
       {
-        "headline": "France demands answers from US envoy for ignoring summons as diplomatic feud deepens",
-        "url": "https://www.scmp.com/news/world/europe/article/3344459/france-demands-answers-us-envoy-ignoring-summons-diplomatic-feud-deepens?utm_source=rss_feed",
+        "headline": "Iranians on edge as Trump’s US ‘armada’ closes in: ‘a war will start’",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3344611/iranians-edge-trumps-us-armada-closes-war-will-start?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 09:08:44 +0000",
+        "date": "Wed, 25 Feb 2026 09:52:12 +0000",
         "description": ""
       },
       {
-        "headline": "India and Brazil set sights on US$30 billion trade milestone by 2030",
-        "url": "https://www.scmp.com/week-asia/economics/article/3344457/india-brazil-intensify-trade-diversification-amid-trumps-tariff-threats?utm_source=rss_feed",
+        "headline": "Here is how you and businesses will benefit from Hong Kong budget sweeteners hike",
+        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3344602/hong-kong-budget-sweeteners-residents-and-businesses-climb-hk22-billion?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 09:06:25 +0000",
+        "date": "Wed, 25 Feb 2026 09:33:05 +0000",
         "description": ""
       },
       {
-        "headline": "Future of Japan’s ‘naked festival’ in doubt after 3 men left unconscious",
-        "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3344455/future-japans-naked-festival-doubt-after-three-men-left-unconscious?utm_source=rss_feed",
+        "headline": "Malaysia blocks Grindr, Blued amid rising LGBTQ restrictions",
+        "url": "https://www.scmp.com/news/asia/southeast-asia/article/3344601/malaysia-blocks-grindr-blued-amid-rising-lgbtq-restrictions?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 09:00:14 +0000",
+        "date": "Wed, 25 Feb 2026 09:26:23 +0000",
         "description": ""
       },
       {
-        "headline": "UK announces largest sanctions package against Russia since start of full-scale invasion",
-        "url": "https://www.politico.eu/article/uk-announce-sanctions-package-russia-ukraine-war/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "New Louvre president appointed months after spectacular heist",
+        "url": "https://www.politico.eu/article/new-louvre-president-appointed-months-after-spectacular-heist-christophe-leribault/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 10:46:51 +0000",
-        "description": "Britain is targeting Russia's war economy on the fourth anniversary of Vladimir Putin's invasion of Ukraine."
+        "date": "Wed, 25 Feb 2026 10:34:39 +0000",
+        "description": "Christophe Leribault takes over from  Laurence des Cars, who resigned Tuesday."
       },
       {
-        "headline": "Paris says US envoy’s no-show will &#8216;affect&#8217; role",
-        "url": "https://www.politico.eu/article/france-fm-jean-barrot-says-us-charles-kushner-ambassador-summons-no-show-will-impact-role/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Can Starmer conquer Burnham&#8217;s kingdom?",
+        "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/can-starmer-conquer-burnhams-kingdom/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 10:19:51 +0000",
-        "description": "Charles Kushner has been temporarily blocked from meeting members of the French government after failing to attend a diplomatic summons."
-      },
-      {
-        "headline": "European Council president slams Hungary&#8217;s &#8216;disrespect&#8217; over Ukraine loan",
-        "url": "https://www.politico.eu/article/eu-european-council-president-slams-hungary-disrespect-over-ukraine-loan/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-        "source": "Politico EU",
-        "sourceId": "politico_eu",
-        "category": "trade",
-        "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 09:20:16 +0000",
-        "description": "Budapest is threatening to block EU support for Ukraine."
-      },
-      {
-        "headline": "Trump spares EU and UK from higher tariff rates for now",
-        "url": "https://www.politico.eu/article/trump-spares-eu-uk-higher-global-tariff-rates-trade-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-        "source": "Politico EU",
-        "sourceId": "politico_eu",
-        "category": "trade",
-        "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 08:28:26 +0000",
-        "description": "Tariffs on exports to the United States will remain at 10 percent."
-      },
-      {
-        "headline": "Can Starmer shake off Mandelson&#8217;s ghost?",
-        "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/can-starmer-shake-off-mandelsons-ghost/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-        "source": "Politico EU",
-        "sourceId": "politico_eu",
-        "category": "trade",
-        "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 08:13:33 +0000",
+        "date": "Wed, 25 Feb 2026 08:31:07 +0000",
         "description": "Presented by Amazon"
       },
       {
-        "headline": "Merz in China und POLITICO feiert 2. Geburtstag in Berlin",
-        "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/merz-in-china-und-politico-feiert-2-geburtstag-in-berlin/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "From My Voice to Our Choice: Europe’s Next Step for Equality",
+        "url": "https://www.politico.eu/sponsored-content/from-my-voice-to-our-choice-europes-next-step-for-equality/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 05:38:37 +0000",
+        "date": "Wed, 25 Feb 2026 08:00:00 +0000",
+        "description": "An open letter to President Ursula van de Leyen and members of the European Commission"
+      },
+      {
+        "headline": "Trump avoided self-harm in his State of the Union speech. He also missed self-help.",
+        "url": "https://www.politico.com/news/2026/02/25/trump-avoided-self-harm-in-his-state-of-the-union-speech-he-also-missed-self-help-00797460?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "source": "Politico EU",
+        "sourceId": "politico_eu",
+        "category": "trade",
+        "priority": "secondary",
+        "date": "Wed, 25 Feb 2026 06:45:08 +0000",
+        "description": "The president’s state of the union was notable for something his second term has largely lacked: restraint."
+      },
+      {
+        "headline": "Iran, Zölle, Europa: Trumps Rede zur Lage der Nation",
+        "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/iran-zolle-europa-trumps-rede-zur-lage-der-nation/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "source": "Politico EU",
+        "sourceId": "politico_eu",
+        "category": "trade",
+        "priority": "secondary",
+        "date": "Wed, 25 Feb 2026 05:07:56 +0000",
         "description": "PRÄSENTIERT VON ROCHE DEUTSCHLAND."
       },
       {
-        "headline": "Four years of war — and Hungary breaks EU unity",
-        "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/four-years-of-war-and-hungary-breaks-eu-unity/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Who showed up — and who didn&#8217;t — for Kyiv&#8217;s big day",
+        "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/who-showed-up-and-who-didnt-for-kyivs-big-day/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 05:30:00 +0000",
+        "date": "Wed, 25 Feb 2026 05:00:00 +0000",
         "description": "Presented by Amazon"
       },
       {
-        "headline": "Swedish business leader Ehnbom proposed Epstein meet women she mentored, emails show",
-        "url": "https://www.politico.eu/article/jeffrey-epstein-files-sweden-business-leader-ehnbom-proposed-meet-women/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Trump lavishes praise on Rubio as he claims foreign achievements",
+        "url": "https://www.politico.com/live-updates/2026/02/24/trump-state-of-the-union-address-2026/trump-lauds-rubio-for-foreign-achievements-00797233?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 03:02:00 +0000",
-        "description": "Barbro Ehnbom, known in Sweden for programs to boost female leadership, forwarded photos and suggested meetings."
+        "date": "Wed, 25 Feb 2026 04:17:13 +0000",
+        "description": "The kind words for Rubio could boost him in 2028."
       },
       {
-        "headline": "EU countries threaten to take Commission to court for giving Parliament extra powers",
-        "url": "https://www.politico.eu/article/eu-countries-threaten-take-commission-court-giving-parliament-extra-powers/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Trump defends his tariffs in State of the Union speech",
+        "url": "https://www.politico.com/live-updates/2026/02/24/trump-state-of-the-union-address-2026/trump-talks-tariffs-00797151?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 03:00:00 +0000",
-        "description": "Letter shows that EU capitals are particularly annoyed about a Commission promise to ensure Council and Parliament get “equal treatment” in the legislative process."
+        "date": "Wed, 25 Feb 2026 03:56:03 +0000",
+        "description": "U.S. president played down Supreme Court ruling and said he'll move forward with a new tariff regime."
       },
       {
-        "headline": "Putin is running his war on the Micawber Principle: Something will turn up",
-        "url": "https://www.politico.eu/article/putin-is-running-his-war-on-the-micawber-principle-something-will-turn-up/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Germany&#8217;s far right under pressure as nepotism allegations mount",
+        "url": "https://www.politico.eu/article/germany-far-right-afd-under-pressure-as-nepotism-allegations-mount/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Tue, 24 Feb 2026 03:00:00 +0000",
-        "description": "The Russian leader is betting on playing the long game."
+        "date": "Wed, 25 Feb 2026 03:01:00 +0000",
+        "description": "Accusations that AfD politicians are using their positions to give family members cushy jobs threaten to thwart the party ahead of a series of state elections."
+      },
+      {
+        "headline": "Orbán’s gambit to revive his election hopes: A battle against the EU",
+        "url": "https://www.politico.eu/article/hungary-viktor-orban-gambit-to-revive-his-election-hopes-a-battle-against-the-eu/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "source": "Politico EU",
+        "sourceId": "politico_eu",
+        "category": "trade",
+        "priority": "secondary",
+        "date": "Wed, 25 Feb 2026 03:00:00 +0000",
+        "description": "The Hungarian leader wants to portray his main rival, Péter Magyar, as a stooge of his traditional bogeymen: Brussels and Kyiv. But Magyar is proving hard to typecast."
       },
       {
         "headline": "Weekly Trade Focus: APEC",
@@ -619,257 +619,257 @@
         "description": ""
       },
       {
-        "headline": "New Trump tariffs take effect days after Supreme Court decision - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTJZOTEtcEhEOFF4UDl2anpMdXBrWVJlTTlyWWRrNTBrRXBTR3lzd3haNnVrWHJYWW8wSVltODFUMm9VYUQxYnZKcmQ2eHJDYWhuMXBtYzM3ZDB6N21BcTNhWk80dmphd2N5RkRnYUx2c1dUb3lCUWIxUDdLbGlyRE9DQjZqRE1fV0J6aWEwaGphTHl0dVFwMEh5VFpRdmN0cWVkYm13MNIBrAFBVV95cUxONkZxejRfVzRtXzJHMkUtNUhlanVFZDFaUElJbzBWTG1PMmxCRGtqaktjUDNZRWo4T0w1V3oweGZjT2RCejBzNzhpNlAtY2FjaXFRUFhzR1VMSVBHbzlRd2FBVTdrbkVHQUtaclM2QWNoZ2FSNkNETWhmTGFldDBtUXVWcnF2SUpRMFJJMG52NTJPNExvZVV6bFZwckdZRWQ0c1RjYTlocUZqNmk5?oc=5",
+        "headline": "Now what? The future of Trump tariffs and trade policy after Supreme Court ruling - Brookings",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1BXR29PZTlUcFYwUXNZdXFYUGRKTGVuXzkxa0NqMzRocTNLc3pXbW1yWFBjVkgxWllocjVUV1A5dTRPWk9BRHAtREI5R0VxaE5DdFZWWklaQVdYSGlvWkR6XzB2SUdSQXlscDB2Xy1IOGV5MzA2eVgybzFXUTg3RzVzUFJSN0hnN25YWW4yOVFHcXRrcldGRUE5VGJoV2NoeE8tRHpHXzZiYlRySkw1Wmw3UG8?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Tue, 24 Feb 2026 11:00:22 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTJZOTEtcEhEOFF4UDl2anpMdXBrWVJlTTlyWWRrNTBrRXBTR3lzd3haNnVrWHJYWW8wSVltODFUMm9VYUQxYnZKcmQ2eHJDYWhuMXBtYzM3ZDB6N21BcTNhWk80dmphd2N5RkR"
+        "date": "Tue, 24 Feb 2026 19:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1BXR29PZTlUcFYwUXNZdXFYUGRKTGVuXzkxa0NqMzRocTNLc3pXbW1yWFBjVkgxWllocjVUV1A5dTRPWk9BRHAtREI5R0VxaE5DdFZWWklaQVdYSGlvWkR6XzB2SUdSQXlscDB"
       },
       {
-        "headline": "EU Warns That Trump’s New Tariff Policy Breaks Trade Deal - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEVrSE1rdWFxRURXMmRtc1NTS1VUU0d0MW9NaFJ0ZnZjcGhMS0JDMF8zQ0paVVpZWVdkeWl0TVFiVkM5eGt3dmRrUlRXZ1BXWk1mdmhlR3oxTkh1ek0yZW1wQW1ZOVhQLW5yWkJKRGp3ZmhIeERLT3BwcUpuREdqLXZmTEFRVUplM3pZdmVtTkFhdzNkaTh4MXZOdXo5ZVhfeGlSZmRnMzZjVEVLbnBxUTEwdw?oc=5",
+        "headline": "Supreme Court ruling against Trump’s tariffs is unlikely to mean an end to trade policy chaos - AP News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGRsT1d3ZmNMeGZ3S3h5T3otdVBVVENFYXlNTzNkYkM5eTlFTjFsd2Jlc19HM2g1WjVpX1JfRGJKUlZoUm9pbFZMb3hjb2tEN20xUzNfdVdybUNIbVU4UVVxV1ZwYTQwT3dnMG12Ti1fMjNvUXJMa19CanJtc0JiQXJ1UUFnYkRjV3prVGdKQXd1c0FnOGhPYWJtOGdVeDMzNEIxdVh3?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Tue, 24 Feb 2026 08:27:34 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEVrSE1rdWFxRURXMmRtc1NTS1VUU0d0MW9NaFJ0ZnZjcGhMS0JDMF8zQ0paVVpZWVdkeWl0TVFiVkM5eGt3dmRrUlRXZ1BXWk1mdmhlR3oxTkh1ek0yZW1wQW1ZOVhQLW5yWkJ"
+        "date": "Tue, 24 Feb 2026 17:13:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGRsT1d3ZmNMeGZ3S3h5T3otdVBVVENFYXlNTzNkYkM5eTlFTjFsd2Jlc19HM2g1WjVpX1JfRGJKUlZoUm9pbFZMb3hjb2tEN20xUzNfdVdybUNIbVU4UVVxV1ZwYTQwT3dnMG1"
       },
       {
-        "headline": "Supreme Court ruling against Trump's tariffs is unlikely to mean an en... - seMissourian",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZy1OaUs3QUptc2VYeHY4aWpDeVIyT2xlMWItbENNVWtMN1NFeFl1b0FlZUdYMjB4ZGJLMVlpQUQ0QnRaWG56LXdGM3ZSbW8xbnNzcTA3akNpQVBlbFdXWV9aR2ZCWklvcm9laDZNeE5qeHgxWmVsQ1hnSkMzY0d3NXdMdDBpc0oxU29fTzd6Z25xRUYwMjc1aGlOMVlrSFRQWUxuYkphWTExLUUyUkVFdmZ3XzhBVTJBcHlRUldPX1dudFo5UlhWbmdxcFNhUDRxMUE?oc=5",
+        "headline": "Here Are the Countries and Products Subject to Tariffs Now - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjg2dnFmWVhreXFuam9oQ3dmbnJIM1NrS2VaSkYwbnBZR0I4cjRXODItSHBEX2xmaVI3VmhMNXZfSWVWaDNtOHhHNVZxbjVidWFYYXVvNXZ6UDg3WVQ0N283V1lDdXJiZjFMNDZYdi1pTlIzX2NZS21CQWtaSHJ1a0JzcVh4dGJfamdn?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Tue, 24 Feb 2026 07:55:27 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZy1OaUs3QUptc2VYeHY4aWpDeVIyT2xlMWItbENNVWtMN1NFeFl1b0FlZUdYMjB4ZGJLMVlpQUQ0QnRaWG56LXdGM3ZSbW8xbnNzcTA3akNpQVBlbFdXWV9aR2ZCWklvcm9laDZ"
+        "date": "Tue, 24 Feb 2026 19:25:49 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjg2dnFmWVhreXFuam9oQ3dmbnJIM1NrS2VaSkYwbnBZR0I4cjRXODItSHBEX2xmaVI3VmhMNXZfSWVWaDNtOHhHNVZxbjVidWFYYXVvNXZ6UDg3WVQ0N283V1lDdXJiZjFMNDZ"
       },
       {
-        "headline": "The tariff uncertainty trade is back - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZDdYYUdpZmh6X195QmdWOFd1WjZDNkRRSTFoODZ0SWs5NkQydjljRlBLdEZaNlVQcVAtd2d1bVJKb3RTaDM3V2hJak11eWU5LWIyZ1VqaHF1N1pFZUpMakNXWDdYVmFkTGtsOHhpZG9EYWZ3a0xmVXlOd2xNMVAtTUlxZ2FmcDY1QlE?oc=5",
+        "headline": "Landmark Supreme Court ruling may change little for you | Opinion - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmtqU3BCclJLQkhEZEtzbXhsVkU4OEdqZDJvRVBSRHhlaXZLS1VWMXgzWlh0T1NPRjZqU2laMTFLSl9sbERkZEhvNTdCQXZFWkE4MXRoR3ZQbnF4NE5VVTBzd3FIMXVfMkZNOUl5bXJHeDBIOG9PLWNQdm54MjFjNWhDdWRWNmpOSmQwM19wZkdpaHRMLWl4UHFPSkFTNnBLZjZPMlFFMmozMU9vaDVRQWZxRzA?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Tue, 24 Feb 2026 11:00:11 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZDdYYUdpZmh6X195QmdWOFd1WjZDNkRRSTFoODZ0SWs5NkQydjljRlBLdEZaNlVQcVAtd2d1bVJKb3RTaDM3V2hJak11eWU5LWIyZ1VqaHF1N1pFZUpMakNXWDdYVmFkTGtsOHh"
+        "date": "Wed, 25 Feb 2026 10:10:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmtqU3BCclJLQkhEZEtzbXhsVkU4OEdqZDJvRVBSRHhlaXZLS1VWMXgzWlh0T1NPRjZqU2laMTFLSl9sbERkZEhvNTdCQXZFWkE4MXRoR3ZQbnF4NE5VVTBzd3FIMXVfMkZNOUl"
       },
       {
-        "headline": "The Supreme Court Clipped Trump’s Tariff Powers—and Opened New Trade Battlefronts - Council on Foreign Relations",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0x6NFdlR0plUVV6c2VZa0F5SmdOcFd1dDdOYV83elVWZGlzVlFsTzdXUVFzSXJaSkJkUjlTRkt5aC1TejdSek1ZUE1XQ0hBZS1XbHhoZzRiUnlPb204cFVOckJZRzkxQWlrdTA3dEt1QUJCWllzX2RSeUQyYlIydWdiOFVVWGhfVUpiRGQ1NFJURGRXcXM1djBFSFNINWJHajNPLTZ6bkRyNXdyRnpN?oc=5",
+        "headline": "How Trump’s Tariffs and Trade Policy Impact Retirement Portfolios - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdFhVVVEzNFVYdldrMW9BaTdpWXlGamxoOGxaYVNhSGEwNlpTY1BCTnZQS0FqVGU1MER6RUlzXzVZU0cwSUVtSDdZREc0SUVvM2NIRkRmVXV3TGxmMm5rRVFrUUhoYmhKRnVQQ2kwY3R2djdjN3h3OUhNNkZ0VFR3dWpkNA?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Mon, 23 Feb 2026 21:25:55 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0x6NFdlR0plUVV6c2VZa0F5SmdOcFd1dDdOYV83elVWZGlzVlFsTzdXUVFzSXJaSkJkUjlTRkt5aC1TejdSek1ZUE1XQ0hBZS1XbHhoZzRiUnlPb204cFVOckJZRzkxQWlrdTA"
+        "date": "Wed, 25 Feb 2026 05:31:06 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQdFhVVVEzNFVYdldrMW9BaTdpWXlGamxoOGxaYVNhSGEwNlpTY1BCTnZQS0FqVGU1MER6RUlzXzVZU0cwSUVtSDdZREc0SUVvM2NIRkRmVXV3TGxmMm5rRVFrUUhoYmhKRnVQQ2k"
       },
       {
-        "headline": "President’s Trade Officer Says No Change on Tariff Policy After Court Loss - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pVXEwUHdWN0YzYjdWci15c0h3SXp4eEhob1IzdEVtQWl2c1dJZHpJZEVhRmVSZ0ZxTEVEOHFwZFBxOEVNTE5rT1UxOEJlOE9taG5aYTNmSUREX0dlWTQ1aUF0WQ?oc=5",
+        "headline": "Eight questions (and expert answers) on what’s next for US tariff policy - Atlantic Council",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVpudnNmRG43VWhTWWkzOTRWajUzaHRIYnVvUTJWR3FIRVNYcUtWRWZmNU5nZC1fVFl2U0R5U2dDSkM5Ql8xd3IyTjY5LTMyOHNTLWI3WjZqOWpnbEN5Q181dEVIc3ZrUUhSYURoNHg2NVN3b0dBTC1qX3V3RGotWERCQURkUG42cm50R25kZjFWQWQ2X2laeUhzVGFJTG9oMGtCY3FoRzVKY3ctaDhjSVMxcw?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Tue, 24 Feb 2026 02:34:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pVXEwUHdWN0YzYjdWci15c0h3SXp4eEhob1IzdEVtQWl2c1dJZHpJZEVhRmVSZ0ZxTEVEOHFwZFBxOEVNTE5rT1UxOEJlOE9taG5aYTNmSUREX0dlWTQ1aUF0WQ?oc=5\" target"
+        "date": "Tue, 24 Feb 2026 22:55:35 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVpudnNmRG43VWhTWWkzOTRWajUzaHRIYnVvUTJWR3FIRVNYcUtWRWZmNU5nZC1fVFl2U0R5U2dDSkM5Ql8xd3IyTjY5LTMyOHNTLWI3WjZqOWpnbEN5Q181dEVIc3ZrUUhSYUR"
       },
       {
-        "headline": "Supreme Court ruling throws Trump administration's tariff strategy into flux. What it means for global trade, U.S. economy - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0MwUkIxemthYTZhVU9zRU94Z2plbXllLVU5d1BtYmV5WWZNbFRMaTVhNi0wanJHcXhxS0Rtdks2TU02UThsSl8wZXloMFZxZW41eFNRLTYyRVJMU1RyY0toaUR0UTNlMmZaTTJrWFF5b1VfaHktaEN6UFZvcjFwa3h4ZGFMZ0pGUnU3NEU5d1U0R0tnbTBRSjVrVjljbVk4Sm1lOEpR0gGrAUFVX3lxTFBXdHpQNDhEOGJicjdMb3R3ZUhza0lyS0dacU80YlQ5ZmJya0xDaS1xbmRSRFdUQTZNZXl1cG9kU0FNTlFtc2Vwb0JRVzFuVWVsSnE1eHZLZ002alYzZHdCQS0tbEZBaDZoYjJha19ZT3lXcmxMa19rZS12bEx6SHBrd0Q2V1FtOTBLQUhzMC1aanVQdWJFeUdPQnVuWk1ULUZjdVBNMTREMTNCUQ?oc=5",
+        "headline": "Supreme Court Rules on Trump Tariffs: What to Do Now - CLA (CliftonLarsonAllen)",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NYTJPSVdGc1FReGhmdWZla0FTS1JGWHNhVmFsc042V2F2dWs2LXpvQTVqWkhNOGYzTWk0R1lzLWlxVEV2M0llX2h4bXRZUnhMSG5EZ3ZMdG1Yek5hZDJiQUpyTWNzTmVQd045VU9HdjRicFBTNDZWTFFDTG8?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Mon, 23 Feb 2026 22:53:54 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0MwUkIxemthYTZhVU9zRU94Z2plbXllLVU5d1BtYmV5WWZNbFRMaTVhNi0wanJHcXhxS0Rtdks2TU02UThsSl8wZXloMFZxZW41eFNRLTYyRVJMU1RyY0toaUR0UTNlMmZaTTJ"
+        "date": "Wed, 25 Feb 2026 00:47:34 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1NYTJPSVdGc1FReGhmdWZla0FTS1JGWHNhVmFsc042V2F2dWs2LXpvQTVqWkhNOGYzTWk0R1lzLWlxVEV2M0llX2h4bXRZUnhMSG5EZ3ZMdG1Yek5hZDJiQUpyTWNzTmVQd045VU9"
       },
       {
-        "headline": "Our Take On Tariffs - Real Investment Advice",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MRXpCa0NES2l2elZkcWtKWXZhSFpIWWhQT0lCOFVHUl8tSG1ZVm1sY00wTXhzXzJEVG9vaXNtSFpGWDRLWnI5R3hIQXdWZ2RyQUVjQ3p3V0hyalRXUWtUSW1JMUVrajBDQnMtZUl0SW1NeTNVcHhz?oc=5",
+        "headline": "U.S. Supreme Court tariff ruling will likely allow India to keep buying Russian oil - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnpoVFB5WXZSNGYxc0Y4VUV5T2hxa1lqSlFrOEZNWDZCRTVlSkdZS0lMTXhPendHY1pQRy1IcFYxSHF1eVNqUmNwYm5ISG1aVTRoS1lmWXBPNjNDNzgyYlkteFR4d1p4aGVpOE54VFk5NHZvYjJ5eVl1UkpZMlNyaGo2VjVJbEFl0gGOAUFVX3lxTE16ZVBaZlU1a3JIUE9kT2tIU0xTanFPb25VWmZXRlBBYlJ6eXl6MlF2bjJ1dUV6Ni1UR0dRVlpDS0RqT3hGb3VVSkQ5YWV4SkJmdW9DZDluS3c0SW4zWVZUWlFIeFg0Q1BOUnYzWU1uNkVIQ2p4ZkdLdzlCRUx0NnFYd2QtbW1LVDRWUnNnS2c?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Tue, 24 Feb 2026 09:49:48 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1MRXpCa0NES2l2elZkcWtKWXZhSFpIWWhQT0lCOFVHUl8tSG1ZVm1sY00wTXhzXzJEVG9vaXNtSFpGWDRLWnI5R3hIQXdWZ2RyQUVjQ3p3V0hyalRXUWtUSW1JMUVrajBDQnMtZUl"
+        "date": "Wed, 25 Feb 2026 02:10:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnpoVFB5WXZSNGYxc0Y4VUV5T2hxa1lqSlFrOEZNWDZCRTVlSkdZS0lMTXhPendHY1pQRy1IcFYxSHF1eVNqUmNwYm5ISG1aVTRoS1lmWXBPNjNDNzgyYlkteFR4d1p4aGVpOE5"
       },
       {
-        "headline": "Trump vows higher tariffs on countries that 'play games' with existing trade deals - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kN3VOR0JpM085aGV3enduaG1wNlhkX1JUR05aa1N4WW14dVBhTG50UGo2SExfZ3E5UVBNZzNXcDhpamxqQWdoVWo0M2VvSEdGWmEtRGFTOHNJQQ?oc=5",
+        "headline": "US Supreme Court blocks Trump tariffs – but the trade war isn't over - ODI: Think change",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNalhlOUktb3A4VzJidmZwcy1NZWJwaGdubGNfejUwSnBrWncwZi1IakQ5MVNOY1ktQzhaWXQ5UUx4UFFTZVAzTW5nSGt4dEVXMzJDZFJnSXF0N3FPTi1WTmZ4Q2ItcWR2a2pMMW1GRWxaajlUWTRSbGV0NWxhQUNTdGF1UkFyQWJjM182OGY5QXJGc1pXcFdDaU9B?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Mon, 23 Feb 2026 21:12:43 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kN3VOR0JpM085aGV3enduaG1wNlhkX1JUR05aa1N4WW14dVBhTG50UGo2SExfZ3E5UVBNZzNXcDhpamxqQWdoVWo0M2VvSEdGWmEtRGFTOHNJQQ?oc=5\" target=\"_blank\"&gt"
+        "date": "Tue, 24 Feb 2026 14:43:30 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNalhlOUktb3A4VzJidmZwcy1NZWJwaGdubGNfejUwSnBrWncwZi1IakQ5MVNOY1ktQzhaWXQ5UUx4UFFTZVAzTW5nSGt4dEVXMzJDZFJnSXF0N3FPTi1WTmZ4Q2ItcWR2a2pMMW1"
       },
       {
-        "headline": "EU lawmakers decided to delay the approval of the bloc's trade deal with the US due to uncertainty over President Donald Trump's newest tariff policy. Last week Trump imposed a new blanket 15% duty in response to a ruling by the US Supreme Court that str - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd2NMU1FqT0pnTWVETFU1RUxVYW04bDB0MENuNG5hcTJOVy1ycnc1OHpfX1B3TXZXblg3OXFneDJCbUVic01FNVRkbGgtZFlKSHNRWkYtYWlYa2RWRE03ZjJwQTI5b3FjS3ZLMGhJWlVIbWlOZzVCMEZ4U0pCQklzUy1UTFlDdE9XMXJ0MFhUcFJjQXBSZlhZeWpmS195a21laGlyUVFEQ1NiQWhZNUNFTkF4NlRRQTl6X3drVGZ5ZHFRUENGN1ZvSUdXeFlGY3lEOG9DR2NOZEpaUmVkNEhSbA?oc=5",
+        "headline": "Trump’s Dangerous Tariff Addiction - Washington Monthly",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ1lwcHc0QW9sQUlhX1pvNG16UlZnUjVrZVRCMG90X0dHTUdWYWR0enlKSkVNdzgycnVxMFgxMmhiOEkzT2pMRXdELXpVUjIzRnAyaEd2NVZQNGN1WnNSQzVkNW1DQm4xbXViTHMtaWpFaHM5MW5vdFA3cF9DWEwyaXg2dw?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Tue, 24 Feb 2026 07:16:22 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd2NMU1FqT0pnTWVETFU1RUxVYW04bDB0MENuNG5hcTJOVy1ycnc1OHpfX1B3TXZXblg3OXFneDJCbUVic01FNVRkbGgtZFlKSHNRWkYtYWlYa2RWRE03ZjJwQTI5b3FjS3ZLMGh"
+        "date": "Wed, 25 Feb 2026 10:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ1lwcHc0QW9sQUlhX1pvNG16UlZnUjVrZVRCMG90X0dHTUdWYWR0enlKSkVNdzgycnVxMFgxMmhiOEkzT2pMRXdELXpVUjIzRnAyaEd2NVZQNGN1WnNSQzVkNW1DQm4xbXViTHM"
       }
     ],
     "byCategory": {
       "business": [
         {
-          "headline": "Indian IT Stocks Slide to 30-Month Low as Citrini Flags AI Risks",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/indian-it-stock-selloff-deepens-on-ai-scare-after-citrini-report",
+          "headline": "Bitcoin Holders Sitting on Losses Are Selling Into Every Bounce",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-02-25/bitcoin-holders-sitting-on-losses-are-selling-into-every-bounce",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 04:58:07 GMT",
-          "description": "A rout in Indian software services stocks deepened, tracking a US tech selloff, after a report from Citrini Research amplified concerns about companies vulnerable to the growing influence of artificia"
+          "date": "Wed, 25 Feb 2026 11:15:37 GMT",
+          "description": "About 45% of all of Bitcoin in circulation are currently valued at below what the owner paid."
         },
         {
-          "headline": "Arini’s Lemssouguer Says AI Fear Risks Software Defaults",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/arini-s-lemssouguer-says-ai-fear-alone-risks-software-defaults",
+          "headline": "Bond Traders Are Betting on Fed Rate Cuts Spilling Into 2027",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-24/bond-traders-are-betting-on-fed-rate-cuts-spilling-into-2027",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 09:09:52 GMT",
-          "description": "Fear of AI’s potential for disruption is enough to push up borrowing costs for software companies, causing problems for a sector that has a lot of debt, according to Arini Capital Management’s founder"
+          "date": "Tue, 24 Feb 2026 21:30:19 GMT",
+          "description": "Traders in US futures and options markets are piling on bets that the Federal Reserve will continue cutting rates into next year instead of raising them."
         },
         {
-          "headline": "US Can Sell More T-Bills to Offset Lost Tariff Revenue, BNY Says",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/us-can-sell-more-t-bills-to-offset-lost-tariff-revenue-bny-says",
+          "headline": "Deutsche's Saravelos to 'Keep Writing' After US Ire",
+          "url": "https://www.bloomberg.com/news/videos/2026-02-25/deutsche-s-saravelos-to-keep-writing-after-us-ire-video",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:21:28 GMT",
-          "description": "The US is likely to issue more short-dated notes to make up for lost revenues after the Supreme Court overturned President Donald Trump’s tariffs, according to a BNY strategist."
+          "date": "Wed, 25 Feb 2026 11:12:00 GMT",
+          "description": "Deutsche Bank's global head of FX research George Saravelos, who wrote a report that became the subject of US ire, says the episode \"really reaffirmed the importance of research independence.\" Last mo"
         },
         {
-          "headline": "Fire, Power Outage Disrupt Operations at Cape Town Airport",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/fire-power-outage-disrupt-operations-at-cape-town-airport",
+          "headline": "Temenos Jumps as Software Firm Lifts Targets and Plays Down AI Fear",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-25/temenos-jumps-as-software-firm-lifts-targets-plays-down-ai-fear",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:16:13 GMT",
-          "description": "A fire and a power outage disrupted operations at Cape Town International Airport on Tuesday, leading to delays at the gateway to South Africa’s main tourism hub."
+          "date": "Wed, 25 Feb 2026 11:07:25 GMT",
+          "description": "Temenos shares gained after the software company lifted its mid-term guidance, pushing back on worries over the impact of artificial intelligence on the sector."
         },
         {
-          "headline": "Old-Economy Stocks Are Looking Pretty Good Right About Now",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-02-24/old-economy-stocks-are-looking-pretty-good-right-about-now",
+          "headline": "Bangladesh Bank Chief Quits Abruptly After Government Change",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-25/bangladesh-bank-chief-quits-abruptly-after-change-in-government",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:06:54 GMT",
-          "description": "A basket of capital-intensive stocks is rallying as investors flee AI disruption."
+          "date": "Wed, 25 Feb 2026 09:55:36 GMT",
+          "description": "The head of Bangladesh’s central bank stepped down in a surprise departure that comes just over a week after the inauguration of the country’s new democratically elected government."
         },
         {
-          "headline": "Tata Defers Vote on Chairman’s New Term, Signaling Power Tussle",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/tata-defers-vote-on-chairman-s-new-term-signaling-power-tussle",
+          "headline": "Gold Rises as Traders Weigh Tariff Risks and Middle East Tension",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-24/gold-dips-for-second-day-on-prospects-of-prolonged-rate-hold",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:00:30 GMT",
-          "description": "The board of Tata Sons Pvt. deferred a decision on granting a third term to Chairman Natarajan Chandrasekaran, people familiar said, in the latest sign that another leadership tussle could be brewing "
+          "date": "Tue, 24 Feb 2026 23:38:37 GMT",
+          "description": "Gold rose and silver surged, as traders weighed uncertainty around US import tariffs and frictions in the Middle East."
         },
         {
-          "headline": "America’s Ube Obsession Is Straining Supplies",
-          "url": "https://www.bloomberg.com/news/videos/2026-02-24/america-s-ube-obsession-is-straining-supplies",
+          "headline": "RBA’s Bullock Says Tough to Make Judgments on Economy at Moment",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-25/rba-s-bullock-says-tough-to-make-judgments-on-economy-at-moment",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:00:04 GMT",
-          "description": "Ube has officially gone viral. Purple lattes, cheesecakes and pancakes are increasingly cropping up on dessert menus, but as a result, supplies are tightening. Ilena Peng has more. (Source: Bloomberg)"
+          "date": "Wed, 25 Feb 2026 10:50:00 GMT",
+          "description": "Australia’s central bank Governor Michele Bullock said judging the economy is “a little bit more difficult” now than in previous periods when it was raising interest rates, reinforcing her cautious po"
         },
         {
-          "headline": "Meat Snack Maker Archer Gets $100 Million Loan as Demand From Women Grows",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/meat-snack-maker-archer-gets-100-million-loan-as-demand-from-women-grows",
+          "headline": "European and UK Stocks Hit Records Powered by Banks and Miners",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-02-25/ftse-100-live-trump-tariffs-pound-gilts-hsbc-diageo-what-s-moving-uk-markets-right-now-markets-today",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:00:00 GMT",
-          "description": "Archer Meat Snacks secured a credit facility for nearly $100 million from JPMorgan Chase &amp; Co., allowing it to ramp up production as demand surges for its high-protein snacks &mdash; particularly "
+          "date": "Wed, 25 Feb 2026 06:45:25 GMT",
+          "description": ""
         },
         {
-          "headline": "Exxon Touts Guyana Growth in Race For Next Decade’s Oil Fields",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/exxon-touts-guyana-growth-in-race-for-next-decade-s-oil-fields",
+          "headline": "Diageo’s New CEO Wants Distiller to Get Back to Serving Drinkers",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-25/diageo-cuts-outlook-in-early-challenge-for-new-ceo-dave-lewis",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:00:00 GMT",
-          "description": "Exxon Mobil Corp. is betting the economic boom unleashed by its giant discovery in Guyana will give the company an edge when negotiating fiscal terms with other nations looking to develop their own oi"
+          "date": "Wed, 25 Feb 2026 07:07:29 GMT",
+          "description": "Diageo Plc’s new Chief Executive Officer Dave Lewis has found the main cause of the British distiller’s struggles: It has forgotten how to serve drinks to its customers properly."
         },
         {
-          "headline": "Nippon Steel Upsizes Bond Sale for US Steel Loan to $3.8 Billion",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/nippon-steel-to-sell-3-5-billion-worth-of-convertible-bonds",
+          "headline": "Stocks Rise as AI Trade Faces Nvidia Earnings Test: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-24/stock-market-today-dow-s-p-live-updates-",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 07:12:00 GMT",
-          "description": "Nippon Steel Corp. is seeking 600 billion yen ($3.8 billion) from an upsized sale of convertible bonds, one of the biggest Japanese offerings of its kind on record, to help repay loans taken out for i"
+          "date": "Tue, 24 Feb 2026 22:33:40 GMT",
+          "description": "Stocks posted modest gains after days of swings as traders await Nvidia Corp.’s earnings to see whether the chipmaker can regain its place as the artificial-intelligence trade’s main driver."
         },
         {
-          "headline": "Trump's new tariff comes into effect at lower than expected rate",
-          "url": "https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Household energy bills to fall in April after charges shake-up",
+          "url": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:38:28 GMT",
-          "description": "The global levy comes in at 10%, lower than the rate the president had threatened at the weekend."
+          "date": "Wed, 25 Feb 2026 09:49:24 GMT",
+          "description": "Changes announced in the Budget mean all energy bills will see some kind of reduction, but it will vary."
         },
         {
-          "headline": "Number of workers on zero-hours contracts hits record high ahead of crackdown",
-          "url": "https://www.bbc.com/news/articles/czj1m7d4gxpo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Aston Martin cuts 20% of workforce as losses widen",
+          "url": "https://www.bbc.com/news/articles/cp9m8n2vx0mo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 06:01:50 GMT",
-          "description": "There has been a 181,000 increase in the number of zero-hours contracts since Labour was elected."
+          "date": "Wed, 25 Feb 2026 10:09:37 GMT",
+          "description": "About 600 jobs will go at the luxury car maker, which in part blames US tariffs for its troubles."
         },
         {
-          "headline": "Chocolate kept in anti-theft boxes as shops warn it's being stolen to order",
-          "url": "https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Gucci criticised for 'AI slop' images ahead of major fashion show",
+          "url": "https://www.bbc.com/news/articles/cjwz6yzn5jqo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:39:39 GMT",
-          "description": "Retailers and police forces tell the BBC that thieves are targeting chocolate and selling it on."
+          "date": "Wed, 25 Feb 2026 10:55:39 GMT",
+          "description": "Users of social media - where the marketing campaign has been launched - say it is out of keeping with Gucci's reputation for luxury."
         },
         {
-          "headline": "Reform vows to overhaul pension schemes for new local government workers",
-          "url": "https://www.bbc.com/news/articles/c875edj1qeno?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Shein's elusive boss hails Chinese roots in rare public appearance",
+          "url": "https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 22:14:36 GMT",
-          "description": "Reform plans to end more generous defined benefit pension schemes for new local government workers if it wins office"
+          "date": "Wed, 25 Feb 2026 03:18:11 GMT",
+          "description": "His speech follows years of the firm focusing away from China as it moved its headquarters to Singapore."
         },
         {
-          "headline": "Trump Organization unveils plan for 'Australia's tallest building'",
-          "url": "https://www.bbc.com/news/articles/cyv9nj336v5o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "New travel rules kick in - how are dual nationals affected?",
+          "url": "https://www.bbc.com/news/articles/cy57p1v61d1o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 03:20:45 GMT",
-          "description": "The tower will be built on Queensland's Gold Coast and be 335 metres high, taller than the Shard in London."
+          "date": "Wed, 25 Feb 2026 10:07:33 GMT",
+          "description": "From 25 February, a new system will come into force which will affect many people, including British dual nationals."
         },
         {
           "headline": "Orbital space race heats up in Arctic north",
@@ -882,450 +882,450 @@
           "description": "Europe lags far behind the US and China in orbital space launches, but new facilities are opening up."
         },
         {
-          "headline": "FedEx sues for Trump tariff refund",
-          "url": "https://www.bbc.com/news/articles/cly83r1njjro?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Discord delays age verification plans after user outcry",
+          "url": "https://www.bbc.com/news/articles/cvgv0yg4n9lo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 01:18:27 GMT",
-          "description": "The US Supreme Court ruling that the US president overstepped when imposing levies paved the way for firms to seek a refund."
+          "date": "Tue, 24 Feb 2026 22:43:26 GMT",
+          "description": "Users were unhappy about plans for age verification to require facial or ID scans."
         },
         {
-          "headline": "No 10 says ‘nothing off the table’ over new US tariffs as UK could be among worst hit",
-          "url": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Paramount boosts Warner Bros offer to rival Netflix in takeover bid",
+          "url": "https://www.bbc.com/news/articles/c24dz0683dyo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 18:34:22 GMT",
-          "description": "Downing Street says discussions are ongoing following US President Donald Trump's announcement of a 15% global tariffs."
+          "date": "Wed, 25 Feb 2026 00:01:02 GMT",
+          "description": "Warner Bros says the latest proposal could convince it to abandon the deal it struck with Netflix."
         },
         {
-          "headline": "Company director jailed over £7m airline parts fraud",
-          "url": "https://www.bbc.com/news/articles/c14mgl4ddr2o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "US threatens Anthropic with deadline in dispute on AI safeguards",
+          "url": "https://www.bbc.com/news/articles/cjrq1vwe73po?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 16:43:44 GMT",
-          "description": "The judge said the actions were a \"more or less complete undermining\" of rules designed to ensure passenger flights are safe."
+          "date": "Tue, 24 Feb 2026 22:58:46 GMT",
+          "description": "The AI developer laid out red lines on military use of its products, a source said."
         },
         {
-          "headline": "Netflix boss defends bid for Warner Bros as Paramount deadline looms",
-          "url": "https://www.bbc.com/news/articles/c20jn073gj4o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Apple says some Mac Mini production will move to the US",
+          "url": "https://www.bbc.com/news/articles/c4g8eq9z2v8o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 12:21:31 GMT",
-          "description": "Ted Sarandos says his company's offer is better for industry growth as it is \"buying assets we don't currently have\"."
+          "date": "Tue, 24 Feb 2026 22:09:00 GMT",
+          "description": "The technology giant had pledged to increase investment in the US by $600bn, under pressure from Trump."
         }
       ],
       "general": [
         {
-          "headline": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
-          "url": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Trump's theatrical State of the Union address offers little hint of any change in course",
+          "url": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 06:02:13 GMT",
-          "description": "Four men expose the horror and brutality of conditions in the Ukraine war, with two saying they saw soldiers being shot for refusing orders."
+          "date": "Wed, 25 Feb 2026 10:11:20 GMT",
+          "description": "The BBC's Anthony Zurcher says the US president appealed to his base and taunted his opponents in a marathon speech."
         },
         {
-          "headline": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
-          "url": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Japan to deploy missiles on island near Taiwan by 2031",
+          "url": "https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 21:12:47 GMT",
-          "description": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces."
+          "date": "Wed, 25 Feb 2026 06:00:50 GMT",
+          "description": "The remote Yonaguni island lies on the frontlines of self-governing Taiwan's growing tensions with China."
         },
         {
-          "headline": "More than 5,000 flights cancelled as US east coast digs out of record snow",
-          "url": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Chinese dance group's tour triggers bomb threat against Australian PM",
+          "url": "https://www.bbc.com/news/articles/ce3gj35q541o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 08:30:46 GMT",
-          "description": "A major snowstorm dumps more than a foot of snow in several areas, bringing power cuts and disruption."
+          "date": "Wed, 25 Feb 2026 08:13:42 GMT",
+          "description": "The group was told to cancel its performances or explosives would be set off at Anthony Albanese's house."
         },
         {
-          "headline": "French minister moves to block US envoy Kushner from government access",
-          "url": "https://www.bbc.com/news/articles/c8d5eg5pl34o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Drones hammer Sudan's gold and oil zone - the pivotal new front line",
+          "url": "https://www.bbc.com/news/articles/cjwz6z14w65o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 22:55:06 GMT",
-          "description": "The minister says Charles Kushner, father of Trump's son-in-law Jared, failed to explain comments about violence in France."
+          "date": "Wed, 25 Feb 2026 00:43:00 GMT",
+          "description": "Intensified attacks in the Kordofan region have led to mass casualties as peace remains elusive."
         },
         {
-          "headline": "Ukraine negotiator tells BBC how it feels to sit across table from Russia",
-          "url": "https://www.bbc.com/news/articles/c89k0lxlpnpo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Senegal PM proposes tougher anti-LGBT law, doubling prison terms",
+          "url": "https://www.bbc.com/news/articles/c7vj15zlmv6o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 19:17:11 GMT",
-          "description": "Sergiy Kyslytsya is among those trying to negotiate an end to the conflict, which is entering its fifth year."
+          "date": "Wed, 25 Feb 2026 05:46:42 GMT",
+          "description": "The bill seeks prison terms of five to ten years for what it describes as \"acts against nature\"."
         },
         {
-          "headline": "Robert Carradine, Lizzie McGuire and Revenge of the Nerds star, dies aged 71",
-          "url": "https://www.bbc.com/news/articles/cy0dqpjjprno?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "German chancellor lands in Beijing for inaugural China trip",
+          "url": "https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:34:31 GMT",
-          "description": "His family says the actor took his own life after living with bipolar disorder for nearly two decades."
+          "date": "Wed, 25 Feb 2026 05:53:48 GMT",
+          "description": "Friedrich Merz said it would be a mistake to \"decouple\" Germany from China shortly before boarding a plane to Beijing."
         },
         {
-          "headline": "Probe under way after illness kills 72 tigers in Thai tourist park",
-          "url": "https://www.bbc.com/news/articles/cly833zjp4po?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Australia police make arrests over alleged murder of grandfather mistakenly kidnapped",
+          "url": "https://www.bbc.com/news/articles/cx2d7zyd41go?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 08:31:11 GMT",
-          "description": "Authorities say samples showed the canine distemper virus, but have not confirmed where it came from."
+          "date": "Wed, 25 Feb 2026 05:09:56 GMT",
+          "description": "Police have said 85-year-old Chris Baghsarian was not the intended target of the alleged crime."
         },
         {
-          "headline": "US partially evacuates Beirut embassy amid rising Iran tensions",
-          "url": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Louvre museum director resigns months after high-profile heist",
+          "url": "https://www.bbc.com/news/articles/ce3gj7jjl7jo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 19:08:55 GMT",
-          "description": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review."
+          "date": "Tue, 24 Feb 2026 19:23:36 GMT",
+          "description": "Laurence des Carrs submitted her resignation to President Emmanel Macron, who said it was \"an act of responsibility\"."
         },
         {
-          "headline": "Trump threatens countries that 'play games' with existing trade deals",
-          "url": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Don't break up NewJeans and I'll forgo $18m payout, says ex-K-pop boss",
+          "url": "https://www.bbc.com/news/articles/c98qd17e274o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 21:12:43 GMT",
-          "description": "The threat comes after the Supreme Court ruled on Friday that Trump had exceeded his authority in enacting a sweeping global programme of tariffs."
+          "date": "Wed, 25 Feb 2026 07:54:46 GMT",
+          "description": "Min Hee-jin has said she \"can no longer bear to watch\" the group get \"torn apart\"."
         },
         {
-          "headline": "Moscow rail hub explosion was suicide bomb, Russian officials say",
-          "url": "https://www.bbc.com/news/articles/czx4pyx9g46o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Ukraine remembers its dead as war enters a fifth year",
+          "url": "https://www.bbc.com/news/articles/clyg7r3nd3ko?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:49:52 GMT",
-          "description": "A traffic police officer and the suspect were killed in the explosion, Russian officials say."
+          "date": "Tue, 24 Feb 2026 18:13:58 GMT",
+          "description": "Events were held across Ukraine to mark four years since Russia launched its full-scale invasion."
         },
         {
-          "headline": "New Trump tariffs take effect days after Supreme Court decision - Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTJZOTEtcEhEOFF4UDl2anpMdXBrWVJlTTlyWWRrNTBrRXBTR3lzd3haNnVrWHJYWW8wSVltODFUMm9VYUQxYnZKcmQ2eHJDYWhuMXBtYzM3ZDB6N21BcTNhWk80dmphd2N5RkRnYUx2c1dUb3lCUWIxUDdLbGlyRE9DQjZqRE1fV0J6aWEwaGphTHl0dVFwMEh5VFpRdmN0cWVkYm13MNIBrAFBVV95cUxONkZxejRfVzRtXzJHMkUtNUhlanVFZDFaUElJbzBWTG1PMmxCRGtqaktjUDNZRWo4T0w1V3oweGZjT2RCejBzNzhpNlAtY2FjaXFRUFhzR1VMSVBHbzlRd2FBVTdrbkVHQUtaclM2QWNoZ2FSNkNETWhmTGFldDBtUXVWcnF2SUpRMFJJMG52NTJPNExvZVV6bFZwckdZRWQ0c1RjYTlocUZqNmk5?oc=5",
+          "headline": "Now what? The future of Trump tariffs and trade policy after Supreme Court ruling - Brookings",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1BXR29PZTlUcFYwUXNZdXFYUGRKTGVuXzkxa0NqMzRocTNLc3pXbW1yWFBjVkgxWllocjVUV1A5dTRPWk9BRHAtREI5R0VxaE5DdFZWWklaQVdYSGlvWkR6XzB2SUdSQXlscDB2Xy1IOGV5MzA2eVgybzFXUTg3RzVzUFJSN0hnN25YWW4yOVFHcXRrcldGRUE5VGJoV2NoeE8tRHpHXzZiYlRySkw1Wmw3UG8?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 11:00:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTJZOTEtcEhEOFF4UDl2anpMdXBrWVJlTTlyWWRrNTBrRXBTR3lzd3haNnVrWHJYWW8wSVltODFUMm9VYUQxYnZKcmQ2eHJDYWhuMXBtYzM3ZDB6N21BcTNhWk80dmphd2N5RkR"
+          "date": "Tue, 24 Feb 2026 19:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1BXR29PZTlUcFYwUXNZdXFYUGRKTGVuXzkxa0NqMzRocTNLc3pXbW1yWFBjVkgxWllocjVUV1A5dTRPWk9BRHAtREI5R0VxaE5DdFZWWklaQVdYSGlvWkR6XzB2SUdSQXlscDB"
         },
         {
-          "headline": "EU Warns That Trump’s New Tariff Policy Breaks Trade Deal - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEVrSE1rdWFxRURXMmRtc1NTS1VUU0d0MW9NaFJ0ZnZjcGhMS0JDMF8zQ0paVVpZWVdkeWl0TVFiVkM5eGt3dmRrUlRXZ1BXWk1mdmhlR3oxTkh1ek0yZW1wQW1ZOVhQLW5yWkJKRGp3ZmhIeERLT3BwcUpuREdqLXZmTEFRVUplM3pZdmVtTkFhdzNkaTh4MXZOdXo5ZVhfeGlSZmRnMzZjVEVLbnBxUTEwdw?oc=5",
+          "headline": "Supreme Court ruling against Trump’s tariffs is unlikely to mean an end to trade policy chaos - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGRsT1d3ZmNMeGZ3S3h5T3otdVBVVENFYXlNTzNkYkM5eTlFTjFsd2Jlc19HM2g1WjVpX1JfRGJKUlZoUm9pbFZMb3hjb2tEN20xUzNfdVdybUNIbVU4UVVxV1ZwYTQwT3dnMG12Ti1fMjNvUXJMa19CanJtc0JiQXJ1UUFnYkRjV3prVGdKQXd1c0FnOGhPYWJtOGdVeDMzNEIxdVh3?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 08:27:34 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEVrSE1rdWFxRURXMmRtc1NTS1VUU0d0MW9NaFJ0ZnZjcGhMS0JDMF8zQ0paVVpZWVdkeWl0TVFiVkM5eGt3dmRrUlRXZ1BXWk1mdmhlR3oxTkh1ek0yZW1wQW1ZOVhQLW5yWkJ"
+          "date": "Tue, 24 Feb 2026 17:13:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGRsT1d3ZmNMeGZ3S3h5T3otdVBVVENFYXlNTzNkYkM5eTlFTjFsd2Jlc19HM2g1WjVpX1JfRGJKUlZoUm9pbFZMb3hjb2tEN20xUzNfdVdybUNIbVU4UVVxV1ZwYTQwT3dnMG1"
         },
         {
-          "headline": "Supreme Court ruling against Trump's tariffs is unlikely to mean an en... - seMissourian",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZy1OaUs3QUptc2VYeHY4aWpDeVIyT2xlMWItbENNVWtMN1NFeFl1b0FlZUdYMjB4ZGJLMVlpQUQ0QnRaWG56LXdGM3ZSbW8xbnNzcTA3akNpQVBlbFdXWV9aR2ZCWklvcm9laDZNeE5qeHgxWmVsQ1hnSkMzY0d3NXdMdDBpc0oxU29fTzd6Z25xRUYwMjc1aGlOMVlrSFRQWUxuYkphWTExLUUyUkVFdmZ3XzhBVTJBcHlRUldPX1dudFo5UlhWbmdxcFNhUDRxMUE?oc=5",
+          "headline": "Here Are the Countries and Products Subject to Tariffs Now - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjg2dnFmWVhreXFuam9oQ3dmbnJIM1NrS2VaSkYwbnBZR0I4cjRXODItSHBEX2xmaVI3VmhMNXZfSWVWaDNtOHhHNVZxbjVidWFYYXVvNXZ6UDg3WVQ0N283V1lDdXJiZjFMNDZYdi1pTlIzX2NZS21CQWtaSHJ1a0JzcVh4dGJfamdn?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 07:55:27 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZy1OaUs3QUptc2VYeHY4aWpDeVIyT2xlMWItbENNVWtMN1NFeFl1b0FlZUdYMjB4ZGJLMVlpQUQ0QnRaWG56LXdGM3ZSbW8xbnNzcTA3akNpQVBlbFdXWV9aR2ZCWklvcm9laDZ"
+          "date": "Tue, 24 Feb 2026 19:25:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjg2dnFmWVhreXFuam9oQ3dmbnJIM1NrS2VaSkYwbnBZR0I4cjRXODItSHBEX2xmaVI3VmhMNXZfSWVWaDNtOHhHNVZxbjVidWFYYXVvNXZ6UDg3WVQ0N283V1lDdXJiZjFMNDZ"
         },
         {
-          "headline": "The tariff uncertainty trade is back - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZDdYYUdpZmh6X195QmdWOFd1WjZDNkRRSTFoODZ0SWs5NkQydjljRlBLdEZaNlVQcVAtd2d1bVJKb3RTaDM3V2hJak11eWU5LWIyZ1VqaHF1N1pFZUpMakNXWDdYVmFkTGtsOHhpZG9EYWZ3a0xmVXlOd2xNMVAtTUlxZ2FmcDY1QlE?oc=5",
+          "headline": "Landmark Supreme Court ruling may change little for you | Opinion - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmtqU3BCclJLQkhEZEtzbXhsVkU4OEdqZDJvRVBSRHhlaXZLS1VWMXgzWlh0T1NPRjZqU2laMTFLSl9sbERkZEhvNTdCQXZFWkE4MXRoR3ZQbnF4NE5VVTBzd3FIMXVfMkZNOUl5bXJHeDBIOG9PLWNQdm54MjFjNWhDdWRWNmpOSmQwM19wZkdpaHRMLWl4UHFPSkFTNnBLZjZPMlFFMmozMU9vaDVRQWZxRzA?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 11:00:11 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZDdYYUdpZmh6X195QmdWOFd1WjZDNkRRSTFoODZ0SWs5NkQydjljRlBLdEZaNlVQcVAtd2d1bVJKb3RTaDM3V2hJak11eWU5LWIyZ1VqaHF1N1pFZUpMakNXWDdYVmFkTGtsOHh"
+          "date": "Wed, 25 Feb 2026 10:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmtqU3BCclJLQkhEZEtzbXhsVkU4OEdqZDJvRVBSRHhlaXZLS1VWMXgzWlh0T1NPRjZqU2laMTFLSl9sbERkZEhvNTdCQXZFWkE4MXRoR3ZQbnF4NE5VVTBzd3FIMXVfMkZNOUl"
         },
         {
-          "headline": "The Supreme Court Clipped Trump’s Tariff Powers—and Opened New Trade Battlefronts - Council on Foreign Relations",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0x6NFdlR0plUVV6c2VZa0F5SmdOcFd1dDdOYV83elVWZGlzVlFsTzdXUVFzSXJaSkJkUjlTRkt5aC1TejdSek1ZUE1XQ0hBZS1XbHhoZzRiUnlPb204cFVOckJZRzkxQWlrdTA3dEt1QUJCWllzX2RSeUQyYlIydWdiOFVVWGhfVUpiRGQ1NFJURGRXcXM1djBFSFNINWJHajNPLTZ6bkRyNXdyRnpN?oc=5",
+          "headline": "How Trump’s Tariffs and Trade Policy Impact Retirement Portfolios - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdFhVVVEzNFVYdldrMW9BaTdpWXlGamxoOGxaYVNhSGEwNlpTY1BCTnZQS0FqVGU1MER6RUlzXzVZU0cwSUVtSDdZREc0SUVvM2NIRkRmVXV3TGxmMm5rRVFrUUhoYmhKRnVQQ2kwY3R2djdjN3h3OUhNNkZ0VFR3dWpkNA?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Mon, 23 Feb 2026 21:25:55 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0x6NFdlR0plUVV6c2VZa0F5SmdOcFd1dDdOYV83elVWZGlzVlFsTzdXUVFzSXJaSkJkUjlTRkt5aC1TejdSek1ZUE1XQ0hBZS1XbHhoZzRiUnlPb204cFVOckJZRzkxQWlrdTA"
+          "date": "Wed, 25 Feb 2026 05:31:06 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQdFhVVVEzNFVYdldrMW9BaTdpWXlGamxoOGxaYVNhSGEwNlpTY1BCTnZQS0FqVGU1MER6RUlzXzVZU0cwSUVtSDdZREc0SUVvM2NIRkRmVXV3TGxmMm5rRVFrUUhoYmhKRnVQQ2k"
         },
         {
-          "headline": "President’s Trade Officer Says No Change on Tariff Policy After Court Loss - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pVXEwUHdWN0YzYjdWci15c0h3SXp4eEhob1IzdEVtQWl2c1dJZHpJZEVhRmVSZ0ZxTEVEOHFwZFBxOEVNTE5rT1UxOEJlOE9taG5aYTNmSUREX0dlWTQ1aUF0WQ?oc=5",
+          "headline": "Eight questions (and expert answers) on what’s next for US tariff policy - Atlantic Council",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVpudnNmRG43VWhTWWkzOTRWajUzaHRIYnVvUTJWR3FIRVNYcUtWRWZmNU5nZC1fVFl2U0R5U2dDSkM5Ql8xd3IyTjY5LTMyOHNTLWI3WjZqOWpnbEN5Q181dEVIc3ZrUUhSYURoNHg2NVN3b0dBTC1qX3V3RGotWERCQURkUG42cm50R25kZjFWQWQ2X2laeUhzVGFJTG9oMGtCY3FoRzVKY3ctaDhjSVMxcw?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 02:34:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pVXEwUHdWN0YzYjdWci15c0h3SXp4eEhob1IzdEVtQWl2c1dJZHpJZEVhRmVSZ0ZxTEVEOHFwZFBxOEVNTE5rT1UxOEJlOE9taG5aYTNmSUREX0dlWTQ1aUF0WQ?oc=5\" target"
+          "date": "Tue, 24 Feb 2026 22:55:35 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVpudnNmRG43VWhTWWkzOTRWajUzaHRIYnVvUTJWR3FIRVNYcUtWRWZmNU5nZC1fVFl2U0R5U2dDSkM5Ql8xd3IyTjY5LTMyOHNTLWI3WjZqOWpnbEN5Q181dEVIc3ZrUUhSYUR"
         },
         {
-          "headline": "Supreme Court ruling throws Trump administration's tariff strategy into flux. What it means for global trade, U.S. economy - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0MwUkIxemthYTZhVU9zRU94Z2plbXllLVU5d1BtYmV5WWZNbFRMaTVhNi0wanJHcXhxS0Rtdks2TU02UThsSl8wZXloMFZxZW41eFNRLTYyRVJMU1RyY0toaUR0UTNlMmZaTTJrWFF5b1VfaHktaEN6UFZvcjFwa3h4ZGFMZ0pGUnU3NEU5d1U0R0tnbTBRSjVrVjljbVk4Sm1lOEpR0gGrAUFVX3lxTFBXdHpQNDhEOGJicjdMb3R3ZUhza0lyS0dacU80YlQ5ZmJya0xDaS1xbmRSRFdUQTZNZXl1cG9kU0FNTlFtc2Vwb0JRVzFuVWVsSnE1eHZLZ002alYzZHdCQS0tbEZBaDZoYjJha19ZT3lXcmxMa19rZS12bEx6SHBrd0Q2V1FtOTBLQUhzMC1aanVQdWJFeUdPQnVuWk1ULUZjdVBNMTREMTNCUQ?oc=5",
+          "headline": "Supreme Court Rules on Trump Tariffs: What to Do Now - CLA (CliftonLarsonAllen)",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NYTJPSVdGc1FReGhmdWZla0FTS1JGWHNhVmFsc042V2F2dWs2LXpvQTVqWkhNOGYzTWk0R1lzLWlxVEV2M0llX2h4bXRZUnhMSG5EZ3ZMdG1Yek5hZDJiQUpyTWNzTmVQd045VU9HdjRicFBTNDZWTFFDTG8?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Mon, 23 Feb 2026 22:53:54 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0MwUkIxemthYTZhVU9zRU94Z2plbXllLVU5d1BtYmV5WWZNbFRMaTVhNi0wanJHcXhxS0Rtdks2TU02UThsSl8wZXloMFZxZW41eFNRLTYyRVJMU1RyY0toaUR0UTNlMmZaTTJ"
+          "date": "Wed, 25 Feb 2026 00:47:34 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1NYTJPSVdGc1FReGhmdWZla0FTS1JGWHNhVmFsc042V2F2dWs2LXpvQTVqWkhNOGYzTWk0R1lzLWlxVEV2M0llX2h4bXRZUnhMSG5EZ3ZMdG1Yek5hZDJiQUpyTWNzTmVQd045VU9"
         },
         {
-          "headline": "Our Take On Tariffs - Real Investment Advice",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MRXpCa0NES2l2elZkcWtKWXZhSFpIWWhQT0lCOFVHUl8tSG1ZVm1sY00wTXhzXzJEVG9vaXNtSFpGWDRLWnI5R3hIQXdWZ2RyQUVjQ3p3V0hyalRXUWtUSW1JMUVrajBDQnMtZUl0SW1NeTNVcHhz?oc=5",
+          "headline": "U.S. Supreme Court tariff ruling will likely allow India to keep buying Russian oil - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnpoVFB5WXZSNGYxc0Y4VUV5T2hxa1lqSlFrOEZNWDZCRTVlSkdZS0lMTXhPendHY1pQRy1IcFYxSHF1eVNqUmNwYm5ISG1aVTRoS1lmWXBPNjNDNzgyYlkteFR4d1p4aGVpOE54VFk5NHZvYjJ5eVl1UkpZMlNyaGo2VjVJbEFl0gGOAUFVX3lxTE16ZVBaZlU1a3JIUE9kT2tIU0xTanFPb25VWmZXRlBBYlJ6eXl6MlF2bjJ1dUV6Ni1UR0dRVlpDS0RqT3hGb3VVSkQ5YWV4SkJmdW9DZDluS3c0SW4zWVZUWlFIeFg0Q1BOUnYzWU1uNkVIQ2p4ZkdLdzlCRUx0NnFYd2QtbW1LVDRWUnNnS2c?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 09:49:48 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1MRXpCa0NES2l2elZkcWtKWXZhSFpIWWhQT0lCOFVHUl8tSG1ZVm1sY00wTXhzXzJEVG9vaXNtSFpGWDRLWnI5R3hIQXdWZ2RyQUVjQ3p3V0hyalRXUWtUSW1JMUVrajBDQnMtZUl"
+          "date": "Wed, 25 Feb 2026 02:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnpoVFB5WXZSNGYxc0Y4VUV5T2hxa1lqSlFrOEZNWDZCRTVlSkdZS0lMTXhPendHY1pQRy1IcFYxSHF1eVNqUmNwYm5ISG1aVTRoS1lmWXBPNjNDNzgyYlkteFR4d1p4aGVpOE5"
         },
         {
-          "headline": "Trump vows higher tariffs on countries that 'play games' with existing trade deals - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kN3VOR0JpM085aGV3enduaG1wNlhkX1JUR05aa1N4WW14dVBhTG50UGo2SExfZ3E5UVBNZzNXcDhpamxqQWdoVWo0M2VvSEdGWmEtRGFTOHNJQQ?oc=5",
+          "headline": "US Supreme Court blocks Trump tariffs – but the trade war isn't over - ODI: Think change",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNalhlOUktb3A4VzJidmZwcy1NZWJwaGdubGNfejUwSnBrWncwZi1IakQ5MVNOY1ktQzhaWXQ5UUx4UFFTZVAzTW5nSGt4dEVXMzJDZFJnSXF0N3FPTi1WTmZ4Q2ItcWR2a2pMMW1GRWxaajlUWTRSbGV0NWxhQUNTdGF1UkFyQWJjM182OGY5QXJGc1pXcFdDaU9B?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Mon, 23 Feb 2026 21:12:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kN3VOR0JpM085aGV3enduaG1wNlhkX1JUR05aa1N4WW14dVBhTG50UGo2SExfZ3E5UVBNZzNXcDhpamxqQWdoVWo0M2VvSEdGWmEtRGFTOHNJQQ?oc=5\" target=\"_blank\"&gt"
+          "date": "Tue, 24 Feb 2026 14:43:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNalhlOUktb3A4VzJidmZwcy1NZWJwaGdubGNfejUwSnBrWncwZi1IakQ5MVNOY1ktQzhaWXQ5UUx4UFFTZVAzTW5nSGt4dEVXMzJDZFJnSXF0N3FPTi1WTmZ4Q2ItcWR2a2pMMW1"
         },
         {
-          "headline": "EU lawmakers decided to delay the approval of the bloc's trade deal with the US due to uncertainty over President Donald Trump's newest tariff policy. Last week Trump imposed a new blanket 15% duty in response to a ruling by the US Supreme Court that str - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd2NMU1FqT0pnTWVETFU1RUxVYW04bDB0MENuNG5hcTJOVy1ycnc1OHpfX1B3TXZXblg3OXFneDJCbUVic01FNVRkbGgtZFlKSHNRWkYtYWlYa2RWRE03ZjJwQTI5b3FjS3ZLMGhJWlVIbWlOZzVCMEZ4U0pCQklzUy1UTFlDdE9XMXJ0MFhUcFJjQXBSZlhZeWpmS195a21laGlyUVFEQ1NiQWhZNUNFTkF4NlRRQTl6X3drVGZ5ZHFRUENGN1ZvSUdXeFlGY3lEOG9DR2NOZEpaUmVkNEhSbA?oc=5",
+          "headline": "Trump’s Dangerous Tariff Addiction - Washington Monthly",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ1lwcHc0QW9sQUlhX1pvNG16UlZnUjVrZVRCMG90X0dHTUdWYWR0enlKSkVNdzgycnVxMFgxMmhiOEkzT2pMRXdELXpVUjIzRnAyaEd2NVZQNGN1WnNSQzVkNW1DQm4xbXViTHMtaWpFaHM5MW5vdFA3cF9DWEwyaXg2dw?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 07:16:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd2NMU1FqT0pnTWVETFU1RUxVYW04bDB0MENuNG5hcTJOVy1ycnc1OHpfX1B3TXZXblg3OXFneDJCbUVic01FNVRkbGgtZFlKSHNRWkYtYWlYa2RWRE03ZjJwQTI5b3FjS3ZLMGh"
+          "date": "Wed, 25 Feb 2026 10:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ1lwcHc0QW9sQUlhX1pvNG16UlZnUjVrZVRCMG90X0dHTUdWYWR0enlKSkVNdzgycnVxMFgxMmhiOEkzT2pMRXdELXpVUjIzRnAyaEd2NVZQNGN1WnNSQzVkNW1DQm4xbXViTHM"
         }
       ],
       "regional": [
         {
-          "headline": "Why Indonesia’s lead role in Gaza peacekeeping force carries high political risk",
-          "url": "https://www.scmp.com/week-asia/politics/article/3344477/why-indonesias-lead-role-gaza-peacekeeping-force-carries-high-political-risk?utm_source=rss_feed",
+          "headline": "China’s MiniMax, Moonshot top AI token use ranking, ending year of US dominance",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3344587/chinas-minimax-moonshot-top-ai-token-use-ranking-ending-year-us-dominance?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:31:59 +0000",
+          "date": "Wed, 25 Feb 2026 11:30:07 +0000",
           "description": ""
         },
         {
-          "headline": "4 years into Ukraine conflict, Zelensky says Russia’s Putin ‘did not win this war’",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3344478/4-years-ukraine-conflict-zelensky-says-russias-putin-did-not-win-war?utm_source=rss_feed",
+          "headline": "Can China and Philippines replace ‘disputes with cooperation’ after years of tension?",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3344626/can-china-and-philippines-replace-disputes-cooperation-after-years-tension?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:29:35 +0000",
+          "date": "Wed, 25 Feb 2026 11:26:30 +0000",
           "description": ""
         },
         {
-          "headline": "‘Record’ Chinese maritime militia deployed in South China Sea in 2025: US report",
-          "url": "https://www.scmp.com/news/china/military/article/3344474/record-chinese-maritime-militia-deployed-south-china-sea-2025-us-report?utm_source=rss_feed",
+          "headline": "Pressure mounts on Malaysia’s Anwar as allies seek new inquiry into MACC allegations",
+          "url": "https://www.scmp.com/week-asia/politics/article/3344621/pressure-mounts-malaysias-anwar-allies-seeks-new-inquiry-macc-allegations?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:18:23 +0000",
+          "date": "Wed, 25 Feb 2026 11:05:56 +0000",
           "description": ""
         },
         {
-          "headline": "China’s top court backs legal action against corrupt firms amid equity markets rally",
-          "url": "https://www.scmp.com/business/markets/article/3344453/chinas-top-court-backs-legal-action-against-corrupt-firms-amid-equity-markets-rally?utm_source=rss_feed",
+          "headline": "Hong Kong’s home prices reach 19-month high as rise gathers pace",
+          "url": "https://www.scmp.com/business/article/3344622/hong-kongs-home-prices-reach-19-month-high-rise-gathers-pace?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:00:20 +0000",
+          "date": "Wed, 25 Feb 2026 11:05:35 +0000",
           "description": ""
         },
         {
-          "headline": "Why did 72 tigers die at a Thailand tourist park in under 2 weeks?",
-          "url": "https://www.scmp.com/week-asia/health-environment/article/3344470/why-did-72-tigers-die-thailand-tourist-park-under-2-weeks?utm_source=rss_feed",
+          "headline": "In meeting with Merz, Xi urges efforts to advance China-Germany ties to ‘new levels’",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3344618/meeting-merz-xi-urges-efforts-advance-china-germany-ties-new-levels?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:58:22 +0000",
+          "date": "Wed, 25 Feb 2026 10:34:57 +0000",
           "description": ""
         },
         {
-          "headline": "China’s Lunar New Year box office hits 6-year low as releases fall flat",
-          "url": "https://www.scmp.com/economy/china-economy/article/3344458/chinas-lunar-new-year-box-office-hits-6-year-low-releases-fall-flat?utm_source=rss_feed",
+          "headline": "Row over speakers on Indonesian ‘island of 1,000 mosques’ sparks debate on compromise",
+          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3344616/row-over-speakers-indonesian-island-1000-mosques-sparks-debate-compromise?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:30:50 +0000",
+          "date": "Wed, 25 Feb 2026 10:31:05 +0000",
           "description": ""
         },
         {
-          "headline": "Hong Kong authorities probe death of scaffolding worker who fell from factory",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3344460/hong-kong-authorities-probe-death-scaffolding-worker-who-fell-factory?utm_source=rss_feed",
+          "headline": "A boat in every dock? Chinese billionaire unveils plan for mass yacht production",
+          "url": "https://www.scmp.com/economy/china-economy/article/3344583/boat-every-dock-chinese-billionaire-unveils-plan-mass-yacht-production?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:09:44 +0000",
+          "date": "Wed, 25 Feb 2026 10:30:07 +0000",
           "description": ""
         },
         {
-          "headline": "France demands answers from US envoy for ignoring summons as diplomatic feud deepens",
-          "url": "https://www.scmp.com/news/world/europe/article/3344459/france-demands-answers-us-envoy-ignoring-summons-diplomatic-feud-deepens?utm_source=rss_feed",
+          "headline": "Iranians on edge as Trump’s US ‘armada’ closes in: ‘a war will start’",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3344611/iranians-edge-trumps-us-armada-closes-war-will-start?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:08:44 +0000",
+          "date": "Wed, 25 Feb 2026 09:52:12 +0000",
           "description": ""
         },
         {
-          "headline": "India and Brazil set sights on US$30 billion trade milestone by 2030",
-          "url": "https://www.scmp.com/week-asia/economics/article/3344457/india-brazil-intensify-trade-diversification-amid-trumps-tariff-threats?utm_source=rss_feed",
+          "headline": "Here is how you and businesses will benefit from Hong Kong budget sweeteners hike",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3344602/hong-kong-budget-sweeteners-residents-and-businesses-climb-hk22-billion?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:06:25 +0000",
+          "date": "Wed, 25 Feb 2026 09:33:05 +0000",
           "description": ""
         },
         {
-          "headline": "Future of Japan’s ‘naked festival’ in doubt after 3 men left unconscious",
-          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3344455/future-japans-naked-festival-doubt-after-three-men-left-unconscious?utm_source=rss_feed",
+          "headline": "Malaysia blocks Grindr, Blued amid rising LGBTQ restrictions",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3344601/malaysia-blocks-grindr-blued-amid-rising-lgbtq-restrictions?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:00:14 +0000",
+          "date": "Wed, 25 Feb 2026 09:26:23 +0000",
           "description": ""
         }
       ],
       "trade": [
         {
-          "headline": "UK announces largest sanctions package against Russia since start of full-scale invasion",
-          "url": "https://www.politico.eu/article/uk-announce-sanctions-package-russia-ukraine-war/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "New Louvre president appointed months after spectacular heist",
+          "url": "https://www.politico.eu/article/new-louvre-president-appointed-months-after-spectacular-heist-christophe-leribault/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:46:51 +0000",
-          "description": "Britain is targeting Russia's war economy on the fourth anniversary of Vladimir Putin's invasion of Ukraine."
+          "date": "Wed, 25 Feb 2026 10:34:39 +0000",
+          "description": "Christophe Leribault takes over from  Laurence des Cars, who resigned Tuesday."
         },
         {
-          "headline": "Paris says US envoy’s no-show will &#8216;affect&#8217; role",
-          "url": "https://www.politico.eu/article/france-fm-jean-barrot-says-us-charles-kushner-ambassador-summons-no-show-will-impact-role/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Can Starmer conquer Burnham&#8217;s kingdom?",
+          "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/can-starmer-conquer-burnhams-kingdom/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:19:51 +0000",
-          "description": "Charles Kushner has been temporarily blocked from meeting members of the French government after failing to attend a diplomatic summons."
-        },
-        {
-          "headline": "European Council president slams Hungary&#8217;s &#8216;disrespect&#8217; over Ukraine loan",
-          "url": "https://www.politico.eu/article/eu-european-council-president-slams-hungary-disrespect-over-ukraine-loan/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-          "source": "Politico EU",
-          "sourceId": "politico_eu",
-          "category": "trade",
-          "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:20:16 +0000",
-          "description": "Budapest is threatening to block EU support for Ukraine."
-        },
-        {
-          "headline": "Trump spares EU and UK from higher tariff rates for now",
-          "url": "https://www.politico.eu/article/trump-spares-eu-uk-higher-global-tariff-rates-trade-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-          "source": "Politico EU",
-          "sourceId": "politico_eu",
-          "category": "trade",
-          "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 08:28:26 +0000",
-          "description": "Tariffs on exports to the United States will remain at 10 percent."
-        },
-        {
-          "headline": "Can Starmer shake off Mandelson&#8217;s ghost?",
-          "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/can-starmer-shake-off-mandelsons-ghost/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-          "source": "Politico EU",
-          "sourceId": "politico_eu",
-          "category": "trade",
-          "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 08:13:33 +0000",
+          "date": "Wed, 25 Feb 2026 08:31:07 +0000",
           "description": "Presented by Amazon"
         },
         {
-          "headline": "Merz in China und POLITICO feiert 2. Geburtstag in Berlin",
-          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/merz-in-china-und-politico-feiert-2-geburtstag-in-berlin/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "From My Voice to Our Choice: Europe’s Next Step for Equality",
+          "url": "https://www.politico.eu/sponsored-content/from-my-voice-to-our-choice-europes-next-step-for-equality/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 05:38:37 +0000",
+          "date": "Wed, 25 Feb 2026 08:00:00 +0000",
+          "description": "An open letter to President Ursula van de Leyen and members of the European Commission"
+        },
+        {
+          "headline": "Trump avoided self-harm in his State of the Union speech. He also missed self-help.",
+          "url": "https://www.politico.com/news/2026/02/25/trump-avoided-self-harm-in-his-state-of-the-union-speech-he-also-missed-self-help-00797460?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Wed, 25 Feb 2026 06:45:08 +0000",
+          "description": "The president’s state of the union was notable for something his second term has largely lacked: restraint."
+        },
+        {
+          "headline": "Iran, Zölle, Europa: Trumps Rede zur Lage der Nation",
+          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/iran-zolle-europa-trumps-rede-zur-lage-der-nation/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Wed, 25 Feb 2026 05:07:56 +0000",
           "description": "PRÄSENTIERT VON ROCHE DEUTSCHLAND."
         },
         {
-          "headline": "Four years of war — and Hungary breaks EU unity",
-          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/four-years-of-war-and-hungary-breaks-eu-unity/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Who showed up — and who didn&#8217;t — for Kyiv&#8217;s big day",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/who-showed-up-and-who-didnt-for-kyivs-big-day/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 05:30:00 +0000",
+          "date": "Wed, 25 Feb 2026 05:00:00 +0000",
           "description": "Presented by Amazon"
         },
         {
-          "headline": "Swedish business leader Ehnbom proposed Epstein meet women she mentored, emails show",
-          "url": "https://www.politico.eu/article/jeffrey-epstein-files-sweden-business-leader-ehnbom-proposed-meet-women/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Trump lavishes praise on Rubio as he claims foreign achievements",
+          "url": "https://www.politico.com/live-updates/2026/02/24/trump-state-of-the-union-address-2026/trump-lauds-rubio-for-foreign-achievements-00797233?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 03:02:00 +0000",
-          "description": "Barbro Ehnbom, known in Sweden for programs to boost female leadership, forwarded photos and suggested meetings."
+          "date": "Wed, 25 Feb 2026 04:17:13 +0000",
+          "description": "The kind words for Rubio could boost him in 2028."
         },
         {
-          "headline": "EU countries threaten to take Commission to court for giving Parliament extra powers",
-          "url": "https://www.politico.eu/article/eu-countries-threaten-take-commission-court-giving-parliament-extra-powers/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Trump defends his tariffs in State of the Union speech",
+          "url": "https://www.politico.com/live-updates/2026/02/24/trump-state-of-the-union-address-2026/trump-talks-tariffs-00797151?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 03:00:00 +0000",
-          "description": "Letter shows that EU capitals are particularly annoyed about a Commission promise to ensure Council and Parliament get “equal treatment” in the legislative process."
+          "date": "Wed, 25 Feb 2026 03:56:03 +0000",
+          "description": "U.S. president played down Supreme Court ruling and said he'll move forward with a new tariff regime."
         },
         {
-          "headline": "Putin is running his war on the Micawber Principle: Something will turn up",
-          "url": "https://www.politico.eu/article/putin-is-running-his-war-on-the-micawber-principle-something-will-turn-up/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Germany&#8217;s far right under pressure as nepotism allegations mount",
+          "url": "https://www.politico.eu/article/germany-far-right-afd-under-pressure-as-nepotism-allegations-mount/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 03:00:00 +0000",
-          "description": "The Russian leader is betting on playing the long game."
+          "date": "Wed, 25 Feb 2026 03:01:00 +0000",
+          "description": "Accusations that AfD politicians are using their positions to give family members cushy jobs threaten to thwart the party ahead of a series of state elections."
+        },
+        {
+          "headline": "Orbán’s gambit to revive his election hopes: A battle against the EU",
+          "url": "https://www.politico.eu/article/hungary-viktor-orban-gambit-to-revive-his-election-hopes-a-battle-against-the-eu/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Wed, 25 Feb 2026 03:00:00 +0000",
+          "description": "The Hungarian leader wants to portray his main rival, Péter Magyar, as a stooge of his traditional bogeymen: Brussels and Kyiv. But Magyar is proving hard to typecast."
         }
       ],
       "government": [
@@ -1434,156 +1434,156 @@
     "byPriority": {
       "primary": [
         {
-          "headline": "Indian IT Stocks Slide to 30-Month Low as Citrini Flags AI Risks",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/indian-it-stock-selloff-deepens-on-ai-scare-after-citrini-report",
+          "headline": "Bitcoin Holders Sitting on Losses Are Selling Into Every Bounce",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-02-25/bitcoin-holders-sitting-on-losses-are-selling-into-every-bounce",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 04:58:07 GMT",
-          "description": "A rout in Indian software services stocks deepened, tracking a US tech selloff, after a report from Citrini Research amplified concerns about companies vulnerable to the growing influence of artificia"
+          "date": "Wed, 25 Feb 2026 11:15:37 GMT",
+          "description": "About 45% of all of Bitcoin in circulation are currently valued at below what the owner paid."
         },
         {
-          "headline": "Arini’s Lemssouguer Says AI Fear Risks Software Defaults",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/arini-s-lemssouguer-says-ai-fear-alone-risks-software-defaults",
+          "headline": "Bond Traders Are Betting on Fed Rate Cuts Spilling Into 2027",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-24/bond-traders-are-betting-on-fed-rate-cuts-spilling-into-2027",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 09:09:52 GMT",
-          "description": "Fear of AI’s potential for disruption is enough to push up borrowing costs for software companies, causing problems for a sector that has a lot of debt, according to Arini Capital Management’s founder"
+          "date": "Tue, 24 Feb 2026 21:30:19 GMT",
+          "description": "Traders in US futures and options markets are piling on bets that the Federal Reserve will continue cutting rates into next year instead of raising them."
         },
         {
-          "headline": "US Can Sell More T-Bills to Offset Lost Tariff Revenue, BNY Says",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/us-can-sell-more-t-bills-to-offset-lost-tariff-revenue-bny-says",
+          "headline": "Deutsche's Saravelos to 'Keep Writing' After US Ire",
+          "url": "https://www.bloomberg.com/news/videos/2026-02-25/deutsche-s-saravelos-to-keep-writing-after-us-ire-video",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:21:28 GMT",
-          "description": "The US is likely to issue more short-dated notes to make up for lost revenues after the Supreme Court overturned President Donald Trump’s tariffs, according to a BNY strategist."
+          "date": "Wed, 25 Feb 2026 11:12:00 GMT",
+          "description": "Deutsche Bank's global head of FX research George Saravelos, who wrote a report that became the subject of US ire, says the episode \"really reaffirmed the importance of research independence.\" Last mo"
         },
         {
-          "headline": "Fire, Power Outage Disrupt Operations at Cape Town Airport",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/fire-power-outage-disrupt-operations-at-cape-town-airport",
+          "headline": "Temenos Jumps as Software Firm Lifts Targets and Plays Down AI Fear",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-25/temenos-jumps-as-software-firm-lifts-targets-plays-down-ai-fear",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:16:13 GMT",
-          "description": "A fire and a power outage disrupted operations at Cape Town International Airport on Tuesday, leading to delays at the gateway to South Africa’s main tourism hub."
+          "date": "Wed, 25 Feb 2026 11:07:25 GMT",
+          "description": "Temenos shares gained after the software company lifted its mid-term guidance, pushing back on worries over the impact of artificial intelligence on the sector."
         },
         {
-          "headline": "Old-Economy Stocks Are Looking Pretty Good Right About Now",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-02-24/old-economy-stocks-are-looking-pretty-good-right-about-now",
+          "headline": "Bangladesh Bank Chief Quits Abruptly After Government Change",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-25/bangladesh-bank-chief-quits-abruptly-after-change-in-government",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:06:54 GMT",
-          "description": "A basket of capital-intensive stocks is rallying as investors flee AI disruption."
+          "date": "Wed, 25 Feb 2026 09:55:36 GMT",
+          "description": "The head of Bangladesh’s central bank stepped down in a surprise departure that comes just over a week after the inauguration of the country’s new democratically elected government."
         },
         {
-          "headline": "Tata Defers Vote on Chairman’s New Term, Signaling Power Tussle",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/tata-defers-vote-on-chairman-s-new-term-signaling-power-tussle",
+          "headline": "Gold Rises as Traders Weigh Tariff Risks and Middle East Tension",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-24/gold-dips-for-second-day-on-prospects-of-prolonged-rate-hold",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:00:30 GMT",
-          "description": "The board of Tata Sons Pvt. deferred a decision on granting a third term to Chairman Natarajan Chandrasekaran, people familiar said, in the latest sign that another leadership tussle could be brewing "
+          "date": "Tue, 24 Feb 2026 23:38:37 GMT",
+          "description": "Gold rose and silver surged, as traders weighed uncertainty around US import tariffs and frictions in the Middle East."
         },
         {
-          "headline": "America’s Ube Obsession Is Straining Supplies",
-          "url": "https://www.bloomberg.com/news/videos/2026-02-24/america-s-ube-obsession-is-straining-supplies",
+          "headline": "RBA’s Bullock Says Tough to Make Judgments on Economy at Moment",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-25/rba-s-bullock-says-tough-to-make-judgments-on-economy-at-moment",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:00:04 GMT",
-          "description": "Ube has officially gone viral. Purple lattes, cheesecakes and pancakes are increasingly cropping up on dessert menus, but as a result, supplies are tightening. Ilena Peng has more. (Source: Bloomberg)"
+          "date": "Wed, 25 Feb 2026 10:50:00 GMT",
+          "description": "Australia’s central bank Governor Michele Bullock said judging the economy is “a little bit more difficult” now than in previous periods when it was raising interest rates, reinforcing her cautious po"
         },
         {
-          "headline": "Meat Snack Maker Archer Gets $100 Million Loan as Demand From Women Grows",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/meat-snack-maker-archer-gets-100-million-loan-as-demand-from-women-grows",
+          "headline": "European and UK Stocks Hit Records Powered by Banks and Miners",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-02-25/ftse-100-live-trump-tariffs-pound-gilts-hsbc-diageo-what-s-moving-uk-markets-right-now-markets-today",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:00:00 GMT",
-          "description": "Archer Meat Snacks secured a credit facility for nearly $100 million from JPMorgan Chase &amp; Co., allowing it to ramp up production as demand surges for its high-protein snacks &mdash; particularly "
+          "date": "Wed, 25 Feb 2026 06:45:25 GMT",
+          "description": ""
         },
         {
-          "headline": "Exxon Touts Guyana Growth in Race For Next Decade’s Oil Fields",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/exxon-touts-guyana-growth-in-race-for-next-decade-s-oil-fields",
+          "headline": "Diageo’s New CEO Wants Distiller to Get Back to Serving Drinkers",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-25/diageo-cuts-outlook-in-early-challenge-for-new-ceo-dave-lewis",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 11:00:00 GMT",
-          "description": "Exxon Mobil Corp. is betting the economic boom unleashed by its giant discovery in Guyana will give the company an edge when negotiating fiscal terms with other nations looking to develop their own oi"
+          "date": "Wed, 25 Feb 2026 07:07:29 GMT",
+          "description": "Diageo Plc’s new Chief Executive Officer Dave Lewis has found the main cause of the British distiller’s struggles: It has forgotten how to serve drinks to its customers properly."
         },
         {
-          "headline": "Nippon Steel Upsizes Bond Sale for US Steel Loan to $3.8 Billion",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-24/nippon-steel-to-sell-3-5-billion-worth-of-convertible-bonds",
+          "headline": "Stocks Rise as AI Trade Faces Nvidia Earnings Test: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-24/stock-market-today-dow-s-p-live-updates-",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Tue, 24 Feb 2026 07:12:00 GMT",
-          "description": "Nippon Steel Corp. is seeking 600 billion yen ($3.8 billion) from an upsized sale of convertible bonds, one of the biggest Japanese offerings of its kind on record, to help repay loans taken out for i"
+          "date": "Tue, 24 Feb 2026 22:33:40 GMT",
+          "description": "Stocks posted modest gains after days of swings as traders await Nvidia Corp.’s earnings to see whether the chipmaker can regain its place as the artificial-intelligence trade’s main driver."
         }
       ],
       "secondary": [
         {
-          "headline": "Trump's new tariff comes into effect at lower than expected rate",
-          "url": "https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Household energy bills to fall in April after charges shake-up",
+          "url": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:38:28 GMT",
-          "description": "The global levy comes in at 10%, lower than the rate the president had threatened at the weekend."
+          "date": "Wed, 25 Feb 2026 09:49:24 GMT",
+          "description": "Changes announced in the Budget mean all energy bills will see some kind of reduction, but it will vary."
         },
         {
-          "headline": "Number of workers on zero-hours contracts hits record high ahead of crackdown",
-          "url": "https://www.bbc.com/news/articles/czj1m7d4gxpo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Aston Martin cuts 20% of workforce as losses widen",
+          "url": "https://www.bbc.com/news/articles/cp9m8n2vx0mo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 06:01:50 GMT",
-          "description": "There has been a 181,000 increase in the number of zero-hours contracts since Labour was elected."
+          "date": "Wed, 25 Feb 2026 10:09:37 GMT",
+          "description": "About 600 jobs will go at the luxury car maker, which in part blames US tariffs for its troubles."
         },
         {
-          "headline": "Chocolate kept in anti-theft boxes as shops warn it's being stolen to order",
-          "url": "https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Gucci criticised for 'AI slop' images ahead of major fashion show",
+          "url": "https://www.bbc.com/news/articles/cjwz6yzn5jqo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:39:39 GMT",
-          "description": "Retailers and police forces tell the BBC that thieves are targeting chocolate and selling it on."
+          "date": "Wed, 25 Feb 2026 10:55:39 GMT",
+          "description": "Users of social media - where the marketing campaign has been launched - say it is out of keeping with Gucci's reputation for luxury."
         },
         {
-          "headline": "Reform vows to overhaul pension schemes for new local government workers",
-          "url": "https://www.bbc.com/news/articles/c875edj1qeno?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Shein's elusive boss hails Chinese roots in rare public appearance",
+          "url": "https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 22:14:36 GMT",
-          "description": "Reform plans to end more generous defined benefit pension schemes for new local government workers if it wins office"
+          "date": "Wed, 25 Feb 2026 03:18:11 GMT",
+          "description": "His speech follows years of the firm focusing away from China as it moved its headquarters to Singapore."
         },
         {
-          "headline": "Trump Organization unveils plan for 'Australia's tallest building'",
-          "url": "https://www.bbc.com/news/articles/cyv9nj336v5o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "New travel rules kick in - how are dual nationals affected?",
+          "url": "https://www.bbc.com/news/articles/cy57p1v61d1o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 03:20:45 GMT",
-          "description": "The tower will be built on Queensland's Gold Coast and be 335 metres high, taller than the Shard in London."
+          "date": "Wed, 25 Feb 2026 10:07:33 GMT",
+          "description": "From 25 February, a new system will come into force which will affect many people, including British dual nationals."
         },
         {
           "headline": "Orbital space race heats up in Arctic north",
@@ -1596,446 +1596,446 @@
           "description": "Europe lags far behind the US and China in orbital space launches, but new facilities are opening up."
         },
         {
-          "headline": "FedEx sues for Trump tariff refund",
-          "url": "https://www.bbc.com/news/articles/cly83r1njjro?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Discord delays age verification plans after user outcry",
+          "url": "https://www.bbc.com/news/articles/cvgv0yg4n9lo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 01:18:27 GMT",
-          "description": "The US Supreme Court ruling that the US president overstepped when imposing levies paved the way for firms to seek a refund."
+          "date": "Tue, 24 Feb 2026 22:43:26 GMT",
+          "description": "Users were unhappy about plans for age verification to require facial or ID scans."
         },
         {
-          "headline": "No 10 says ‘nothing off the table’ over new US tariffs as UK could be among worst hit",
-          "url": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Paramount boosts Warner Bros offer to rival Netflix in takeover bid",
+          "url": "https://www.bbc.com/news/articles/c24dz0683dyo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 18:34:22 GMT",
-          "description": "Downing Street says discussions are ongoing following US President Donald Trump's announcement of a 15% global tariffs."
+          "date": "Wed, 25 Feb 2026 00:01:02 GMT",
+          "description": "Warner Bros says the latest proposal could convince it to abandon the deal it struck with Netflix."
         },
         {
-          "headline": "Company director jailed over £7m airline parts fraud",
-          "url": "https://www.bbc.com/news/articles/c14mgl4ddr2o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "US threatens Anthropic with deadline in dispute on AI safeguards",
+          "url": "https://www.bbc.com/news/articles/cjrq1vwe73po?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 16:43:44 GMT",
-          "description": "The judge said the actions were a \"more or less complete undermining\" of rules designed to ensure passenger flights are safe."
+          "date": "Tue, 24 Feb 2026 22:58:46 GMT",
+          "description": "The AI developer laid out red lines on military use of its products, a source said."
         },
         {
-          "headline": "Netflix boss defends bid for Warner Bros as Paramount deadline looms",
-          "url": "https://www.bbc.com/news/articles/c20jn073gj4o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Apple says some Mac Mini production will move to the US",
+          "url": "https://www.bbc.com/news/articles/c4g8eq9z2v8o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 12:21:31 GMT",
-          "description": "Ted Sarandos says his company's offer is better for industry growth as it is \"buying assets we don't currently have\"."
+          "date": "Tue, 24 Feb 2026 22:09:00 GMT",
+          "description": "The technology giant had pledged to increase investment in the US by $600bn, under pressure from Trump."
         },
         {
-          "headline": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
-          "url": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Trump's theatrical State of the Union address offers little hint of any change in course",
+          "url": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 06:02:13 GMT",
-          "description": "Four men expose the horror and brutality of conditions in the Ukraine war, with two saying they saw soldiers being shot for refusing orders."
+          "date": "Wed, 25 Feb 2026 10:11:20 GMT",
+          "description": "The BBC's Anthony Zurcher says the US president appealed to his base and taunted his opponents in a marathon speech."
         },
         {
-          "headline": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
-          "url": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Japan to deploy missiles on island near Taiwan by 2031",
+          "url": "https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 21:12:47 GMT",
-          "description": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces."
+          "date": "Wed, 25 Feb 2026 06:00:50 GMT",
+          "description": "The remote Yonaguni island lies on the frontlines of self-governing Taiwan's growing tensions with China."
         },
         {
-          "headline": "More than 5,000 flights cancelled as US east coast digs out of record snow",
-          "url": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Chinese dance group's tour triggers bomb threat against Australian PM",
+          "url": "https://www.bbc.com/news/articles/ce3gj35q541o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 08:30:46 GMT",
-          "description": "A major snowstorm dumps more than a foot of snow in several areas, bringing power cuts and disruption."
+          "date": "Wed, 25 Feb 2026 08:13:42 GMT",
+          "description": "The group was told to cancel its performances or explosives would be set off at Anthony Albanese's house."
         },
         {
-          "headline": "French minister moves to block US envoy Kushner from government access",
-          "url": "https://www.bbc.com/news/articles/c8d5eg5pl34o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Drones hammer Sudan's gold and oil zone - the pivotal new front line",
+          "url": "https://www.bbc.com/news/articles/cjwz6z14w65o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 22:55:06 GMT",
-          "description": "The minister says Charles Kushner, father of Trump's son-in-law Jared, failed to explain comments about violence in France."
+          "date": "Wed, 25 Feb 2026 00:43:00 GMT",
+          "description": "Intensified attacks in the Kordofan region have led to mass casualties as peace remains elusive."
         },
         {
-          "headline": "Ukraine negotiator tells BBC how it feels to sit across table from Russia",
-          "url": "https://www.bbc.com/news/articles/c89k0lxlpnpo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Senegal PM proposes tougher anti-LGBT law, doubling prison terms",
+          "url": "https://www.bbc.com/news/articles/c7vj15zlmv6o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 19:17:11 GMT",
-          "description": "Sergiy Kyslytsya is among those trying to negotiate an end to the conflict, which is entering its fifth year."
+          "date": "Wed, 25 Feb 2026 05:46:42 GMT",
+          "description": "The bill seeks prison terms of five to ten years for what it describes as \"acts against nature\"."
         },
         {
-          "headline": "Robert Carradine, Lizzie McGuire and Revenge of the Nerds star, dies aged 71",
-          "url": "https://www.bbc.com/news/articles/cy0dqpjjprno?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "German chancellor lands in Beijing for inaugural China trip",
+          "url": "https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:34:31 GMT",
-          "description": "His family says the actor took his own life after living with bipolar disorder for nearly two decades."
+          "date": "Wed, 25 Feb 2026 05:53:48 GMT",
+          "description": "Friedrich Merz said it would be a mistake to \"decouple\" Germany from China shortly before boarding a plane to Beijing."
         },
         {
-          "headline": "Probe under way after illness kills 72 tigers in Thai tourist park",
-          "url": "https://www.bbc.com/news/articles/cly833zjp4po?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Australia police make arrests over alleged murder of grandfather mistakenly kidnapped",
+          "url": "https://www.bbc.com/news/articles/cx2d7zyd41go?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 08:31:11 GMT",
-          "description": "Authorities say samples showed the canine distemper virus, but have not confirmed where it came from."
+          "date": "Wed, 25 Feb 2026 05:09:56 GMT",
+          "description": "Police have said 85-year-old Chris Baghsarian was not the intended target of the alleged crime."
         },
         {
-          "headline": "US partially evacuates Beirut embassy amid rising Iran tensions",
-          "url": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Louvre museum director resigns months after high-profile heist",
+          "url": "https://www.bbc.com/news/articles/ce3gj7jjl7jo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 19:08:55 GMT",
-          "description": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review."
+          "date": "Tue, 24 Feb 2026 19:23:36 GMT",
+          "description": "Laurence des Carrs submitted her resignation to President Emmanel Macron, who said it was \"an act of responsibility\"."
         },
         {
-          "headline": "Trump threatens countries that 'play games' with existing trade deals",
-          "url": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Don't break up NewJeans and I'll forgo $18m payout, says ex-K-pop boss",
+          "url": "https://www.bbc.com/news/articles/c98qd17e274o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Feb 2026 21:12:43 GMT",
-          "description": "The threat comes after the Supreme Court ruled on Friday that Trump had exceeded his authority in enacting a sweeping global programme of tariffs."
+          "date": "Wed, 25 Feb 2026 07:54:46 GMT",
+          "description": "Min Hee-jin has said she \"can no longer bear to watch\" the group get \"torn apart\"."
         },
         {
-          "headline": "Moscow rail hub explosion was suicide bomb, Russian officials say",
-          "url": "https://www.bbc.com/news/articles/czx4pyx9g46o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Ukraine remembers its dead as war enters a fifth year",
+          "url": "https://www.bbc.com/news/articles/clyg7r3nd3ko?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:49:52 GMT",
-          "description": "A traffic police officer and the suspect were killed in the explosion, Russian officials say."
+          "date": "Tue, 24 Feb 2026 18:13:58 GMT",
+          "description": "Events were held across Ukraine to mark four years since Russia launched its full-scale invasion."
         },
         {
-          "headline": "Why Indonesia’s lead role in Gaza peacekeeping force carries high political risk",
-          "url": "https://www.scmp.com/week-asia/politics/article/3344477/why-indonesias-lead-role-gaza-peacekeeping-force-carries-high-political-risk?utm_source=rss_feed",
+          "headline": "China’s MiniMax, Moonshot top AI token use ranking, ending year of US dominance",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3344587/chinas-minimax-moonshot-top-ai-token-use-ranking-ending-year-us-dominance?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:31:59 +0000",
+          "date": "Wed, 25 Feb 2026 11:30:07 +0000",
           "description": ""
         },
         {
-          "headline": "4 years into Ukraine conflict, Zelensky says Russia’s Putin ‘did not win this war’",
-          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3344478/4-years-ukraine-conflict-zelensky-says-russias-putin-did-not-win-war?utm_source=rss_feed",
+          "headline": "Can China and Philippines replace ‘disputes with cooperation’ after years of tension?",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3344626/can-china-and-philippines-replace-disputes-cooperation-after-years-tension?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:29:35 +0000",
+          "date": "Wed, 25 Feb 2026 11:26:30 +0000",
           "description": ""
         },
         {
-          "headline": "‘Record’ Chinese maritime militia deployed in South China Sea in 2025: US report",
-          "url": "https://www.scmp.com/news/china/military/article/3344474/record-chinese-maritime-militia-deployed-south-china-sea-2025-us-report?utm_source=rss_feed",
+          "headline": "Pressure mounts on Malaysia’s Anwar as allies seek new inquiry into MACC allegations",
+          "url": "https://www.scmp.com/week-asia/politics/article/3344621/pressure-mounts-malaysias-anwar-allies-seeks-new-inquiry-macc-allegations?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:18:23 +0000",
+          "date": "Wed, 25 Feb 2026 11:05:56 +0000",
           "description": ""
         },
         {
-          "headline": "China’s top court backs legal action against corrupt firms amid equity markets rally",
-          "url": "https://www.scmp.com/business/markets/article/3344453/chinas-top-court-backs-legal-action-against-corrupt-firms-amid-equity-markets-rally?utm_source=rss_feed",
+          "headline": "Hong Kong’s home prices reach 19-month high as rise gathers pace",
+          "url": "https://www.scmp.com/business/article/3344622/hong-kongs-home-prices-reach-19-month-high-rise-gathers-pace?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:00:20 +0000",
+          "date": "Wed, 25 Feb 2026 11:05:35 +0000",
           "description": ""
         },
         {
-          "headline": "Why did 72 tigers die at a Thailand tourist park in under 2 weeks?",
-          "url": "https://www.scmp.com/week-asia/health-environment/article/3344470/why-did-72-tigers-die-thailand-tourist-park-under-2-weeks?utm_source=rss_feed",
+          "headline": "In meeting with Merz, Xi urges efforts to advance China-Germany ties to ‘new levels’",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3344618/meeting-merz-xi-urges-efforts-advance-china-germany-ties-new-levels?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:58:22 +0000",
+          "date": "Wed, 25 Feb 2026 10:34:57 +0000",
           "description": ""
         },
         {
-          "headline": "China’s Lunar New Year box office hits 6-year low as releases fall flat",
-          "url": "https://www.scmp.com/economy/china-economy/article/3344458/chinas-lunar-new-year-box-office-hits-6-year-low-releases-fall-flat?utm_source=rss_feed",
+          "headline": "Row over speakers on Indonesian ‘island of 1,000 mosques’ sparks debate on compromise",
+          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3344616/row-over-speakers-indonesian-island-1000-mosques-sparks-debate-compromise?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:30:50 +0000",
+          "date": "Wed, 25 Feb 2026 10:31:05 +0000",
           "description": ""
         },
         {
-          "headline": "Hong Kong authorities probe death of scaffolding worker who fell from factory",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3344460/hong-kong-authorities-probe-death-scaffolding-worker-who-fell-factory?utm_source=rss_feed",
+          "headline": "A boat in every dock? Chinese billionaire unveils plan for mass yacht production",
+          "url": "https://www.scmp.com/economy/china-economy/article/3344583/boat-every-dock-chinese-billionaire-unveils-plan-mass-yacht-production?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:09:44 +0000",
+          "date": "Wed, 25 Feb 2026 10:30:07 +0000",
           "description": ""
         },
         {
-          "headline": "France demands answers from US envoy for ignoring summons as diplomatic feud deepens",
-          "url": "https://www.scmp.com/news/world/europe/article/3344459/france-demands-answers-us-envoy-ignoring-summons-diplomatic-feud-deepens?utm_source=rss_feed",
+          "headline": "Iranians on edge as Trump’s US ‘armada’ closes in: ‘a war will start’",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3344611/iranians-edge-trumps-us-armada-closes-war-will-start?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:08:44 +0000",
+          "date": "Wed, 25 Feb 2026 09:52:12 +0000",
           "description": ""
         },
         {
-          "headline": "India and Brazil set sights on US$30 billion trade milestone by 2030",
-          "url": "https://www.scmp.com/week-asia/economics/article/3344457/india-brazil-intensify-trade-diversification-amid-trumps-tariff-threats?utm_source=rss_feed",
+          "headline": "Here is how you and businesses will benefit from Hong Kong budget sweeteners hike",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3344602/hong-kong-budget-sweeteners-residents-and-businesses-climb-hk22-billion?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:06:25 +0000",
+          "date": "Wed, 25 Feb 2026 09:33:05 +0000",
           "description": ""
         },
         {
-          "headline": "Future of Japan’s ‘naked festival’ in doubt after 3 men left unconscious",
-          "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3344455/future-japans-naked-festival-doubt-after-three-men-left-unconscious?utm_source=rss_feed",
+          "headline": "Malaysia blocks Grindr, Blued amid rising LGBTQ restrictions",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3344601/malaysia-blocks-grindr-blued-amid-rising-lgbtq-restrictions?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:00:14 +0000",
+          "date": "Wed, 25 Feb 2026 09:26:23 +0000",
           "description": ""
         },
         {
-          "headline": "UK announces largest sanctions package against Russia since start of full-scale invasion",
-          "url": "https://www.politico.eu/article/uk-announce-sanctions-package-russia-ukraine-war/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "New Louvre president appointed months after spectacular heist",
+          "url": "https://www.politico.eu/article/new-louvre-president-appointed-months-after-spectacular-heist-christophe-leribault/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:46:51 +0000",
-          "description": "Britain is targeting Russia's war economy on the fourth anniversary of Vladimir Putin's invasion of Ukraine."
+          "date": "Wed, 25 Feb 2026 10:34:39 +0000",
+          "description": "Christophe Leribault takes over from  Laurence des Cars, who resigned Tuesday."
         },
         {
-          "headline": "Paris says US envoy’s no-show will &#8216;affect&#8217; role",
-          "url": "https://www.politico.eu/article/france-fm-jean-barrot-says-us-charles-kushner-ambassador-summons-no-show-will-impact-role/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Can Starmer conquer Burnham&#8217;s kingdom?",
+          "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/can-starmer-conquer-burnhams-kingdom/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 10:19:51 +0000",
-          "description": "Charles Kushner has been temporarily blocked from meeting members of the French government after failing to attend a diplomatic summons."
-        },
-        {
-          "headline": "European Council president slams Hungary&#8217;s &#8216;disrespect&#8217; over Ukraine loan",
-          "url": "https://www.politico.eu/article/eu-european-council-president-slams-hungary-disrespect-over-ukraine-loan/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-          "source": "Politico EU",
-          "sourceId": "politico_eu",
-          "category": "trade",
-          "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 09:20:16 +0000",
-          "description": "Budapest is threatening to block EU support for Ukraine."
-        },
-        {
-          "headline": "Trump spares EU and UK from higher tariff rates for now",
-          "url": "https://www.politico.eu/article/trump-spares-eu-uk-higher-global-tariff-rates-trade-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-          "source": "Politico EU",
-          "sourceId": "politico_eu",
-          "category": "trade",
-          "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 08:28:26 +0000",
-          "description": "Tariffs on exports to the United States will remain at 10 percent."
-        },
-        {
-          "headline": "Can Starmer shake off Mandelson&#8217;s ghost?",
-          "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/can-starmer-shake-off-mandelsons-ghost/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
-          "source": "Politico EU",
-          "sourceId": "politico_eu",
-          "category": "trade",
-          "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 08:13:33 +0000",
+          "date": "Wed, 25 Feb 2026 08:31:07 +0000",
           "description": "Presented by Amazon"
         },
         {
-          "headline": "Merz in China und POLITICO feiert 2. Geburtstag in Berlin",
-          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/merz-in-china-und-politico-feiert-2-geburtstag-in-berlin/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "From My Voice to Our Choice: Europe’s Next Step for Equality",
+          "url": "https://www.politico.eu/sponsored-content/from-my-voice-to-our-choice-europes-next-step-for-equality/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 05:38:37 +0000",
+          "date": "Wed, 25 Feb 2026 08:00:00 +0000",
+          "description": "An open letter to President Ursula van de Leyen and members of the European Commission"
+        },
+        {
+          "headline": "Trump avoided self-harm in his State of the Union speech. He also missed self-help.",
+          "url": "https://www.politico.com/news/2026/02/25/trump-avoided-self-harm-in-his-state-of-the-union-speech-he-also-missed-self-help-00797460?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Wed, 25 Feb 2026 06:45:08 +0000",
+          "description": "The president’s state of the union was notable for something his second term has largely lacked: restraint."
+        },
+        {
+          "headline": "Iran, Zölle, Europa: Trumps Rede zur Lage der Nation",
+          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/iran-zolle-europa-trumps-rede-zur-lage-der-nation/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Wed, 25 Feb 2026 05:07:56 +0000",
           "description": "PRÄSENTIERT VON ROCHE DEUTSCHLAND."
         },
         {
-          "headline": "Four years of war — and Hungary breaks EU unity",
-          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/four-years-of-war-and-hungary-breaks-eu-unity/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Who showed up — and who didn&#8217;t — for Kyiv&#8217;s big day",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/who-showed-up-and-who-didnt-for-kyivs-big-day/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 05:30:00 +0000",
+          "date": "Wed, 25 Feb 2026 05:00:00 +0000",
           "description": "Presented by Amazon"
         },
         {
-          "headline": "Swedish business leader Ehnbom proposed Epstein meet women she mentored, emails show",
-          "url": "https://www.politico.eu/article/jeffrey-epstein-files-sweden-business-leader-ehnbom-proposed-meet-women/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Trump lavishes praise on Rubio as he claims foreign achievements",
+          "url": "https://www.politico.com/live-updates/2026/02/24/trump-state-of-the-union-address-2026/trump-lauds-rubio-for-foreign-achievements-00797233?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 03:02:00 +0000",
-          "description": "Barbro Ehnbom, known in Sweden for programs to boost female leadership, forwarded photos and suggested meetings."
+          "date": "Wed, 25 Feb 2026 04:17:13 +0000",
+          "description": "The kind words for Rubio could boost him in 2028."
         },
         {
-          "headline": "EU countries threaten to take Commission to court for giving Parliament extra powers",
-          "url": "https://www.politico.eu/article/eu-countries-threaten-take-commission-court-giving-parliament-extra-powers/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Trump defends his tariffs in State of the Union speech",
+          "url": "https://www.politico.com/live-updates/2026/02/24/trump-state-of-the-union-address-2026/trump-talks-tariffs-00797151?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 03:00:00 +0000",
-          "description": "Letter shows that EU capitals are particularly annoyed about a Commission promise to ensure Council and Parliament get “equal treatment” in the legislative process."
+          "date": "Wed, 25 Feb 2026 03:56:03 +0000",
+          "description": "U.S. president played down Supreme Court ruling and said he'll move forward with a new tariff regime."
         },
         {
-          "headline": "Putin is running his war on the Micawber Principle: Something will turn up",
-          "url": "https://www.politico.eu/article/putin-is-running-his-war-on-the-micawber-principle-something-will-turn-up/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Germany&#8217;s far right under pressure as nepotism allegations mount",
+          "url": "https://www.politico.eu/article/germany-far-right-afd-under-pressure-as-nepotism-allegations-mount/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Tue, 24 Feb 2026 03:00:00 +0000",
-          "description": "The Russian leader is betting on playing the long game."
+          "date": "Wed, 25 Feb 2026 03:01:00 +0000",
+          "description": "Accusations that AfD politicians are using their positions to give family members cushy jobs threaten to thwart the party ahead of a series of state elections."
+        },
+        {
+          "headline": "Orbán’s gambit to revive his election hopes: A battle against the EU",
+          "url": "https://www.politico.eu/article/hungary-viktor-orban-gambit-to-revive-his-election-hopes-a-battle-against-the-eu/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "source": "Politico EU",
+          "sourceId": "politico_eu",
+          "category": "trade",
+          "priority": "secondary",
+          "date": "Wed, 25 Feb 2026 03:00:00 +0000",
+          "description": "The Hungarian leader wants to portray his main rival, Péter Magyar, as a stooge of his traditional bogeymen: Brussels and Kyiv. But Magyar is proving hard to typecast."
         }
       ],
       "tertiary": [
         {
-          "headline": "New Trump tariffs take effect days after Supreme Court decision - Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTJZOTEtcEhEOFF4UDl2anpMdXBrWVJlTTlyWWRrNTBrRXBTR3lzd3haNnVrWHJYWW8wSVltODFUMm9VYUQxYnZKcmQ2eHJDYWhuMXBtYzM3ZDB6N21BcTNhWk80dmphd2N5RkRnYUx2c1dUb3lCUWIxUDdLbGlyRE9DQjZqRE1fV0J6aWEwaGphTHl0dVFwMEh5VFpRdmN0cWVkYm13MNIBrAFBVV95cUxONkZxejRfVzRtXzJHMkUtNUhlanVFZDFaUElJbzBWTG1PMmxCRGtqaktjUDNZRWo4T0w1V3oweGZjT2RCejBzNzhpNlAtY2FjaXFRUFhzR1VMSVBHbzlRd2FBVTdrbkVHQUtaclM2QWNoZ2FSNkNETWhmTGFldDBtUXVWcnF2SUpRMFJJMG52NTJPNExvZVV6bFZwckdZRWQ0c1RjYTlocUZqNmk5?oc=5",
+          "headline": "Now what? The future of Trump tariffs and trade policy after Supreme Court ruling - Brookings",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1BXR29PZTlUcFYwUXNZdXFYUGRKTGVuXzkxa0NqMzRocTNLc3pXbW1yWFBjVkgxWllocjVUV1A5dTRPWk9BRHAtREI5R0VxaE5DdFZWWklaQVdYSGlvWkR6XzB2SUdSQXlscDB2Xy1IOGV5MzA2eVgybzFXUTg3RzVzUFJSN0hnN25YWW4yOVFHcXRrcldGRUE5VGJoV2NoeE8tRHpHXzZiYlRySkw1Wmw3UG8?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 11:00:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTJZOTEtcEhEOFF4UDl2anpMdXBrWVJlTTlyWWRrNTBrRXBTR3lzd3haNnVrWHJYWW8wSVltODFUMm9VYUQxYnZKcmQ2eHJDYWhuMXBtYzM3ZDB6N21BcTNhWk80dmphd2N5RkR"
+          "date": "Tue, 24 Feb 2026 19:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1BXR29PZTlUcFYwUXNZdXFYUGRKTGVuXzkxa0NqMzRocTNLc3pXbW1yWFBjVkgxWllocjVUV1A5dTRPWk9BRHAtREI5R0VxaE5DdFZWWklaQVdYSGlvWkR6XzB2SUdSQXlscDB"
         },
         {
-          "headline": "EU Warns That Trump’s New Tariff Policy Breaks Trade Deal - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEVrSE1rdWFxRURXMmRtc1NTS1VUU0d0MW9NaFJ0ZnZjcGhMS0JDMF8zQ0paVVpZWVdkeWl0TVFiVkM5eGt3dmRrUlRXZ1BXWk1mdmhlR3oxTkh1ek0yZW1wQW1ZOVhQLW5yWkJKRGp3ZmhIeERLT3BwcUpuREdqLXZmTEFRVUplM3pZdmVtTkFhdzNkaTh4MXZOdXo5ZVhfeGlSZmRnMzZjVEVLbnBxUTEwdw?oc=5",
+          "headline": "Supreme Court ruling against Trump’s tariffs is unlikely to mean an end to trade policy chaos - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGRsT1d3ZmNMeGZ3S3h5T3otdVBVVENFYXlNTzNkYkM5eTlFTjFsd2Jlc19HM2g1WjVpX1JfRGJKUlZoUm9pbFZMb3hjb2tEN20xUzNfdVdybUNIbVU4UVVxV1ZwYTQwT3dnMG12Ti1fMjNvUXJMa19CanJtc0JiQXJ1UUFnYkRjV3prVGdKQXd1c0FnOGhPYWJtOGdVeDMzNEIxdVh3?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 08:27:34 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeEVrSE1rdWFxRURXMmRtc1NTS1VUU0d0MW9NaFJ0ZnZjcGhMS0JDMF8zQ0paVVpZWVdkeWl0TVFiVkM5eGt3dmRrUlRXZ1BXWk1mdmhlR3oxTkh1ek0yZW1wQW1ZOVhQLW5yWkJ"
+          "date": "Tue, 24 Feb 2026 17:13:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGRsT1d3ZmNMeGZ3S3h5T3otdVBVVENFYXlNTzNkYkM5eTlFTjFsd2Jlc19HM2g1WjVpX1JfRGJKUlZoUm9pbFZMb3hjb2tEN20xUzNfdVdybUNIbVU4UVVxV1ZwYTQwT3dnMG1"
         },
         {
-          "headline": "Supreme Court ruling against Trump's tariffs is unlikely to mean an en... - seMissourian",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZy1OaUs3QUptc2VYeHY4aWpDeVIyT2xlMWItbENNVWtMN1NFeFl1b0FlZUdYMjB4ZGJLMVlpQUQ0QnRaWG56LXdGM3ZSbW8xbnNzcTA3akNpQVBlbFdXWV9aR2ZCWklvcm9laDZNeE5qeHgxWmVsQ1hnSkMzY0d3NXdMdDBpc0oxU29fTzd6Z25xRUYwMjc1aGlOMVlrSFRQWUxuYkphWTExLUUyUkVFdmZ3XzhBVTJBcHlRUldPX1dudFo5UlhWbmdxcFNhUDRxMUE?oc=5",
+          "headline": "Here Are the Countries and Products Subject to Tariffs Now - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjg2dnFmWVhreXFuam9oQ3dmbnJIM1NrS2VaSkYwbnBZR0I4cjRXODItSHBEX2xmaVI3VmhMNXZfSWVWaDNtOHhHNVZxbjVidWFYYXVvNXZ6UDg3WVQ0N283V1lDdXJiZjFMNDZYdi1pTlIzX2NZS21CQWtaSHJ1a0JzcVh4dGJfamdn?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 07:55:27 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZy1OaUs3QUptc2VYeHY4aWpDeVIyT2xlMWItbENNVWtMN1NFeFl1b0FlZUdYMjB4ZGJLMVlpQUQ0QnRaWG56LXdGM3ZSbW8xbnNzcTA3akNpQVBlbFdXWV9aR2ZCWklvcm9laDZ"
+          "date": "Tue, 24 Feb 2026 19:25:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjg2dnFmWVhreXFuam9oQ3dmbnJIM1NrS2VaSkYwbnBZR0I4cjRXODItSHBEX2xmaVI3VmhMNXZfSWVWaDNtOHhHNVZxbjVidWFYYXVvNXZ6UDg3WVQ0N283V1lDdXJiZjFMNDZ"
         },
         {
-          "headline": "The tariff uncertainty trade is back - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZDdYYUdpZmh6X195QmdWOFd1WjZDNkRRSTFoODZ0SWs5NkQydjljRlBLdEZaNlVQcVAtd2d1bVJKb3RTaDM3V2hJak11eWU5LWIyZ1VqaHF1N1pFZUpMakNXWDdYVmFkTGtsOHhpZG9EYWZ3a0xmVXlOd2xNMVAtTUlxZ2FmcDY1QlE?oc=5",
+          "headline": "Landmark Supreme Court ruling may change little for you | Opinion - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmtqU3BCclJLQkhEZEtzbXhsVkU4OEdqZDJvRVBSRHhlaXZLS1VWMXgzWlh0T1NPRjZqU2laMTFLSl9sbERkZEhvNTdCQXZFWkE4MXRoR3ZQbnF4NE5VVTBzd3FIMXVfMkZNOUl5bXJHeDBIOG9PLWNQdm54MjFjNWhDdWRWNmpOSmQwM19wZkdpaHRMLWl4UHFPSkFTNnBLZjZPMlFFMmozMU9vaDVRQWZxRzA?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 11:00:11 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZDdYYUdpZmh6X195QmdWOFd1WjZDNkRRSTFoODZ0SWs5NkQydjljRlBLdEZaNlVQcVAtd2d1bVJKb3RTaDM3V2hJak11eWU5LWIyZ1VqaHF1N1pFZUpMakNXWDdYVmFkTGtsOHh"
+          "date": "Wed, 25 Feb 2026 10:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmtqU3BCclJLQkhEZEtzbXhsVkU4OEdqZDJvRVBSRHhlaXZLS1VWMXgzWlh0T1NPRjZqU2laMTFLSl9sbERkZEhvNTdCQXZFWkE4MXRoR3ZQbnF4NE5VVTBzd3FIMXVfMkZNOUl"
         },
         {
-          "headline": "The Supreme Court Clipped Trump’s Tariff Powers—and Opened New Trade Battlefronts - Council on Foreign Relations",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0x6NFdlR0plUVV6c2VZa0F5SmdOcFd1dDdOYV83elVWZGlzVlFsTzdXUVFzSXJaSkJkUjlTRkt5aC1TejdSek1ZUE1XQ0hBZS1XbHhoZzRiUnlPb204cFVOckJZRzkxQWlrdTA3dEt1QUJCWllzX2RSeUQyYlIydWdiOFVVWGhfVUpiRGQ1NFJURGRXcXM1djBFSFNINWJHajNPLTZ6bkRyNXdyRnpN?oc=5",
+          "headline": "How Trump’s Tariffs and Trade Policy Impact Retirement Portfolios - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdFhVVVEzNFVYdldrMW9BaTdpWXlGamxoOGxaYVNhSGEwNlpTY1BCTnZQS0FqVGU1MER6RUlzXzVZU0cwSUVtSDdZREc0SUVvM2NIRkRmVXV3TGxmMm5rRVFrUUhoYmhKRnVQQ2kwY3R2djdjN3h3OUhNNkZ0VFR3dWpkNA?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Mon, 23 Feb 2026 21:25:55 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0x6NFdlR0plUVV6c2VZa0F5SmdOcFd1dDdOYV83elVWZGlzVlFsTzdXUVFzSXJaSkJkUjlTRkt5aC1TejdSek1ZUE1XQ0hBZS1XbHhoZzRiUnlPb204cFVOckJZRzkxQWlrdTA"
+          "date": "Wed, 25 Feb 2026 05:31:06 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQdFhVVVEzNFVYdldrMW9BaTdpWXlGamxoOGxaYVNhSGEwNlpTY1BCTnZQS0FqVGU1MER6RUlzXzVZU0cwSUVtSDdZREc0SUVvM2NIRkRmVXV3TGxmMm5rRVFrUUhoYmhKRnVQQ2k"
         },
         {
-          "headline": "President’s Trade Officer Says No Change on Tariff Policy After Court Loss - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pVXEwUHdWN0YzYjdWci15c0h3SXp4eEhob1IzdEVtQWl2c1dJZHpJZEVhRmVSZ0ZxTEVEOHFwZFBxOEVNTE5rT1UxOEJlOE9taG5aYTNmSUREX0dlWTQ1aUF0WQ?oc=5",
+          "headline": "Eight questions (and expert answers) on what’s next for US tariff policy - Atlantic Council",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVpudnNmRG43VWhTWWkzOTRWajUzaHRIYnVvUTJWR3FIRVNYcUtWRWZmNU5nZC1fVFl2U0R5U2dDSkM5Ql8xd3IyTjY5LTMyOHNTLWI3WjZqOWpnbEN5Q181dEVIc3ZrUUhSYURoNHg2NVN3b0dBTC1qX3V3RGotWERCQURkUG42cm50R25kZjFWQWQ2X2laeUhzVGFJTG9oMGtCY3FoRzVKY3ctaDhjSVMxcw?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 02:34:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pVXEwUHdWN0YzYjdWci15c0h3SXp4eEhob1IzdEVtQWl2c1dJZHpJZEVhRmVSZ0ZxTEVEOHFwZFBxOEVNTE5rT1UxOEJlOE9taG5aYTNmSUREX0dlWTQ1aUF0WQ?oc=5\" target"
+          "date": "Tue, 24 Feb 2026 22:55:35 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVpudnNmRG43VWhTWWkzOTRWajUzaHRIYnVvUTJWR3FIRVNYcUtWRWZmNU5nZC1fVFl2U0R5U2dDSkM5Ql8xd3IyTjY5LTMyOHNTLWI3WjZqOWpnbEN5Q181dEVIc3ZrUUhSYUR"
         },
         {
-          "headline": "Supreme Court ruling throws Trump administration's tariff strategy into flux. What it means for global trade, U.S. economy - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0MwUkIxemthYTZhVU9zRU94Z2plbXllLVU5d1BtYmV5WWZNbFRMaTVhNi0wanJHcXhxS0Rtdks2TU02UThsSl8wZXloMFZxZW41eFNRLTYyRVJMU1RyY0toaUR0UTNlMmZaTTJrWFF5b1VfaHktaEN6UFZvcjFwa3h4ZGFMZ0pGUnU3NEU5d1U0R0tnbTBRSjVrVjljbVk4Sm1lOEpR0gGrAUFVX3lxTFBXdHpQNDhEOGJicjdMb3R3ZUhza0lyS0dacU80YlQ5ZmJya0xDaS1xbmRSRFdUQTZNZXl1cG9kU0FNTlFtc2Vwb0JRVzFuVWVsSnE1eHZLZ002alYzZHdCQS0tbEZBaDZoYjJha19ZT3lXcmxMa19rZS12bEx6SHBrd0Q2V1FtOTBLQUhzMC1aanVQdWJFeUdPQnVuWk1ULUZjdVBNMTREMTNCUQ?oc=5",
+          "headline": "Supreme Court Rules on Trump Tariffs: What to Do Now - CLA (CliftonLarsonAllen)",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NYTJPSVdGc1FReGhmdWZla0FTS1JGWHNhVmFsc042V2F2dWs2LXpvQTVqWkhNOGYzTWk0R1lzLWlxVEV2M0llX2h4bXRZUnhMSG5EZ3ZMdG1Yek5hZDJiQUpyTWNzTmVQd045VU9HdjRicFBTNDZWTFFDTG8?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Mon, 23 Feb 2026 22:53:54 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0MwUkIxemthYTZhVU9zRU94Z2plbXllLVU5d1BtYmV5WWZNbFRMaTVhNi0wanJHcXhxS0Rtdks2TU02UThsSl8wZXloMFZxZW41eFNRLTYyRVJMU1RyY0toaUR0UTNlMmZaTTJ"
+          "date": "Wed, 25 Feb 2026 00:47:34 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1NYTJPSVdGc1FReGhmdWZla0FTS1JGWHNhVmFsc042V2F2dWs2LXpvQTVqWkhNOGYzTWk0R1lzLWlxVEV2M0llX2h4bXRZUnhMSG5EZ3ZMdG1Yek5hZDJiQUpyTWNzTmVQd045VU9"
         },
         {
-          "headline": "Our Take On Tariffs - Real Investment Advice",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MRXpCa0NES2l2elZkcWtKWXZhSFpIWWhQT0lCOFVHUl8tSG1ZVm1sY00wTXhzXzJEVG9vaXNtSFpGWDRLWnI5R3hIQXdWZ2RyQUVjQ3p3V0hyalRXUWtUSW1JMUVrajBDQnMtZUl0SW1NeTNVcHhz?oc=5",
+          "headline": "U.S. Supreme Court tariff ruling will likely allow India to keep buying Russian oil - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnpoVFB5WXZSNGYxc0Y4VUV5T2hxa1lqSlFrOEZNWDZCRTVlSkdZS0lMTXhPendHY1pQRy1IcFYxSHF1eVNqUmNwYm5ISG1aVTRoS1lmWXBPNjNDNzgyYlkteFR4d1p4aGVpOE54VFk5NHZvYjJ5eVl1UkpZMlNyaGo2VjVJbEFl0gGOAUFVX3lxTE16ZVBaZlU1a3JIUE9kT2tIU0xTanFPb25VWmZXRlBBYlJ6eXl6MlF2bjJ1dUV6Ni1UR0dRVlpDS0RqT3hGb3VVSkQ5YWV4SkJmdW9DZDluS3c0SW4zWVZUWlFIeFg0Q1BOUnYzWU1uNkVIQ2p4ZkdLdzlCRUx0NnFYd2QtbW1LVDRWUnNnS2c?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 09:49:48 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1MRXpCa0NES2l2elZkcWtKWXZhSFpIWWhQT0lCOFVHUl8tSG1ZVm1sY00wTXhzXzJEVG9vaXNtSFpGWDRLWnI5R3hIQXdWZ2RyQUVjQ3p3V0hyalRXUWtUSW1JMUVrajBDQnMtZUl"
+          "date": "Wed, 25 Feb 2026 02:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnpoVFB5WXZSNGYxc0Y4VUV5T2hxa1lqSlFrOEZNWDZCRTVlSkdZS0lMTXhPendHY1pQRy1IcFYxSHF1eVNqUmNwYm5ISG1aVTRoS1lmWXBPNjNDNzgyYlkteFR4d1p4aGVpOE5"
         },
         {
-          "headline": "Trump vows higher tariffs on countries that 'play games' with existing trade deals - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kN3VOR0JpM085aGV3enduaG1wNlhkX1JUR05aa1N4WW14dVBhTG50UGo2SExfZ3E5UVBNZzNXcDhpamxqQWdoVWo0M2VvSEdGWmEtRGFTOHNJQQ?oc=5",
+          "headline": "US Supreme Court blocks Trump tariffs – but the trade war isn't over - ODI: Think change",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNalhlOUktb3A4VzJidmZwcy1NZWJwaGdubGNfejUwSnBrWncwZi1IakQ5MVNOY1ktQzhaWXQ5UUx4UFFTZVAzTW5nSGt4dEVXMzJDZFJnSXF0N3FPTi1WTmZ4Q2ItcWR2a2pMMW1GRWxaajlUWTRSbGV0NWxhQUNTdGF1UkFyQWJjM182OGY5QXJGc1pXcFdDaU9B?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Mon, 23 Feb 2026 21:12:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kN3VOR0JpM085aGV3enduaG1wNlhkX1JUR05aa1N4WW14dVBhTG50UGo2SExfZ3E5UVBNZzNXcDhpamxqQWdoVWo0M2VvSEdGWmEtRGFTOHNJQQ?oc=5\" target=\"_blank\"&gt"
+          "date": "Tue, 24 Feb 2026 14:43:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNalhlOUktb3A4VzJidmZwcy1NZWJwaGdubGNfejUwSnBrWncwZi1IakQ5MVNOY1ktQzhaWXQ5UUx4UFFTZVAzTW5nSGt4dEVXMzJDZFJnSXF0N3FPTi1WTmZ4Q2ItcWR2a2pMMW1"
         },
         {
-          "headline": "EU lawmakers decided to delay the approval of the bloc's trade deal with the US due to uncertainty over President Donald Trump's newest tariff policy. Last week Trump imposed a new blanket 15% duty in response to a ruling by the US Supreme Court that str - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd2NMU1FqT0pnTWVETFU1RUxVYW04bDB0MENuNG5hcTJOVy1ycnc1OHpfX1B3TXZXblg3OXFneDJCbUVic01FNVRkbGgtZFlKSHNRWkYtYWlYa2RWRE03ZjJwQTI5b3FjS3ZLMGhJWlVIbWlOZzVCMEZ4U0pCQklzUy1UTFlDdE9XMXJ0MFhUcFJjQXBSZlhZeWpmS195a21laGlyUVFEQ1NiQWhZNUNFTkF4NlRRQTl6X3drVGZ5ZHFRUENGN1ZvSUdXeFlGY3lEOG9DR2NOZEpaUmVkNEhSbA?oc=5",
+          "headline": "Trump’s Dangerous Tariff Addiction - Washington Monthly",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ1lwcHc0QW9sQUlhX1pvNG16UlZnUjVrZVRCMG90X0dHTUdWYWR0enlKSkVNdzgycnVxMFgxMmhiOEkzT2pMRXdELXpVUjIzRnAyaEd2NVZQNGN1WnNSQzVkNW1DQm4xbXViTHMtaWpFaHM5MW5vdFA3cF9DWEwyaXg2dw?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Tue, 24 Feb 2026 07:16:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd2NMU1FqT0pnTWVETFU1RUxVYW04bDB0MENuNG5hcTJOVy1ycnc1OHpfX1B3TXZXblg3OXFneDJCbUVic01FNVRkbGgtZFlKSHNRWkYtYWlYa2RWRE03ZjJwQTI5b3FjS3ZLMGh"
+          "date": "Wed, 25 Feb 2026 10:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ1lwcHc0QW9sQUlhX1pvNG16UlZnUjVrZVRCMG90X0dHTUdWYWR0enlKSkVNdzgycnVxMFgxMmhiOEkzT2pMRXdELXpVUjIzRnAyaEd2NVZQNGN1WnNSQzVkNW1DQm4xbXViTHM"
         }
       ],
       "reference": [

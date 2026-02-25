@@ -1,30 +1,15 @@
-The Supreme Court has struck down President Trump's tariff program, creating a significant shift in US trade policy. The [Court ruled](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-supreme-court-ieepa-decision) that Trump overstepped his authority under the International Emergency Economic Powers Act when imposing the levies. This opens the door for companies like [FedEx to seek](https://www.bbc.com/news/articles/cly83r1njjro?at_medium=RSS&at_campaign=rss) tariff refunds, while BNY strategists say the Treasury will likely [issue more T-bills](https://www.bloomberg.com/news/articles/2026-02-24/us-can-sell-more-t-bills-to-offset-lost-tariff-revenue-bny-says) to offset lost tariff revenue.
+The trade data provided contains very limited tariff and trade policy content. Most headlines focus on general business, politics, or regional news without specific trade implications. Here's what we can extract:
 
-Despite the legal setback, Trump has implemented a new [global 10% tariff](https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&at_campaign=rss) that applies to most countries, including the EU and UK. This rate is lower than the 15% Trump had threatened over the weekend. The move [spares European exporters](https://www.politico.eu/article/trump-spares-eu-uk-higher-global-tariff-rates-trade-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication) from higher rates for now, though UK officials warn Britain could be among the worst hit by the new levies.
+Trump used his State of the Union address to [defend tariffs](https://www.politico.com/live-updates/2026/02/24/trump-state-of-the-union-address-2026/trump-talks-tariffs-00797151?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication), dismissing the recent Supreme Court ruling and pledging to move forward with his new tariff regime. The president offered few specifics on rates or targeted sectors during the speech. Meanwhile, gold prices rose as traders weighed [tariff risks](https://www.bloomberg.com/news/articles/2026-02-24/gold-dips-for-second-day-on-prospects-of-prolonged-rate-hold) alongside Middle East tensions, reflecting market uncertainty about trade policy implementation.
 
-**Tariff Actions & Retaliation**
-
-• Trump imposed a [10% global tariff](https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&at_campaign=rss) on most countries, effective immediately, lower than the previously threatened 15% rate
-
-• The UK announced its [largest sanctions package](https://www.politico.eu/article/uk-announce-sanctions-package-russia-ukraine-war/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication) against Russia since the invasion began, targeting the country's war economy on the fourth anniversary of the conflict
-
-• EU and UK exporters were [spared higher rates](https://www.politico.eu/article/trump-spares-eu-uk-higher-global-tariff-rates-trade-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication) under the new global tariff, maintaining the 10% level rather than facing steeper penalties
-
-**Trade Negotiations & Diplomacy**
-
-• US Trade Representative praised new [trade deals with Indonesia](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/us-indonesia-deal-draws-praise-american-farmers-and-industry-leaders) and [Taiwan](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/us-taiwan-deal-draws-praise-american-farmers-ranchers-and-industry-leaders) that drew support from American farmers and industry groups
-
-• France blocked US Ambassador Charles Kushner from [meeting government officials](https://www.politico.eu/article/france-fm-jean-barrot-says-us-charles-kushner-ambassador-summons-no-show-will-impact-role/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication) after he failed to attend a diplomatic summons, with Paris saying this will affect his role
+The US Trade Representative's office highlighted recent trade agreements, with deals involving [Indonesia](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-president-trump-announcing-trade-deal-indonesia) and [Taiwan](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/us-taiwan-deal-draws-praise-american-farmers-ranchers-and-industry-leaders) drawing praise from American farmers and industry leaders, though specific terms were not detailed in the available information.
 
 **Market & Economic Impact**
-
-• The Treasury is expected to [issue additional T-bills](https://www.bloomberg.com/news/articles/2026-02-24/us-can-sell-more-t-bills-to-offset-lost-tariff-revenue-bny-says) to compensate for lost tariff revenue following the Supreme Court ruling that overturned Trump's original tariff program
-
-• Companies affected by the overturned tariffs can now seek refunds, with [FedEx filing suit](https://www.bbc.com/news/articles/cly83r1njjro?at_medium=RSS&at_campaign=rss) to recover payments made under the now-invalidated program
+• Aston Martin cited US tariffs as a contributing factor to its decision to [cut 600 jobs](https://www.bbc.com/news/articles/cp9m8n2vx0mo?at_medium=RSS&at_campaign=rss), representing 20% of its workforce as losses widened at the luxury carmaker.
+• Gold gained ground as traders factored in [tariff uncertainty](https://www.bloomberg.com/news/articles/2026-02-24/gold-dips-for-second-day-on-prospects-of-prolonged-rate-hold) alongside geopolitical tensions, with precious metals serving as a hedge against trade policy risks.
 
 **Sources**
-
-• [BBC Business](https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&at_campaign=rss)
-• [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-02-24/us-can-sell-more-t-bills-to-offset-lost-tariff-revenue-bny-says)
-• [Politico EU](https://www.politico.eu/article/trump-spares-eu-uk-higher-global-tariff-rates-trade-deal/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication)
-• [US Trade Representative](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-supreme-court-ieepa-decision)
+• [Politico](https://www.politico.com/live-updates/2026/02/24/trump-state-of-the-union-address-2026/trump-talks-tariffs-00797151?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+• [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-02-24/gold-dips-for-second-day-on-prospects-of-prolonged-rate-hold)
+• [BBC Business](https://www.bbc.com/news/articles/cp9m8n2vx0mo?at_medium=RSS&at_campaign=rss)
+• [US Trade Representative](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ambassador-greer-issues-statement-president-trump-announcing-trade-deal-indonesia)
