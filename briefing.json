@@ -6,127 +6,177 @@
     "audience": "NYT colleagues tracking tariffs and trade policy globally",
     "timezone": "America/New_York",
     "created": "2026-02-22",
-    "generated": "2026-03-01T11:12:49.313Z",
-    "generatedTimestamp": 1772363569313
+    "generated": "2026-03-02T11:26:34.733Z",
+    "generatedTimestamp": 1772450794733
   },
   "stats": {
     "sourceCount": 15,
     "successCount": 14,
     "totalStories": 68,
     "totalScreenshots": 3,
-    "elapsed": "16.2s"
+    "elapsed": "16.0s"
   },
   "stories": {
     "all": [
       {
-        "headline": "OPEC+ Agrees in Principle to Larger Oil Hike, Delegates Say",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-01/opec-agrees-in-principle-to-206k-b-d-hike-for-april-delegates",
+        "headline": "US Treasuries Fall as Inflation Angst Eclipses Haven Buying",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-02/treasuries-swing-to-losses-as-reports-of-talks-damp-haven-demand",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Sun, 01 Mar 2026 10:51:17 GMT",
-        "description": "OPEC+ agreed in principle to a slightly larger increase in oil production next month, delegates said, as a conflict sparked by US-Israeli strikes on Iran threatened to bolster a rally in crude prices."
+        "date": "Mon, 02 Mar 2026 02:07:23 GMT",
+        "description": "US Treasuries fell as conflict in the Middle East sent oil prices soaring, stoking fear inflation will accelerate and forcing traders to scale back wagers on the scope of interest-rate cuts."
       },
       {
-        "headline": "Global Earnings Underscore Shift From US as S&amp;P 500 Slumped",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-01/global-earnings-underscore-shift-from-us-as-s-p-500-slumped",
+        "headline": "Defense to Airlines: How Stocks Are Reacting to Iran Attacks",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-01/energy-in-focus-as-global-equity-traders-brace-for-iran-impact",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Sun, 01 Mar 2026 10:00:00 GMT",
-        "description": "As the latest earnings season wraps, investors could be forgiven for missing some of the fireworks, what with AI’s stranglehold on the market narrative, geopolitical angst and renewed trade uncertaint"
+        "date": "Sun, 01 Mar 2026 20:45:06 GMT",
+        "description": "Shares of airlines, cruise operators and hoteliers fell on Monday as investors reacted to conflict in the Middle East. Energy and defense stocks jumped."
       },
       {
-        "headline": "Wall Street Turns to ‘Haven-First’ Strategy Amid Iran Crisis",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-01/wall-street-turns-to-haven-first-strategies-amid-iran-attacks",
+        "headline": "US Says Three Fighter Jets Downed in 'Friendly Fire' Over Kuwait",
+        "url": "https://www.bloomberg.com/news/live-blog/2026-03-01/iran-latest",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Sun, 01 Mar 2026 08:41:58 GMT",
-        "description": "The fast‑moving conflict across the Middle East is heightening investor anxiety and strengthening the case for safe‑haven trades such as Treasuries, gold and the Swiss franc."
+        "date": "Sun, 01 Mar 2026 22:39:35 GMT",
+        "description": ""
       },
       {
-        "headline": "US Job Growth Seen Moderating After Robust January",
-        "url": "https://www.bloomberg.com/news/articles/2026-02-28/us-job-growth-seen-moderating-after-robust-january",
+        "headline": "Stocks Sell Off as US Attack on Iran Drives Oil Prices Higher",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-03-02/stocks-sell-off-as-us-attack-on-iran-drives-oil-prices-higher",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Sat, 28 Feb 2026 21:00:00 GMT",
-        "description": "US payrolls growth probably settled back in February after the strongest month of hiring in a year, returning to a more moderate and likely sustainable pace of hiring."
+        "date": "Mon, 02 Mar 2026 11:14:13 GMT",
+        "description": "Gold rallies, oil prices surge as Strait of Hormuz all but closed to shipping."
       },
       {
-        "headline": "Gulf Airlines Extend Flight Cancellations as Iran Targets Hubs",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-01/iran-strikes-disrupt-thousands-of-flights-dubai-airport-damaged",
+        "headline": "Emerging Assets Slump as Energy Costs Spike on Iran Conflict",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-02/emerging-market-currencies-stocks-fall-on-iran-conflict-worries",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Sun, 01 Mar 2026 02:56:37 GMT",
-        "description": "Airlines across the Persian Gulf extended their suspension of operations as retaliatory strikes from Iran enter a second day, causing major disruptions at some of the world’s busiest airports."
+        "date": "Mon, 02 Mar 2026 02:07:36 GMT",
+        "description": "Emerging-market currencies and stocks slumped as US and Israeli strikes on Iran are triggering a jump in energy prices and bring a rally in riskier assets to a screeching halt."
       },
       {
-        "headline": "Japan Shipping Companies Suspend Operations in Persian Gulf",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-01/japan-s-shipping-companies-suspend-operations-in-persian-gulf",
+        "headline": "Fuel Prices Jump More Than Oil as Iran War Hits Supply",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-02/fuel-prices-jump-along-with-oil-on-delays-in-strait-of-hormuz",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Sun, 01 Mar 2026 02:52:21 GMT",
-        "description": "Japanese shipping companies have suspended operations in the Persian Gulf as the military conflict in Iran escalates."
+        "date": "Mon, 02 Mar 2026 04:19:37 GMT",
+        "description": "Fuel prices surged across global markets on Monday as the war in Iran disrupted shipments from Persian Gulf refineries."
       },
       {
-        "headline": "How Starmer Stumbled Into a French-Style Fix for Britain’s Woes",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-01/how-starmer-stumbled-into-a-french-style-fix-for-britain-s-woes",
+        "headline": "Iran Conflict Disrupts Global Air Travel",
+        "url": "https://www.bloomberg.com/news/videos/2026-03-02/iran-conflict-disrupts-global-air-travel-video",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Sun, 01 Mar 2026 06:00:00 GMT",
-        "description": "The UK’s growth plan is simple. It wants more investment to deliver higher productivity that lifts wages and boosts living standards. There is an unfortunate consequence, however: unemployment."
+        "date": "Mon, 02 Mar 2026 11:07:30 GMT",
+        "description": "Travel chaos extended through the Middle East and beyond, as carriers across the Persian Gulf extended blanket flight suspensions, causing major disruptions at some of the world’s busiest airports. (S"
       },
       {
-        "headline": "France’s CMA CGM Suspends Vessels’ Passage Through Suez Canal",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-01/france-s-cma-cgm-suspends-vessels-passage-through-suez-canal",
+        "headline": "Pakistan Stocks Fall Most on Record After Middle East War",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-02/pakistan-stocks-fall-trigger-trading-halt-on-us-iran-conflict",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Sun, 01 Mar 2026 05:17:51 GMT",
-        "description": "France’s CMA CGM SA, the world’s third-largest container line, told vessels in the Persian Gulf to take shelter immediately and suspended passage through the Suez Canal."
+        "date": "Mon, 02 Mar 2026 04:42:45 GMT",
+        "description": "A key stock gauge in Pakistan plunged the most on record after geopolitical tensions in the Middle East escalated following US and Israel’s strikes on Iran."
       },
       {
-        "headline": "Iran Crisis Threatens Worst Disruption in Gas Markets Since 2022",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-01/iran-crisis-threatens-worst-disruption-in-gas-markets-since-2022",
+        "headline": "Clean Max Shares Slip 18% in Worst Indian Debut Since 2021",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-02/clean-max-shares-tumble-in-mumbai-debut-after-341-million-ipo",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Sun, 01 Mar 2026 04:09:52 GMT",
-        "description": "A widening Middle East conflict looks set to create the most significant disruption for gas markets since Russia’s invasion of Ukraine upended global trade four years ago."
+        "date": "Mon, 02 Mar 2026 05:02:21 GMT",
+        "description": "Shares of Indian renewable energy firm Clean Max Enviro Energy Solutions Ltd. tumbled 18% on their first day of trading, making it the worst debut in more than four years for an offering of a similar "
       },
       {
-        "headline": "Iran’s Supreme Leader Ali Khamenei Dead at 86",
-        "url": "https://www.bloomberg.com/news/videos/2026-03-01/iran-s-supreme-leader-ali-khamenei-dead-at-86-video",
+        "headline": "JPMorgan Tests ‘Art of the Possible’ in Leveraged Buyouts",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-02/jpmorgan-tests-art-of-the-possible-in-leveraged-buyouts",
         "source": "Bloomberg Markets",
         "sourceId": "bloomberg_markets",
         "category": "business",
         "priority": "primary",
-        "date": "Sun, 01 Mar 2026 02:53:15 GMT",
-        "description": "Ali Khamenei, Iran’s anti-Western supreme leader who dominated the Islamic Republic for more than three decades, has died at 86. Bloomberg's Haslinda Amin explains. (Source: Bloomberg)"
+        "date": "Mon, 02 Mar 2026 11:00:00 GMT",
+        "description": "When JPMorgan Chase &amp; Co. took the lead last year in financing the $55 billion takeover of Electronic Arts Inc., a record-setting leveraged buyout, Wall Street saw it as a sign that a lucrative pe"
       },
       {
-        "headline": "Flights in and out of Middle East cancelled and diverted after Iran strikes",
+        "headline": "Oil prices jump and shares fall as conflict escalates",
+        "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Mon, 02 Mar 2026 09:56:32 GMT",
+        "description": "Experts have warned that a prolonged conflict could push global energy prices even higher."
+      },
+      {
+        "headline": "UK launches consultation asking for views on under-16s social media ban",
+        "url": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Sun, 01 Mar 2026 22:35:18 GMT",
+        "description": "Discussions over what measures to implement to protect children's wellbeing will last for three months."
+      },
+      {
+        "headline": "Brewdog closes all bars for a day as it looks to complete sale",
+        "url": "https://www.bbc.com/news/articles/c04319pzeg5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Mon, 02 Mar 2026 07:04:32 GMT",
+        "description": "The company brought in consultants AlixPartners last month, after failing to make a profit in recent years."
+      },
+      {
+        "headline": "Flights cancelled and new travel warnings issued after Iran strikes",
         "url": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Business",
         "sourceId": "bbc_business",
         "category": "business",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 08:49:32 GMT",
+        "date": "Sun, 01 Mar 2026 18:05:14 GMT",
         "description": "BA and Virgin Atlantic are among major airlines to ground services to the Middle East in light of the attacks."
+      },
+      {
+        "headline": "Rent tops £1,000 a month in more areas - find out where",
+        "url": "https://www.bbc.com/news/articles/cx28njn2dwpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Sat, 28 Feb 2026 00:14:04 GMT",
+        "description": "The cost of renting privately has surged in the last five years, but tenants may now see a slowdown."
+      },
+      {
+        "headline": "Deepfake attack: 'Many people could have been cheated'",
+        "url": "https://www.bbc.com/news/articles/c0j59vydxj9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Business",
+        "sourceId": "bbc_business",
+        "category": "business",
+        "priority": "secondary",
+        "date": "Mon, 02 Mar 2026 06:47:00 GMT",
+        "description": "The boss of the Bombay Stock Exchange was recently targeted in what is a growing global problem."
       },
       {
         "headline": "A firm hiring blind staff went bust - but its mission lives on",
@@ -169,114 +219,84 @@
         "description": "The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense."
       },
       {
-        "headline": "Why you can't get a signal at festivals and sports matches",
-        "url": "https://www.bbc.com/news/articles/c3rzq8d24y9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Business",
-        "sourceId": "bbc_business",
-        "category": "business",
-        "priority": "secondary",
-        "date": "Fri, 27 Feb 2026 00:03:10 GMT",
-        "description": "Connecting up music and sports events to the internet is a massive undertaking."
-      },
-      {
-        "headline": "What the Warner Bros deal could mean for streaming, cinemas and news",
-        "url": "https://www.bbc.com/news/articles/c20j5n2w4q6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Business",
-        "sourceId": "bbc_business",
-        "category": "business",
-        "priority": "secondary",
-        "date": "Fri, 27 Feb 2026 21:46:14 GMT",
-        "description": "If Paramount's takeover of Warner Bros goes ahead it could significantly reshape Hollywood."
-      },
-      {
-        "headline": "Brewdog expected to announce sale early next week",
-        "url": "https://www.bbc.com/news/articles/c07jmmgyx19o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Business",
-        "sourceId": "bbc_business",
-        "category": "business",
-        "priority": "secondary",
-        "date": "Fri, 27 Feb 2026 17:16:32 GMT",
-        "description": "Staff are told Brewdog's German arm is not included in the sale and will now be liquidated but bars will trade as normal this weekend."
-      },
-      {
-        "headline": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
-        "url": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Business",
-        "sourceId": "bbc_business",
-        "category": "business",
-        "priority": "secondary",
-        "date": "Fri, 27 Feb 2026 00:06:40 GMT",
-        "description": "The Twitter co-founder says he believes the majority of firms will make similar changes \"within the next year.\""
-      },
-      {
-        "headline": "Government to give go-ahead for £1bn defence helicopter deal",
-        "url": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Business",
-        "sourceId": "bbc_business",
-        "category": "business",
-        "priority": "secondary",
-        "date": "Fri, 27 Feb 2026 16:20:07 GMT",
-        "description": "The chancellor has stepped in to protect jobs at the helicopter manufacturer in Somerset, the BBC understands."
-      },
-      {
-        "headline": "Ayatollah Khamenei's iron grip on power in Iran comes to an end",
-        "url": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Allies of US in the Gulf bear brunt of Iran attacks",
+        "url": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 01:47:42 GMT",
-        "description": "Iranian state TV confirms the supreme leader has been killed on the first day of massive US and Israeli air strikes on the country."
+        "date": "Sun, 01 Mar 2026 22:19:03 GMT",
+        "description": "Iran's attacks on Gulf Arab states suggest the Islamic Republic is targeting not just the US military but also civilian infrastructure."
       },
       {
-        "headline": "What we know so far about the US-Israel attacks and Iran's retaliation",
-        "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Kidnapping of foreigners soars in Africa's lawless Sahel region",
+        "url": "https://www.bbc.com/news/articles/c0lj18d5lx3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 10:58:33 GMT",
-        "description": "Iran responds by launching missiles and drones towards Israel and four Gulf Arab countries that host US military bases."
+        "date": "Mon, 02 Mar 2026 00:02:10 GMT",
+        "description": "Growing insecurity in the Sahel made 2025 one of the worst years on record for the abduction of foreigners in Africa."
       },
       {
-        "headline": "Iran says US and Israel strikes hit school killing 108",
+        "headline": "Could Kim's teen daughter become North Korea's next leader?",
+        "url": "https://www.bbc.com/news/articles/cgjzdlx983po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 01 Mar 2026 23:11:11 GMT",
+        "description": "Kim Jue Ae is becoming more visible alongside her father, but much about her remains a mystery."
+      },
+      {
+        "headline": "Michael B Jordan upends Oscars race as Sinners wins big at Actor Awards",
+        "url": "https://www.bbc.com/news/articles/clyzklvk79yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Mon, 02 Mar 2026 05:08:35 GMT",
+        "description": "The US star's best actor win for Sinners leaves the Oscars race too close to call."
+      },
+      {
+        "headline": "At least 153 dead after reported strike on school, Iran says",
         "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 02:34:04 GMT",
-        "description": "There is no confirmation by the US or Israel of the strike on the school located near elite military troops."
+        "date": "Sun, 01 Mar 2026 15:32:26 GMT",
+        "description": "Iran has blamed the US and Israel for the strike; the US is looking into reports of the incident, while the IDF says it is \"not aware\" of operations in the area."
       },
       {
-        "headline": "Luxury Dubai hotel hit as Iran launches retaliatory strikes across region",
-        "url": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Nine dead in missile attack on Israel as Iran strikes region",
+        "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sat, 28 Feb 2026 18:15:02 GMT",
-        "description": "Smoke and flames rose from Dubai's Fairmont The Palm hotel as civilian targets came under fire along with the US military bases across the Middle East."
+        "date": "Sun, 01 Mar 2026 22:24:27 GMT",
+        "description": "Several deaths are reported across the Middle East as Tehran retaliates for massive strikes by the US and Israel."
       },
       {
-        "headline": "Where have Nepal's 'nepo kids' gone as corruption takes centre stage in election?",
-        "url": "https://www.bbc.com/news/articles/cgqgl3j5nj4o?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
+        "url": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sat, 28 Feb 2026 23:03:48 GMT",
-        "description": "The excess of politicians' children was front and centre of the anger that drove protests that toppled the government last year."
+        "date": "Mon, 02 Mar 2026 11:24:48 GMT",
+        "description": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead."
       },
       {
-        "headline": "Wellness peptide craze: Why people are injecting drugs 'not for human consumption'",
-        "url": "https://www.bbc.com/news/articles/cdr268m5pxro?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "War photographer Paul Conroy dies as tributes paid",
+        "url": "https://www.bbc.com/news/articles/c5y6jvlv83ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 00:51:29 GMT",
-        "description": "Growing numbers of people are injecting unregulated peptides for health reasons - but one expert says they are \"lab rats\"."
+        "date": "Sun, 01 Mar 2026 19:47:03 GMT",
+        "description": "Jamie Doran played the photographer, who has died aged 61, in the 2018 movie A Private War."
       },
       {
         "headline": "Why is WhatsApp's privacy policy facing a legal challenge in India?",
@@ -289,224 +309,204 @@
         "description": "A 2021 policy update requires users to share data with Meta for ads purposes to continue using the app."
       },
       {
-        "headline": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
-        "url": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World",
-        "sourceId": "bbc_world",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Sat, 28 Feb 2026 13:00:39 GMT",
-        "description": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site."
-      },
-      {
-        "headline": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
-        "url": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World",
-        "sourceId": "bbc_world",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Sat, 28 Feb 2026 03:43:56 GMT",
-        "description": "The former president told the committee that he would never have flown on Epstein's plane if he \"had any inkling of what he was doing\"."
-      },
-      {
-        "headline": "More than 40,000 Hong Kong cabbies register to accept Octopus payment",
-        "url": "https://www.scmp.com/news/hong-kong/transport/article/3345030/more-40000-hong-kong-cabbies-register-accept-octopus-payment?utm_source=rss_feed",
+        "headline": "Mainland Chinese firm to build Northern Metropolis supercomputing centre",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3345158/mainland-chinese-firm-build-northern-metropolis-data-cluster-facility?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 11:11:37 +0000",
+        "date": "Mon, 02 Mar 2026 11:03:57 +0000",
         "description": ""
       },
       {
-        "headline": "As US names official for Tibet policy, is it eyeing China, its minority groups or trade?",
-        "url": "https://www.scmp.com/news/china/politics/article/3345029/us-names-official-tibet-policy-it-eyeing-china-its-minority-groups-or-trade?utm_source=rss_feed",
+        "headline": "Singapore strives to remain equidistant amid US-China rivalry: ‘same-same but different’",
+        "url": "https://www.scmp.com/week-asia/politics/article/3345152/singapore-strives-remain-equidistant-amid-us-china-rivalry-same-same-different?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 11:01:42 +0000",
+        "date": "Mon, 02 Mar 2026 11:00:29 +0000",
         "description": ""
       },
       {
-        "headline": "Inside Xi Jinping’s new guide to promoting Communist Party officials",
-        "url": "https://www.scmp.com/news/china/politics/article/3345015/inside-xi-jinpings-new-guide-promoting-communist-party-officials?utm_source=rss_feed",
+        "headline": "South China Sea expert warns 2026 code of conduct is ‘simply not achievable’",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3345137/south-china-sea-expert-warns-2026-code-conduct-simply-not-achievable?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 10:00:27 +0000",
+        "date": "Mon, 02 Mar 2026 11:00:14 +0000",
         "description": ""
       },
       {
-        "headline": "Warm winter no match: China’s sportswear sector posts surprise growth",
-        "url": "https://www.scmp.com/business/article/3345011/warm-winter-no-match-chinas-sportswear-sector-posts-surprise-growth?utm_source=rss_feed",
+        "headline": "India, Canada forge deals on uranium, renewable energy",
+        "url": "https://www.scmp.com/news/asia/south-asia/article/3345162/india-canada-forge-deals-uranium-renewable-energy?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 10:00:18 +0000",
+        "date": "Mon, 02 Mar 2026 10:58:41 +0000",
         "description": ""
       },
       {
-        "headline": "Why Chinese honour Toilet Goddess with straw effigies, rituals during Lantern Festival",
-        "url": "https://www.scmp.com/news/people-culture/article/3344710/why-chinese-honour-toilet-goddess-straw-effigies-rituals-during-lantern-festival?utm_source=rss_feed",
+        "headline": "Hong Kong, Shanghai sign pact on digital trade finance, cross-border data link",
+        "url": "https://www.scmp.com/business/banking-finance/article/3345160/hong-kong-shanghai-sign-pact-digital-trade-finance-cross-border-data-link?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 10:00:10 +0000",
+        "date": "Mon, 02 Mar 2026 10:55:30 +0000",
         "description": ""
       },
       {
-        "headline": "Pakistani, Afghan clashes widen as Arab states struggle to halt war",
-        "url": "https://www.scmp.com/news/asia/south-asia/article/3345024/pakistani-afghan-clashes-widen-arab-states-struggle-halt-war?utm_source=rss_feed",
+        "headline": "Middle East tensions highlight Hong Kong’s stability, opportunities: labour minister",
+        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3345156/middle-east-tensions-highlight-hong-kongs-stability-opportunities-labour-minister?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 09:49:14 +0000",
+        "date": "Mon, 02 Mar 2026 10:32:13 +0000",
         "description": ""
       },
       {
-        "headline": "Hong Kong government ‘prepared’ for more volatility after Iran attacks: Paul Chan",
-        "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3345021/hong-kong-government-prepared-more-volatility-after-iran-attacks-paul-chan?utm_source=rss_feed",
+        "headline": "US-Israel war on Iran: everything you need to know from China’s reaction to what’s next",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3345095/us-israel-war-iran-everything-you-need-know-chinas-reaction-whats-next?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 09:09:42 +0000",
+        "date": "Mon, 02 Mar 2026 10:30:07 +0000",
         "description": ""
       },
       {
-        "headline": "China poised to earn vast profits from global energy transition: analysts",
-        "url": "https://www.scmp.com/economy/china-economy/article/3344902/china-poised-earn-vast-profits-global-energy-transition-analysts?utm_source=rss_feed",
+        "headline": "Eager China parents use apps to find partners for adult children, turn pairing into transactions",
+        "url": "https://www.scmp.com/news/people-culture/trending-china/article/3344739/eager-china-parents-use-apps-find-partners-adult-children-turn-pairing-transactions?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 08:00:09 +0000",
+        "date": "Mon, 02 Mar 2026 10:00:09 +0000",
         "description": ""
       },
       {
-        "headline": "Death of Iran’s Khamenei sparks outrage and calls for restraint in Asia",
-        "url": "https://www.scmp.com/week-asia/politics/article/3345014/death-irans-khamenei-sparks-outrage-and-calls-restraint-asia?utm_source=rss_feed",
+        "headline": "Asia’s travel sector rattled by Iran attacks, fears of ‘domino effect’ slowdown",
+        "url": "https://www.scmp.com/week-asia/economics/article/3345150/asias-travel-sector-rattled-iran-attacks-fears-domino-effect-slowdown?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 07:57:35 +0000",
+        "date": "Mon, 02 Mar 2026 09:53:17 +0000",
         "description": ""
       },
       {
-        "headline": "Chairman of China’s second-largest liquor producer under corruption probe",
-        "url": "https://www.scmp.com/business/article/3345009/chairman-chinas-second-largest-liquor-producer-under-corruption-probe?utm_source=rss_feed",
+        "headline": "Taliban’s only hope for peace with Pakistan is renouncing terrorism",
+        "url": "https://www.scmp.com/opinion/asia-opinion/article/3345086/why-talibans-only-hope-peace-pakistan-renouncing-terrorism?utm_source=rss_feed",
         "source": "South China Morning Post",
         "sourceId": "scmp",
         "category": "regional",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 06:10:34 +0000",
+        "date": "Mon, 02 Mar 2026 09:30:07 +0000",
         "description": ""
       },
       {
-        "headline": "Belgium seizes suspected Russian shadow fleet vessel",
-        "url": "https://www.politico.eu/article/belgium-seizes-suspected-russian-shadow-fleet-vessel/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Oil jumps, euro slumps as Iran conflict erupts",
+        "url": "https://www.politico.eu/article/oil-euro-dollar-iran-us-israel-conflict/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 09:36:00 +0000",
-        "description": "Europe is ramping up the targeting of Moscow's fleet of vessels suspected of carrying sanctioned oil or damaging undersea infrastructure."
+        "date": "Mon, 02 Mar 2026 11:12:11 +0000",
+        "description": "Prospect of an extended conflict triggers biggest energy shock in four years."
       },
       {
-        "headline": "Iran strikes threaten to deplete US weapons supplies — and put American troops at risk",
-        "url": "https://www.politico.com/news/2026/02/25/iran-weapons-trump-troops-defense-00797801?nid=0000018f-3124-de07-a98f-3be4d1400000&#038;nname=politico-toplines&#038;nrid=698bbb1d-36f5-4aea-92d6-b19048cb90d7&#038;utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Trump buries the 20th century",
+        "url": "https://www.politico.com/news/magazine/2026/03/02/trump-buries-the-20th-century-00806414?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 08:16:17 +0000",
-        "description": "The Trump administration already burned through significant stockpiles of air defense missiles in operations against Iran and its proxy groups."
+        "date": "Mon, 02 Mar 2026 10:49:04 +0000",
+        "description": "Donald Trump's legacy became clearer than ever with the attack on Iran's regime, the latest 20th century artifact to crumble in the Trump era."
       },
       {
-        "headline": "Ayatollah Khamenei is dead. Here’s what that means for Iran’s leadership.",
-        "url": "https://www.politico.com/news/2026/02/28/ayatollah-khamenei-iran-leadership-00806167?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Israel strikes Lebanon, widening Mideast conflict",
+        "url": "https://www.politico.eu/article/israel-strikes-lebanon-as-iran-conflict-spills-over/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Sun, 01 Mar 2026 03:40:30 +0000",
-        "description": "The country’s supreme leader led the Islamic Republic for 37 years."
+        "date": "Mon, 02 Mar 2026 09:40:56 +0000",
+        "description": "The attack on Hezbollah in Beirut marks a sharp escalation in the war that started with U.S. and Israeli strikes on Iran."
       },
       {
-        "headline": "Iranian supreme leader killed in airstrike, leaving power vacuum atop regime",
-        "url": "https://www.politico.com/news/2026/02/28/iranian-supreme-leader-killed-in-airstrike-leaving-power-vacuum-atop-regime-00806018?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Meeting of EU ministers in Cyprus postponed after drone strike",
+        "url": "https://www.politico.eu/article/iran-eu-ministers-cyprus-postponed-after-drone-strike/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Sat, 28 Feb 2026 22:05:29 +0000",
-        "description": "Ayatollah Ali Khamenei's death throws the future of the regime into doubt."
+        "date": "Mon, 02 Mar 2026 09:30:53 +0000",
+        "description": "European affairs ministers from around the bloc were due to arrive in Nicosia on Monday, but the spreading crisis in the Middle East has disrupted flights."
       },
       {
-        "headline": "Putin&#8217;s friendship has limits — as Iran just found out",
-        "url": "https://www.politico.eu/article/vladimir-putin-friendship-limits-iran-leader-khamenei-found-out/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Closing the nutritional gap in cancer care",
+        "url": "https://www.politico.eu/sponsored-content/closing-the-nutritional-gap-in-cancer-care/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Sat, 28 Feb 2026 21:58:16 +0000",
-        "description": "Leaders in Damascus, Caracas and now Tehran have all discovered that Russian support only goes so far."
+        "date": "Mon, 02 Mar 2026 08:55:19 +0000",
+        "description": "As Europe redefines its health priorities, addressing persistent gaps like cancer-related malnutrition will be essential to ensure resilient systems and better outcomes for patients."
       },
       {
-        "headline": "Trump’s patience runs out: Inside the final days before the strike on Iran",
-        "url": "https://www.politico.com/news/2026/02/28/trumps-patience-runs-out-inside-the-final-days-before-the-strike-on-iran-00806014?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "British base in Cyprus hit by drone strike",
+        "url": "https://www.politico.eu/article/keir-starmer-iran-uk-british-base-cyprus-hit-by-drone-strike/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Sat, 28 Feb 2026 21:13:06 +0000",
-        "description": "President Donald Trump, already upset with Tehran’s violent crackdown, gave diplomacy a final shot, but ultimately decided time was up."
+        "date": "Mon, 02 Mar 2026 08:47:02 +0000",
+        "description": "The attack came shortly after U.K. Prime Minister Keir Starmer said he would allow the U.S. to use British military bases to “destroy [Iranian] missiles at source.”"
       },
       {
-        "headline": "US Gulf allies rattled — and seeing few good options — following Iran strikes",
-        "url": "https://www.politico.com/news/2026/02/28/us-gulf-iran-allies-gcc-arab-00805858?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Why Starmer bowed to Trump on Iran",
+        "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/why-starmer-bowed-to-trump-on-iran/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Sat, 28 Feb 2026 20:32:36 +0000",
-        "description": "Iran’s retaliation across the region forces Washington’s Arab partners — long opposed to strikes — to weigh deeper involvement as U.S. assets come under fire."
+        "date": "Mon, 02 Mar 2026 08:37:33 +0000",
+        "description": "Presented by Amazon"
       },
       {
-        "headline": "EU scrambles for unity as Iran crisis exposes transatlantic rift",
-        "url": "https://www.politico.eu/article/eu-scrambles-unity-iran-crisis-exposes-transatlantic-rift-united-states/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Europe&#8217;s balancing act on Iran",
+        "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/europes-balancing-act-on-iran/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Sat, 28 Feb 2026 20:23:21 +0000",
-        "description": "Brussels has shifted into crisis mode, with emergency meetings piling up Saturday and Sunday."
+        "date": "Mon, 02 Mar 2026 05:30:00 +0000",
+        "description": "Presented by Amazon"
       },
       {
-        "headline": "Satellite imagery of devastation at Iranian supreme leader&#8217;s residence",
-        "url": "https://www.politico.com/news/2026/02/28/satellite-imagery-of-devastation-at-iranian-supreme-leaders-residence-00805793?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Resist ‘dangerous and socially unacceptable’ age checks for social media, scientists warn",
+        "url": "https://www.politico.eu/article/age-check-social-media-scientist-warning/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Sat, 28 Feb 2026 20:05:45 +0000",
-        "description": "Photos appear to show smoke rising from the office building of Ayatollah Ali Khamenei."
+        "date": "Mon, 02 Mar 2026 05:00:00 +0000",
+        "description": "Computer scientists are campaigning against the global march toward age checks online."
       },
       {
-        "headline": "Poland says it had advance knowledge of US-Israel strikes on Iran",
-        "url": "https://www.politico.eu/article/poland-advance-knowledge-us-israel-strikes-iran/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+        "headline": "Merz und Iran: Anführer der Hilflosen",
+        "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/merz-und-iran-anfuhrer-der-hilflosen/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
         "source": "Politico EU",
         "sourceId": "politico_eu",
         "category": "trade",
         "priority": "secondary",
-        "date": "Sat, 28 Feb 2026 19:59:24 +0000",
-        "description": "Unlike Paris, Warsaw and Berlin were told of the strikes before they happened, exposing differences in how Europe was looped in."
+        "date": "Mon, 02 Mar 2026 04:43:52 +0000",
+        "description": "Der Iran-Konflikt dominiert die internationale Lage: Nach einer Eskalationswelle zwischen Washington, Tel Aviv und Teheran steht auch Europa im Fokus. Wie handlungsfähig Europa wirklich ist, wie Einst"
       },
       {
         "headline": "Weekly Trade Focus: APEC",
@@ -599,217 +599,267 @@
         "description": ""
       },
       {
-        "headline": "Supreme Court ruling against Trump’s tariffs is unlikely to mean an end to trade policy chaos - Texarkana Gazette",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDc4bFpYN3Jud2ZwT2E3RzZyY1oxMWc0N1VKQUdZUXpKN3Fwc1gya1FGbkpWdG1mYTR6N1JLazRBT25vNG9BcE5FNklwcTVYLTRON2VqRmxKVlo3TklWQ0Iyd0FfVDRqS2RLZXZ3bFlaMnFMVFVPTFRldUl0R3B4SGVtWVpSTEdPdnBDNW84Mkt6eVN6eUhJV1QxeldtQQ?oc=5",
+        "headline": "US Supreme Court treats a symptom but the real cost of Trump’s tariffs is uncertainty - East Asia Forum",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFEycm5jem9lc0twSzlqRV9tN2hVa1FrejBZT0puTGp5bjJFemhVSFJiTUdXbjItRllSYTl3NnpPMElZTEZDOXNRTUdHcDBVUVRQb3FrSXVVTEx2S2s0RUljRGN2ZG9zM05QVkx0OFZ6QWxxVG9Fa2lWLW82dlZjMVlhSXlRQmhzVXF3ZnZwNHVwdmVTSmtCM0dHWnRuN3BwSWRJNVU2ZTdSRmlYcUo1QkJDWUdlMGxRNHJxWGt4QQ?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Sun, 01 Mar 2026 05:30:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdDc4bFpYN3Jud2ZwT2E3RzZyY1oxMWc0N1VKQUdZUXpKN3Fwc1gya1FGbkpWdG1mYTR6N1JLazRBT25vNG9BcE5FNklwcTVYLTRON2VqRmxKVlo3TklWQ0Iyd0FfVDRqS2RLZXZ"
+        "date": "Sun, 01 Mar 2026 21:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFEycm5jem9lc0twSzlqRV9tN2hVa1FrejBZT0puTGp5bjJFemhVSFJiTUdXbjItRllSYTl3NnpPMElZTEZDOXNRTUdHcDBVUVRQb3FrSXVVTEx2S2s0RUljRGN2ZG9zM05QVkx"
       },
       {
-        "headline": "Trump’s tariffs have gutted Agoa’s duty‑free promise: our model shows how - The Conversation",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFVvQW8yUFhYQjUzbldzcXpGdEZHa2FOd1gwY2RrMHc5djJ5VVVqMFE0WXdTbDVYZ2lOR3RyWEhsNEh5QlRWYnlPWjYxYTFWSzRfUXRLbDVBSUN3U0d5VDFJMHRGZVlaSHRScWVRNnRZZjVEVWVWbFViSnlwemxUa2JrSlQyR2paNm1pWEM3Zl9BTHN1dFotSmoyUHlycThWako0M25hUVk?oc=5",
+        "headline": "What now for Asia after Trump's tariffs struck down? - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZlJWMTJLOXZwZGJud2JJVXJUX2NOaE9hZS1EaFR5N0QwRUpMUEpIYWZ5TG9qRV9jYkQyRWFhWGt1V1NuV0ZHVG00bkFyYWZmWVp3cnFuX19TR3JBNEhxQ1RTVHlqNm9Wa0dUajNTR01kZXNCMWRHUUM0dDgwTXM?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Sun, 01 Mar 2026 04:54:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFVvQW8yUFhYQjUzbldzcXpGdEZHa2FOd1gwY2RrMHc5djJ5VVVqMFE0WXdTbDVYZ2lOR3RyWEhsNEh5QlRWYnlPWjYxYTFWSzRfUXRLbDVBSUN3U0d5VDFJMHRGZVlaSHRScWV"
+        "date": "Mon, 02 Mar 2026 06:08:13 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZlJWMTJLOXZwZGJud2JJVXJUX2NOaE9hZS1EaFR5N0QwRUpMUEpIYWZ5TG9qRV9jYkQyRWFhWGt1V1NuV0ZHVG00bkFyYWZmWVp3cnFuX19TR3JBNEhxQ1RTVHlqNm9Wa0dUajN"
       },
       {
-        "headline": "A Small Business Roundtable On Tariffs Paints An Unnerving Portrait Of A Trade Policy Gone Awry - The Hudson Independent",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUXc0WXh4N0pJVldCaXU4eW1NN1g5Yy13T3BQTnFaR2h0WGZvckZBSGJPTngzYi1INXBucXRfbXBoNFg3T21lTDdra3ktQk9qZm5xb1IzTkNZbEZNeFVVN2hCaG4yZVRkbGdRT3ZpeVNEV1ZWUjg5TmxlaGhPYU5DRGZObXZBVWRXbzFPczlCVUNpQXZXV1pKcFFVWklTZy15RUlJY0hWUHpUWXlhd2NBT01vZnpMNHFkbE9wX2o5cGVkcHlfS0ZfMw?oc=5",
+        "headline": "SCOTUS tariff ruling creates fresh uncertainty for US trade policy and global markets - Capital.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHpMdFJMd3NzVllVQWRGYlBhOHZpejFDWGNoM2RlM01VVmNlWkJDWURBMjhGbE5KY2FEOTVVSWp2WDgxQklRZU5JWDBUMWFmTE5LRnhkaWJFV016SUFjWjV6TW0zaWFGUkp5cnJwT3djcURvLVJTNThRRXZPd0M5ck85ZmFvcFE5M3l3WW1XTmVKZnk1ZTBocmtUbjE4d29jMjFGazVOcW5PQ3ExWkRXTHdBMkI4MjZ4OHhhMA?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Sat, 28 Feb 2026 23:49:43 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUXc0WXh4N0pJVldCaXU4eW1NN1g5Yy13T3BQTnFaR2h0WGZvckZBSGJPTngzYi1INXBucXRfbXBoNFg3T21lTDdra3ktQk9qZm5xb1IzTkNZbEZNeFVVN2hCaG4yZVRkbGdRT3Z"
+        "date": "Mon, 02 Mar 2026 01:23:47 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHpMdFJMd3NzVllVQWRGYlBhOHZpejFDWGNoM2RlM01VVmNlWkJDWURBMjhGbE5KY2FEOTVVSWp2WDgxQklRZU5JWDBUMWFmTE5LRnhkaWJFV016SUFjWjV6TW0zaWFGUkp5cnJ"
       },
       {
-        "headline": "World markets jolted, dollar dips as Trump vows tariffs on Europe over Greenland - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTTXNGZzZHSkxROFRGQ3dNVXZQVTZ6ZGZ4MDRPQ3g0Nzhkb2QtbnhXN0hDMFB2aW9vZzAwTUtudzIzSVYtNkJlR0VSX000ZVd3NlpwcmpicTBqR1pmVS15Q1dVMUpwNEQ1c216ZjZSRFQzQVdPMUZLdnpIZHBQdw?oc=5",
+        "headline": "Editorial | China now holds more cards ahead of Xi-Trump meeting - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0JNNFhXazNjQThDNGFEdHBHZG5ENG9NWXp6MkR3Rk84RVNHMjdSNHVaOWQ3cXlNeFd5bUJadW5wRFNNQWU3ak5qSFMzVTkyTUt1VjNYRDJtTU5JckxPZldyQlh5MXR4RXVYLVZ4VkxXZGI5aERnOEJGZnN0UU1PMTlBZTFmM1pKV1ZFUl9pal9leU80NHBHaUhWcGNwLXp1ZTZGa9IBpAFBVV95cUxQRndHMS02Y3ZIa05QWmpfNUF3NklCYTVldmpYUThTdWlkcmV5VW9pXzJrMU9OWExlcDRLRkpBN2hmY1BEcXRfOF9HUXpaTkdkbzhHWkdFYkJDQS1PSDFHRDU3WjBJb3pNWEhwUzFjUGYxUjhINWk5MFJTSGNjb0RybHhxU0R4WlRSbklLcTNjMWxpLTd2Z2NyVE9TcjdLN3VFeGl3aA?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Sun, 01 Mar 2026 05:45:42 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBTTXNGZzZHSkxROFRGQ3dNVXZQVTZ6ZGZ4MDRPQ3g0Nzhkb2QtbnhXN0hDMFB2aW9vZzAwTUtudzIzSVYtNkJlR0VSX000ZVd3NlpwcmpicTBqR1pmVS15Q1dVMUpwNEQ1c216ZjZ"
+        "date": "Sun, 01 Mar 2026 23:15:16 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0JNNFhXazNjQThDNGFEdHBHZG5ENG9NWXp6MkR3Rk84RVNHMjdSNHVaOWQ3cXlNeFd5bUJadW5wRFNNQWU3ak5qSFMzVTkyTUt1VjNYRDJtTU5JckxPZldyQlh5MXR4RXVYLVZ"
       },
       {
-        "headline": "Thai economists urge caution despite lower US tariff - Thai PBS World",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1abkIycGJlM1p6SUx4YU9XRW1IT0lLZHpzajZUaTVEa3pNQTBhLWdoME9GUzJuV1dhdTJzODdvYkZMSDBwOFFGdHllcjh5bElQM3c?oc=5",
+        "headline": "Trump’s tariffs have gutted Agoa’s duty‑free promise: our model shows how - Polity.org.za",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVp5cDRVYnNBRl81SHRPVnQ4SE41cFVCT2kxa2VIeWN6Y2NScmplNDRUWmpsYXlYb3VjYlp0ZTJuVGRRYTJoUDIxY2JBYzNOSUFfUE1HaFh3VXQwcERPbVVFMG44bU9Mdnd2eHBrMk1jeEllcUIxRXlndVpBVUs3cWk1cnV6Sjg1YnE1VGJpYVo3V0F0UWsxbEtGRTRRekE2dEZwbWJ3ODdOWTMzRm5abjlYS1U?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Sun, 01 Mar 2026 03:34:29 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1abkIycGJlM1p6SUx4YU9XRW1IT0lLZHpzajZUaTVEa3pNQTBhLWdoME9GUzJuV1dhdTJzODdvYkZMSDBwOFFGdHllcjh5bElQM3c?oc=5\" target=\"_blank\"&gt;Thai econo"
+        "date": "Mon, 02 Mar 2026 09:08:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVp5cDRVYnNBRl81SHRPVnQ4SE41cFVCT2kxa2VIeWN6Y2NScmplNDRUWmpsYXlYb3VjYlp0ZTJuVGRRYTJoUDIxY2JBYzNOSUFfUE1HaFh3VXQwcERPbVVFMG44bU9Mdnd2eHB"
       },
       {
-        "headline": "Tariffs and lower sales hit PACCAR’s profits in 2025 - Opportimes",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjVXc0IzMV9nQW5BMzZpYXlpRmxFSm5KY2RpVll4U2RqSF9PdEVXZEZqM3ZwVTZZUjd5MUpkMDZxbUlRTXJrd3JJUlRDdWVKYUpfdHlkWFQyZXRlVjhaTEY3RzhSNTh6eXBtUHBYT29MWGxQaXk4N3pUeXhjNVl5dHhDQTRvSDQzNHc?oc=5",
+        "headline": "Supreme Court Strikes Down Trump's 'Liberation Day' Tariffs, But Alternatives Remain - National Today",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSDczQTZZNDU2YVVIUVc3NENEYWg2TWoxbnYwNklMUDVGckdTQzFfWGstT21HU0xtTnB0SFZsLVNtU0pwR1l2aXVSZ1NVdm9Jal8zbHc3c3NpT253YTByY3JqT0dneTJtY3RIQ2tzQngya2VrQnhvMVY1UVEyN2FYZFRMT00zSUNnei1XX0J4TkNfR2FMMVdyS3VCUTEySjhRMFF2WG9Id1lJYUZzZmExZDhHaElBNGZvd3BXVFRMdXNHejh1WExXOGl6anB5VHF2aVJOcXlR?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Sun, 01 Mar 2026 03:22:14 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjVXc0IzMV9nQW5BMzZpYXlpRmxFSm5KY2RpVll4U2RqSF9PdEVXZEZqM3ZwVTZZUjd5MUpkMDZxbUlRTXJrd3JJUlRDdWVKYUpfdHlkWFQyZXRlVjhaTEY3RzhSNTh6eXBtUHB"
+        "date": "Mon, 02 Mar 2026 04:07:02 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSDczQTZZNDU2YVVIUVc3NENEYWg2TWoxbnYwNklMUDVGckdTQzFfWGstT21HU0xtTnB0SFZsLVNtU0pwR1l2aXVSZ1NVdm9Jal8zbHc3c3NpT253YTByY3JqT0dneTJtY3RIQ2t"
       },
       {
-        "headline": "U.S. Trade Deficit Narrows Slightly Despite Trump Tariffs - National Today",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa2F3V0s2ekR2RUd0cm1pTWxYdEdLU0E1dWpFbEVoM2Z3VHBxVm9vdEhYSFJNSTV6OWxDc0E0NDhhLV9QZlJKX2otVmFrZlNfd2t3LUNhMkVVeHd4NW9YYTJQMkR1WV9Xb295OFc1aFVpdWcwRG16MkxTUkhRa1JCTE9hVzVLQU82S2RQUDJ3bU5yUHpvc00zQVFaVlNjck9zcmxBY3JwNDF4TTlDOUF0T0I2X1hHWmc?oc=5",
+        "headline": "Suits arise as tariff questions raise D&amp;O risk - businessinsurance.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTTItWmxfVldWN2U2XzVXcG1qQldTT3N4eE8tR1V4c3RUNkYxbHBlQkZ1UXp5QjNPZlcxLTluRFAtdGJ6Q0hPaDVFdFRzVFZCTTJLUTk2YXA1dDNERjdQQklzbndGaWlUbC1lNGFTall2NVJ6OW5ld2FON1E4dGczRmJhakt5dFU?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Sat, 28 Feb 2026 23:47:02 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPa2F3V0s2ekR2RUd0cm1pTWxYdEdLU0E1dWpFbEVoM2Z3VHBxVm9vdEhYSFJNSTV6OWxDc0E0NDhhLV9QZlJKX2otVmFrZlNfd2t3LUNhMkVVeHd4NW9YYTJQMkR1WV9Xb295OFc"
+        "date": "Sun, 01 Mar 2026 13:06:06 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPTTItWmxfVldWN2U2XzVXcG1qQldTT3N4eE8tR1V4c3RUNkYxbHBlQkZ1UXp5QjNPZlcxLTluRFAtdGJ6Q0hPaDVFdFRzVFZCTTJLUTk2YXA1dDNERjdQQklzbndGaWlUbC1lNGF"
       },
       {
-        "headline": "US Farmers See New Trump Tariffs as Yet Another Round of Instability - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWhqd3BQYkY1Nk1PMDNiOE0wbVNHVTl0WW5kRWZ5RGhadVptV01qOFFUMllyTkxhYVNvYUVqaFc0a3o1bEUtSGZBQnR1TXRsUU5fcEsxRUk1M2pRQ3RiZFFndW5BVlo1Rm5YTTNWdXdPRjYzeDNOZWxmdkQ4SzVRcXU0ZU4xQkYzN2pLYjBuWXp6SHh4SzZpcWgyQy1LS3J0OHdWeF90czFCQ0gyQ1JlUmFuV0c0cnp3R0Rj?oc=5",
+        "headline": "Fox News Poll: Trump’s tariffs faced broad disapproval even before Supreme Court ruling - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tMVBBbmdIaW1yQ01NeW5zUmwzSmgtWmlFQlplVVJSUHJEb0dwLU9NdFJiaE9FREt5NFl5alI2a1B6LUtnb0pBTVREN0ttNGZld21Vck4zSEl2T01zai02YV9oR1BrYnNCUm1iVnJYbUw2UzNteE1yWWtNYw?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Sat, 28 Feb 2026 14:30:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWhqd3BQYkY1Nk1PMDNiOE0wbVNHVTl0WW5kRWZ5RGhadVptV01qOFFUMllyTkxhYVNvYUVqaFc0a3o1bEUtSGZBQnR1TXRsUU5fcEsxRUk1M2pRQ3RiZFFndW5BVlo1Rm5YTTN"
+        "date": "Mon, 02 Mar 2026 03:39:15 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE4tMVBBbmdIaW1yQ01NeW5zUmwzSmgtWmlFQlplVVJSUHJEb0dwLU9NdFJiaE9FREt5NFl5alI2a1B6LUtnb0pBTVREN0ttNGZld21Vck4zSEl2T01zai02YV9oR1BrYnNCUm1iVnJ"
       },
       {
-        "headline": "Court blow to Trump triggers tariff twist - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUWJLc1V3SDE2em5JdmwtOFR6bHZKdTdCTjlNbmJlYm0wcXhETExrQVlBWnpkNy01R1QzUlZWNWlua2R5amRRWGM4QWx6X0NGa2JMeXBVcDFrQ3FIR284RTF2WTJPTXpNTVdVQUM4b1NhYTN3OTVwUmxsYnBDWEh6bmhoQmx2X2pJNGxWcVRUQWx6UTZjaHlyWUYzWF9qS0tVNDRxMEtYdkxqeXNROEJPa2ZjX1VuM1BGM2s2RGJSN01sVFo2RTFndEFOMnRfRG90RExnbUxORkxnV00?oc=5",
+        "headline": "Global Trade Reset: Supreme Court Ruling Forces Sudden Shift in U.S. Tariff Policy - Grants Pass Tribune",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzhBSW9BQUxDVVV3THFpMjRlZkE3Ti10SHZpVzNKU19XbEJmQzhmaTVMdzJVc1BVYXJkb3c5TVQ0VU94Ty1UTkFLRlVkVWlOeXc1MEZNVmVmY3ZtNjNCeXh1RzVKYW9vUmlDVFM3eldKYmt3Xzl6SjUxeVQ0QXNsZGdvMExhZnRtXzdaOGFPZVdGc3RKX1VDdDZzN3ZXcDd0bEJwY1AwbWQyQmIyekpBXzhPYnl1UQ?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Sat, 28 Feb 2026 13:01:40 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUWJLc1V3SDE2em5JdmwtOFR6bHZKdTdCTjlNbmJlYm0wcXhETExrQVlBWnpkNy01R1QzUlZWNWlua2R5amRRWGM4QWx6X0NGa2JMeXBVcDFrQ3FIR284RTF2WTJPTXpNTVdVQUM"
+        "date": "Sun, 01 Mar 2026 15:07:36 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzhBSW9BQUxDVVV3THFpMjRlZkE3Ti10SHZpVzNKU19XbEJmQzhmaTVMdzJVc1BVYXJkb3c5TVQ0VU94Ty1UTkFLRlVkVWlOeXc1MEZNVmVmY3ZtNjNCeXh1RzVKYW9vUmlDVFM"
       },
       {
-        "headline": "US agricultural producers view the latest Trump tariffs as an additional wave of uncertainty - Bitget",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZaElUSW1BNWZDSUpic2FhdWEyS0VrYVA2LW5nZlRiVFJPYWpwbEp5V18tWUt1VEVIU2VZODlVNk93MWQtRjNWZ01DdnpJaTY5Q2ROdWRPb00zLU9WdzJNbGJDRdIBY0FVX3lxTE5ZaElUSW1BNWZDSUpic2FhdWEyS0VrYVA2LW5nZlRiVFJPYWpwbEp5V18tWUt1VEVIU2VZODlVNk93MWQtRjNWZ01DdnpJaTY5Q2ROdWRPb00zLU9WdzJNbGJDRQ?oc=5",
+        "headline": "Corn production and imports in Mexico to reach 26 million tons in 2025-2026 - Opportimes",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFFwZ3pwVDVJMDhvbGxGNGNIZXRyekNyRl9kSXo1bFR2eGEtaVdGSDhHVkdCekJ1ZlQ2VC1VSWwzQ2JYY1RueUpfblNwUmF1UzcwaU52cnFhbmVpT0ViRTlWS3RVVHJaSzM4ZTV4RUlMaW95dlkxaGNEYUdKNEM4eFJ5VnpjNnFTUnN5Nl9NQ3lwaElNdElDblFuNldOMDNKeUtpYVJuVW8tQQ?oc=5",
         "source": "Google News (Tariffs)",
         "sourceId": "google_tariffs",
         "category": "general",
         "priority": "tertiary",
-        "date": "Sat, 28 Feb 2026 15:34:38 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZaElUSW1BNWZDSUpic2FhdWEyS0VrYVA2LW5nZlRiVFJPYWpwbEp5V18tWUt1VEVIU2VZODlVNk93MWQtRjNWZ01DdnpJaTY5Q2ROdWRPb00zLU9WdzJNbGJDRdIBY0FVX3lxTE5"
+        "date": "Mon, 02 Mar 2026 02:35:49 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFFwZ3pwVDVJMDhvbGxGNGNIZXRyekNyRl9kSXo1bFR2eGEtaVdGSDhHVkdCekJ1ZlQ2VC1VSWwzQ2JYY1RueUpfblNwUmF1UzcwaU52cnFhbmVpT0ViRTlWS3RVVHJaSzM4ZTV"
       }
     ],
     "byCategory": {
       "business": [
         {
-          "headline": "OPEC+ Agrees in Principle to Larger Oil Hike, Delegates Say",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/opec-agrees-in-principle-to-206k-b-d-hike-for-april-delegates",
+          "headline": "US Treasuries Fall as Inflation Angst Eclipses Haven Buying",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-02/treasuries-swing-to-losses-as-reports-of-talks-damp-haven-demand",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 10:51:17 GMT",
-          "description": "OPEC+ agreed in principle to a slightly larger increase in oil production next month, delegates said, as a conflict sparked by US-Israeli strikes on Iran threatened to bolster a rally in crude prices."
+          "date": "Mon, 02 Mar 2026 02:07:23 GMT",
+          "description": "US Treasuries fell as conflict in the Middle East sent oil prices soaring, stoking fear inflation will accelerate and forcing traders to scale back wagers on the scope of interest-rate cuts."
         },
         {
-          "headline": "Global Earnings Underscore Shift From US as S&amp;P 500 Slumped",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/global-earnings-underscore-shift-from-us-as-s-p-500-slumped",
+          "headline": "Defense to Airlines: How Stocks Are Reacting to Iran Attacks",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-01/energy-in-focus-as-global-equity-traders-brace-for-iran-impact",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 10:00:00 GMT",
-          "description": "As the latest earnings season wraps, investors could be forgiven for missing some of the fireworks, what with AI’s stranglehold on the market narrative, geopolitical angst and renewed trade uncertaint"
+          "date": "Sun, 01 Mar 2026 20:45:06 GMT",
+          "description": "Shares of airlines, cruise operators and hoteliers fell on Monday as investors reacted to conflict in the Middle East. Energy and defense stocks jumped."
         },
         {
-          "headline": "Wall Street Turns to ‘Haven-First’ Strategy Amid Iran Crisis",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/wall-street-turns-to-haven-first-strategies-amid-iran-attacks",
+          "headline": "US Says Three Fighter Jets Downed in 'Friendly Fire' Over Kuwait",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-03-01/iran-latest",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 08:41:58 GMT",
-          "description": "The fast‑moving conflict across the Middle East is heightening investor anxiety and strengthening the case for safe‑haven trades such as Treasuries, gold and the Swiss franc."
+          "date": "Sun, 01 Mar 2026 22:39:35 GMT",
+          "description": ""
         },
         {
-          "headline": "US Job Growth Seen Moderating After Robust January",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-28/us-job-growth-seen-moderating-after-robust-january",
+          "headline": "Stocks Sell Off as US Attack on Iran Drives Oil Prices Higher",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-03-02/stocks-sell-off-as-us-attack-on-iran-drives-oil-prices-higher",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sat, 28 Feb 2026 21:00:00 GMT",
-          "description": "US payrolls growth probably settled back in February after the strongest month of hiring in a year, returning to a more moderate and likely sustainable pace of hiring."
+          "date": "Mon, 02 Mar 2026 11:14:13 GMT",
+          "description": "Gold rallies, oil prices surge as Strait of Hormuz all but closed to shipping."
         },
         {
-          "headline": "Gulf Airlines Extend Flight Cancellations as Iran Targets Hubs",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/iran-strikes-disrupt-thousands-of-flights-dubai-airport-damaged",
+          "headline": "Emerging Assets Slump as Energy Costs Spike on Iran Conflict",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-02/emerging-market-currencies-stocks-fall-on-iran-conflict-worries",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 02:56:37 GMT",
-          "description": "Airlines across the Persian Gulf extended their suspension of operations as retaliatory strikes from Iran enter a second day, causing major disruptions at some of the world’s busiest airports."
+          "date": "Mon, 02 Mar 2026 02:07:36 GMT",
+          "description": "Emerging-market currencies and stocks slumped as US and Israeli strikes on Iran are triggering a jump in energy prices and bring a rally in riskier assets to a screeching halt."
         },
         {
-          "headline": "Japan Shipping Companies Suspend Operations in Persian Gulf",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/japan-s-shipping-companies-suspend-operations-in-persian-gulf",
+          "headline": "Fuel Prices Jump More Than Oil as Iran War Hits Supply",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-02/fuel-prices-jump-along-with-oil-on-delays-in-strait-of-hormuz",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 02:52:21 GMT",
-          "description": "Japanese shipping companies have suspended operations in the Persian Gulf as the military conflict in Iran escalates."
+          "date": "Mon, 02 Mar 2026 04:19:37 GMT",
+          "description": "Fuel prices surged across global markets on Monday as the war in Iran disrupted shipments from Persian Gulf refineries."
         },
         {
-          "headline": "How Starmer Stumbled Into a French-Style Fix for Britain’s Woes",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/how-starmer-stumbled-into-a-french-style-fix-for-britain-s-woes",
+          "headline": "Iran Conflict Disrupts Global Air Travel",
+          "url": "https://www.bloomberg.com/news/videos/2026-03-02/iran-conflict-disrupts-global-air-travel-video",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 06:00:00 GMT",
-          "description": "The UK’s growth plan is simple. It wants more investment to deliver higher productivity that lifts wages and boosts living standards. There is an unfortunate consequence, however: unemployment."
+          "date": "Mon, 02 Mar 2026 11:07:30 GMT",
+          "description": "Travel chaos extended through the Middle East and beyond, as carriers across the Persian Gulf extended blanket flight suspensions, causing major disruptions at some of the world’s busiest airports. (S"
         },
         {
-          "headline": "France’s CMA CGM Suspends Vessels’ Passage Through Suez Canal",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/france-s-cma-cgm-suspends-vessels-passage-through-suez-canal",
+          "headline": "Pakistan Stocks Fall Most on Record After Middle East War",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-02/pakistan-stocks-fall-trigger-trading-halt-on-us-iran-conflict",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 05:17:51 GMT",
-          "description": "France’s CMA CGM SA, the world’s third-largest container line, told vessels in the Persian Gulf to take shelter immediately and suspended passage through the Suez Canal."
+          "date": "Mon, 02 Mar 2026 04:42:45 GMT",
+          "description": "A key stock gauge in Pakistan plunged the most on record after geopolitical tensions in the Middle East escalated following US and Israel’s strikes on Iran."
         },
         {
-          "headline": "Iran Crisis Threatens Worst Disruption in Gas Markets Since 2022",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/iran-crisis-threatens-worst-disruption-in-gas-markets-since-2022",
+          "headline": "Clean Max Shares Slip 18% in Worst Indian Debut Since 2021",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-02/clean-max-shares-tumble-in-mumbai-debut-after-341-million-ipo",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 04:09:52 GMT",
-          "description": "A widening Middle East conflict looks set to create the most significant disruption for gas markets since Russia’s invasion of Ukraine upended global trade four years ago."
+          "date": "Mon, 02 Mar 2026 05:02:21 GMT",
+          "description": "Shares of Indian renewable energy firm Clean Max Enviro Energy Solutions Ltd. tumbled 18% on their first day of trading, making it the worst debut in more than four years for an offering of a similar "
         },
         {
-          "headline": "Iran’s Supreme Leader Ali Khamenei Dead at 86",
-          "url": "https://www.bloomberg.com/news/videos/2026-03-01/iran-s-supreme-leader-ali-khamenei-dead-at-86-video",
+          "headline": "JPMorgan Tests ‘Art of the Possible’ in Leveraged Buyouts",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-02/jpmorgan-tests-art-of-the-possible-in-leveraged-buyouts",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 02:53:15 GMT",
-          "description": "Ali Khamenei, Iran’s anti-Western supreme leader who dominated the Islamic Republic for more than three decades, has died at 86. Bloomberg's Haslinda Amin explains. (Source: Bloomberg)"
+          "date": "Mon, 02 Mar 2026 11:00:00 GMT",
+          "description": "When JPMorgan Chase &amp; Co. took the lead last year in financing the $55 billion takeover of Electronic Arts Inc., a record-setting leveraged buyout, Wall Street saw it as a sign that a lucrative pe"
         },
         {
-          "headline": "Flights in and out of Middle East cancelled and diverted after Iran strikes",
+          "headline": "Oil prices jump and shares fall as conflict escalates",
+          "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Mon, 02 Mar 2026 09:56:32 GMT",
+          "description": "Experts have warned that a prolonged conflict could push global energy prices even higher."
+        },
+        {
+          "headline": "UK launches consultation asking for views on under-16s social media ban",
+          "url": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sun, 01 Mar 2026 22:35:18 GMT",
+          "description": "Discussions over what measures to implement to protect children's wellbeing will last for three months."
+        },
+        {
+          "headline": "Brewdog closes all bars for a day as it looks to complete sale",
+          "url": "https://www.bbc.com/news/articles/c04319pzeg5o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Mon, 02 Mar 2026 07:04:32 GMT",
+          "description": "The company brought in consultants AlixPartners last month, after failing to make a profit in recent years."
+        },
+        {
+          "headline": "Flights cancelled and new travel warnings issued after Iran strikes",
           "url": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 08:49:32 GMT",
+          "date": "Sun, 01 Mar 2026 18:05:14 GMT",
           "description": "BA and Virgin Atlantic are among major airlines to ground services to the Middle East in light of the attacks."
+        },
+        {
+          "headline": "Rent tops £1,000 a month in more areas - find out where",
+          "url": "https://www.bbc.com/news/articles/cx28njn2dwpo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sat, 28 Feb 2026 00:14:04 GMT",
+          "description": "The cost of renting privately has surged in the last five years, but tenants may now see a slowdown."
+        },
+        {
+          "headline": "Deepfake attack: 'Many people could have been cheated'",
+          "url": "https://www.bbc.com/news/articles/c0j59vydxj9o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Mon, 02 Mar 2026 06:47:00 GMT",
+          "description": "The boss of the Bombay Stock Exchange was recently targeted in what is a growing global problem."
         },
         {
           "headline": "A firm hiring blind staff went bust - but its mission lives on",
@@ -850,118 +900,98 @@
           "priority": "secondary",
           "date": "Sat, 28 Feb 2026 03:50:05 GMT",
           "description": "The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense."
-        },
-        {
-          "headline": "Why you can't get a signal at festivals and sports matches",
-          "url": "https://www.bbc.com/news/articles/c3rzq8d24y9o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC Business",
-          "sourceId": "bbc_business",
-          "category": "business",
-          "priority": "secondary",
-          "date": "Fri, 27 Feb 2026 00:03:10 GMT",
-          "description": "Connecting up music and sports events to the internet is a massive undertaking."
-        },
-        {
-          "headline": "What the Warner Bros deal could mean for streaming, cinemas and news",
-          "url": "https://www.bbc.com/news/articles/c20j5n2w4q6o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC Business",
-          "sourceId": "bbc_business",
-          "category": "business",
-          "priority": "secondary",
-          "date": "Fri, 27 Feb 2026 21:46:14 GMT",
-          "description": "If Paramount's takeover of Warner Bros goes ahead it could significantly reshape Hollywood."
-        },
-        {
-          "headline": "Brewdog expected to announce sale early next week",
-          "url": "https://www.bbc.com/news/articles/c07jmmgyx19o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC Business",
-          "sourceId": "bbc_business",
-          "category": "business",
-          "priority": "secondary",
-          "date": "Fri, 27 Feb 2026 17:16:32 GMT",
-          "description": "Staff are told Brewdog's German arm is not included in the sale and will now be liquidated but bars will trade as normal this weekend."
-        },
-        {
-          "headline": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
-          "url": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC Business",
-          "sourceId": "bbc_business",
-          "category": "business",
-          "priority": "secondary",
-          "date": "Fri, 27 Feb 2026 00:06:40 GMT",
-          "description": "The Twitter co-founder says he believes the majority of firms will make similar changes \"within the next year.\""
-        },
-        {
-          "headline": "Government to give go-ahead for £1bn defence helicopter deal",
-          "url": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC Business",
-          "sourceId": "bbc_business",
-          "category": "business",
-          "priority": "secondary",
-          "date": "Fri, 27 Feb 2026 16:20:07 GMT",
-          "description": "The chancellor has stepped in to protect jobs at the helicopter manufacturer in Somerset, the BBC understands."
         }
       ],
       "general": [
         {
-          "headline": "Ayatollah Khamenei's iron grip on power in Iran comes to an end",
-          "url": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Allies of US in the Gulf bear brunt of Iran attacks",
+          "url": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 01:47:42 GMT",
-          "description": "Iranian state TV confirms the supreme leader has been killed on the first day of massive US and Israeli air strikes on the country."
+          "date": "Sun, 01 Mar 2026 22:19:03 GMT",
+          "description": "Iran's attacks on Gulf Arab states suggest the Islamic Republic is targeting not just the US military but also civilian infrastructure."
         },
         {
-          "headline": "What we know so far about the US-Israel attacks and Iran's retaliation",
-          "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Oil prices jump and shares fall as conflict escalates",
+          "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 10:58:33 GMT",
-          "description": "Iran responds by launching missiles and drones towards Israel and four Gulf Arab countries that host US military bases."
+          "date": "Mon, 02 Mar 2026 09:56:32 GMT",
+          "description": "Experts have warned that a prolonged conflict could push global energy prices even higher."
         },
         {
-          "headline": "Iran says US and Israel strikes hit school killing 108",
+          "headline": "Kidnapping of foreigners soars in Africa's lawless Sahel region",
+          "url": "https://www.bbc.com/news/articles/c0lj18d5lx3o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Mon, 02 Mar 2026 00:02:10 GMT",
+          "description": "Growing insecurity in the Sahel made 2025 one of the worst years on record for the abduction of foreigners in Africa."
+        },
+        {
+          "headline": "Could Kim's teen daughter become North Korea's next leader?",
+          "url": "https://www.bbc.com/news/articles/cgjzdlx983po?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 01 Mar 2026 23:11:11 GMT",
+          "description": "Kim Jue Ae is becoming more visible alongside her father, but much about her remains a mystery."
+        },
+        {
+          "headline": "Michael B Jordan upends Oscars race as Sinners wins big at Actor Awards",
+          "url": "https://www.bbc.com/news/articles/clyzklvk79yo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Mon, 02 Mar 2026 05:08:35 GMT",
+          "description": "The US star's best actor win for Sinners leaves the Oscars race too close to call."
+        },
+        {
+          "headline": "At least 153 dead after reported strike on school, Iran says",
           "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 02:34:04 GMT",
-          "description": "There is no confirmation by the US or Israel of the strike on the school located near elite military troops."
+          "date": "Sun, 01 Mar 2026 15:32:26 GMT",
+          "description": "Iran has blamed the US and Israel for the strike; the US is looking into reports of the incident, while the IDF says it is \"not aware\" of operations in the area."
         },
         {
-          "headline": "Luxury Dubai hotel hit as Iran launches retaliatory strikes across region",
-          "url": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Nine dead in missile attack on Israel as Iran strikes region",
+          "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 18:15:02 GMT",
-          "description": "Smoke and flames rose from Dubai's Fairmont The Palm hotel as civilian targets came under fire along with the US military bases across the Middle East."
+          "date": "Sun, 01 Mar 2026 22:24:27 GMT",
+          "description": "Several deaths are reported across the Middle East as Tehran retaliates for massive strikes by the US and Israel."
         },
         {
-          "headline": "Where have Nepal's 'nepo kids' gone as corruption takes centre stage in election?",
-          "url": "https://www.bbc.com/news/articles/cgqgl3j5nj4o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
+          "url": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 23:03:48 GMT",
-          "description": "The excess of politicians' children was front and centre of the anger that drove protests that toppled the government last year."
+          "date": "Mon, 02 Mar 2026 11:24:48 GMT",
+          "description": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead."
         },
         {
-          "headline": "Wellness peptide craze: Why people are injecting drugs 'not for human consumption'",
-          "url": "https://www.bbc.com/news/articles/cdr268m5pxro?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "War photographer Paul Conroy dies as tributes paid",
+          "url": "https://www.bbc.com/news/articles/c5y6jvlv83ro?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 00:51:29 GMT",
-          "description": "Growing numbers of people are injecting unregulated peptides for health reasons - but one expert says they are \"lab rats\"."
+          "date": "Sun, 01 Mar 2026 19:47:03 GMT",
+          "description": "Jamie Doran played the photographer, who has died aged 61, in the 2018 movie A Private War."
         },
         {
           "headline": "Why is WhatsApp's privacy policy facing a legal challenge in India?",
@@ -974,338 +1004,308 @@
           "description": "A 2021 policy update requires users to share data with Meta for ads purposes to continue using the app."
         },
         {
-          "headline": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
-          "url": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC World",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 13:00:39 GMT",
-          "description": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site."
-        },
-        {
-          "headline": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
-          "url": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC World",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 03:43:56 GMT",
-          "description": "The former president told the committee that he would never have flown on Epstein's plane if he \"had any inkling of what he was doing\"."
-        },
-        {
-          "headline": "Trump orders government to stop using Anthropic in battle over AI use",
-          "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC World",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 03:50:05 GMT",
-          "description": "The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense."
-        },
-        {
-          "headline": "Supreme Court ruling against Trump’s tariffs is unlikely to mean an end to trade policy chaos - Texarkana Gazette",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDc4bFpYN3Jud2ZwT2E3RzZyY1oxMWc0N1VKQUdZUXpKN3Fwc1gya1FGbkpWdG1mYTR6N1JLazRBT25vNG9BcE5FNklwcTVYLTRON2VqRmxKVlo3TklWQ0Iyd0FfVDRqS2RLZXZ3bFlaMnFMVFVPTFRldUl0R3B4SGVtWVpSTEdPdnBDNW84Mkt6eVN6eUhJV1QxeldtQQ?oc=5",
+          "headline": "US Supreme Court treats a symptom but the real cost of Trump’s tariffs is uncertainty - East Asia Forum",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFEycm5jem9lc0twSzlqRV9tN2hVa1FrejBZT0puTGp5bjJFemhVSFJiTUdXbjItRllSYTl3NnpPMElZTEZDOXNRTUdHcDBVUVRQb3FrSXVVTEx2S2s0RUljRGN2ZG9zM05QVkx0OFZ6QWxxVG9Fa2lWLW82dlZjMVlhSXlRQmhzVXF3ZnZwNHVwdmVTSmtCM0dHWnRuN3BwSWRJNVU2ZTdSRmlYcUo1QkJDWUdlMGxRNHJxWGt4QQ?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sun, 01 Mar 2026 05:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdDc4bFpYN3Jud2ZwT2E3RzZyY1oxMWc0N1VKQUdZUXpKN3Fwc1gya1FGbkpWdG1mYTR6N1JLazRBT25vNG9BcE5FNklwcTVYLTRON2VqRmxKVlo3TklWQ0Iyd0FfVDRqS2RLZXZ"
+          "date": "Sun, 01 Mar 2026 21:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFEycm5jem9lc0twSzlqRV9tN2hVa1FrejBZT0puTGp5bjJFemhVSFJiTUdXbjItRllSYTl3NnpPMElZTEZDOXNRTUdHcDBVUVRQb3FrSXVVTEx2S2s0RUljRGN2ZG9zM05QVkx"
         },
         {
-          "headline": "Trump’s tariffs have gutted Agoa’s duty‑free promise: our model shows how - The Conversation",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFVvQW8yUFhYQjUzbldzcXpGdEZHa2FOd1gwY2RrMHc5djJ5VVVqMFE0WXdTbDVYZ2lOR3RyWEhsNEh5QlRWYnlPWjYxYTFWSzRfUXRLbDVBSUN3U0d5VDFJMHRGZVlaSHRScWVRNnRZZjVEVWVWbFViSnlwemxUa2JrSlQyR2paNm1pWEM3Zl9BTHN1dFotSmoyUHlycThWako0M25hUVk?oc=5",
+          "headline": "What now for Asia after Trump's tariffs struck down? - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZlJWMTJLOXZwZGJud2JJVXJUX2NOaE9hZS1EaFR5N0QwRUpMUEpIYWZ5TG9qRV9jYkQyRWFhWGt1V1NuV0ZHVG00bkFyYWZmWVp3cnFuX19TR3JBNEhxQ1RTVHlqNm9Wa0dUajNTR01kZXNCMWRHUUM0dDgwTXM?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sun, 01 Mar 2026 04:54:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFVvQW8yUFhYQjUzbldzcXpGdEZHa2FOd1gwY2RrMHc5djJ5VVVqMFE0WXdTbDVYZ2lOR3RyWEhsNEh5QlRWYnlPWjYxYTFWSzRfUXRLbDVBSUN3U0d5VDFJMHRGZVlaSHRScWV"
+          "date": "Mon, 02 Mar 2026 06:08:13 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZlJWMTJLOXZwZGJud2JJVXJUX2NOaE9hZS1EaFR5N0QwRUpMUEpIYWZ5TG9qRV9jYkQyRWFhWGt1V1NuV0ZHVG00bkFyYWZmWVp3cnFuX19TR3JBNEhxQ1RTVHlqNm9Wa0dUajN"
         },
         {
-          "headline": "A Small Business Roundtable On Tariffs Paints An Unnerving Portrait Of A Trade Policy Gone Awry - The Hudson Independent",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUXc0WXh4N0pJVldCaXU4eW1NN1g5Yy13T3BQTnFaR2h0WGZvckZBSGJPTngzYi1INXBucXRfbXBoNFg3T21lTDdra3ktQk9qZm5xb1IzTkNZbEZNeFVVN2hCaG4yZVRkbGdRT3ZpeVNEV1ZWUjg5TmxlaGhPYU5DRGZObXZBVWRXbzFPczlCVUNpQXZXV1pKcFFVWklTZy15RUlJY0hWUHpUWXlhd2NBT01vZnpMNHFkbE9wX2o5cGVkcHlfS0ZfMw?oc=5",
+          "headline": "SCOTUS tariff ruling creates fresh uncertainty for US trade policy and global markets - Capital.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHpMdFJMd3NzVllVQWRGYlBhOHZpejFDWGNoM2RlM01VVmNlWkJDWURBMjhGbE5KY2FEOTVVSWp2WDgxQklRZU5JWDBUMWFmTE5LRnhkaWJFV016SUFjWjV6TW0zaWFGUkp5cnJwT3djcURvLVJTNThRRXZPd0M5ck85ZmFvcFE5M3l3WW1XTmVKZnk1ZTBocmtUbjE4d29jMjFGazVOcW5PQ3ExWkRXTHdBMkI4MjZ4OHhhMA?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sat, 28 Feb 2026 23:49:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUXc0WXh4N0pJVldCaXU4eW1NN1g5Yy13T3BQTnFaR2h0WGZvckZBSGJPTngzYi1INXBucXRfbXBoNFg3T21lTDdra3ktQk9qZm5xb1IzTkNZbEZNeFVVN2hCaG4yZVRkbGdRT3Z"
+          "date": "Mon, 02 Mar 2026 01:23:47 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHpMdFJMd3NzVllVQWRGYlBhOHZpejFDWGNoM2RlM01VVmNlWkJDWURBMjhGbE5KY2FEOTVVSWp2WDgxQklRZU5JWDBUMWFmTE5LRnhkaWJFV016SUFjWjV6TW0zaWFGUkp5cnJ"
         },
         {
-          "headline": "World markets jolted, dollar dips as Trump vows tariffs on Europe over Greenland - AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTTXNGZzZHSkxROFRGQ3dNVXZQVTZ6ZGZ4MDRPQ3g0Nzhkb2QtbnhXN0hDMFB2aW9vZzAwTUtudzIzSVYtNkJlR0VSX000ZVd3NlpwcmpicTBqR1pmVS15Q1dVMUpwNEQ1c216ZjZSRFQzQVdPMUZLdnpIZHBQdw?oc=5",
+          "headline": "Editorial | China now holds more cards ahead of Xi-Trump meeting - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0JNNFhXazNjQThDNGFEdHBHZG5ENG9NWXp6MkR3Rk84RVNHMjdSNHVaOWQ3cXlNeFd5bUJadW5wRFNNQWU3ak5qSFMzVTkyTUt1VjNYRDJtTU5JckxPZldyQlh5MXR4RXVYLVZ4VkxXZGI5aERnOEJGZnN0UU1PMTlBZTFmM1pKV1ZFUl9pal9leU80NHBHaUhWcGNwLXp1ZTZGa9IBpAFBVV95cUxQRndHMS02Y3ZIa05QWmpfNUF3NklCYTVldmpYUThTdWlkcmV5VW9pXzJrMU9OWExlcDRLRkpBN2hmY1BEcXRfOF9HUXpaTkdkbzhHWkdFYkJDQS1PSDFHRDU3WjBJb3pNWEhwUzFjUGYxUjhINWk5MFJTSGNjb0RybHhxU0R4WlRSbklLcTNjMWxpLTd2Z2NyVE9TcjdLN3VFeGl3aA?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sun, 01 Mar 2026 05:45:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBTTXNGZzZHSkxROFRGQ3dNVXZQVTZ6ZGZ4MDRPQ3g0Nzhkb2QtbnhXN0hDMFB2aW9vZzAwTUtudzIzSVYtNkJlR0VSX000ZVd3NlpwcmpicTBqR1pmVS15Q1dVMUpwNEQ1c216ZjZ"
+          "date": "Sun, 01 Mar 2026 23:15:16 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0JNNFhXazNjQThDNGFEdHBHZG5ENG9NWXp6MkR3Rk84RVNHMjdSNHVaOWQ3cXlNeFd5bUJadW5wRFNNQWU3ak5qSFMzVTkyTUt1VjNYRDJtTU5JckxPZldyQlh5MXR4RXVYLVZ"
         },
         {
-          "headline": "Thai economists urge caution despite lower US tariff - Thai PBS World",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1abkIycGJlM1p6SUx4YU9XRW1IT0lLZHpzajZUaTVEa3pNQTBhLWdoME9GUzJuV1dhdTJzODdvYkZMSDBwOFFGdHllcjh5bElQM3c?oc=5",
+          "headline": "Trump’s tariffs have gutted Agoa’s duty‑free promise: our model shows how - Polity.org.za",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVp5cDRVYnNBRl81SHRPVnQ4SE41cFVCT2kxa2VIeWN6Y2NScmplNDRUWmpsYXlYb3VjYlp0ZTJuVGRRYTJoUDIxY2JBYzNOSUFfUE1HaFh3VXQwcERPbVVFMG44bU9Mdnd2eHBrMk1jeEllcUIxRXlndVpBVUs3cWk1cnV6Sjg1YnE1VGJpYVo3V0F0UWsxbEtGRTRRekE2dEZwbWJ3ODdOWTMzRm5abjlYS1U?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sun, 01 Mar 2026 03:34:29 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1abkIycGJlM1p6SUx4YU9XRW1IT0lLZHpzajZUaTVEa3pNQTBhLWdoME9GUzJuV1dhdTJzODdvYkZMSDBwOFFGdHllcjh5bElQM3c?oc=5\" target=\"_blank\"&gt;Thai econo"
+          "date": "Mon, 02 Mar 2026 09:08:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVp5cDRVYnNBRl81SHRPVnQ4SE41cFVCT2kxa2VIeWN6Y2NScmplNDRUWmpsYXlYb3VjYlp0ZTJuVGRRYTJoUDIxY2JBYzNOSUFfUE1HaFh3VXQwcERPbVVFMG44bU9Mdnd2eHB"
         },
         {
-          "headline": "Tariffs and lower sales hit PACCAR’s profits in 2025 - Opportimes",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjVXc0IzMV9nQW5BMzZpYXlpRmxFSm5KY2RpVll4U2RqSF9PdEVXZEZqM3ZwVTZZUjd5MUpkMDZxbUlRTXJrd3JJUlRDdWVKYUpfdHlkWFQyZXRlVjhaTEY3RzhSNTh6eXBtUHBYT29MWGxQaXk4N3pUeXhjNVl5dHhDQTRvSDQzNHc?oc=5",
+          "headline": "Supreme Court Strikes Down Trump's 'Liberation Day' Tariffs, But Alternatives Remain - National Today",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSDczQTZZNDU2YVVIUVc3NENEYWg2TWoxbnYwNklMUDVGckdTQzFfWGstT21HU0xtTnB0SFZsLVNtU0pwR1l2aXVSZ1NVdm9Jal8zbHc3c3NpT253YTByY3JqT0dneTJtY3RIQ2tzQngya2VrQnhvMVY1UVEyN2FYZFRMT00zSUNnei1XX0J4TkNfR2FMMVdyS3VCUTEySjhRMFF2WG9Id1lJYUZzZmExZDhHaElBNGZvd3BXVFRMdXNHejh1WExXOGl6anB5VHF2aVJOcXlR?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sun, 01 Mar 2026 03:22:14 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjVXc0IzMV9nQW5BMzZpYXlpRmxFSm5KY2RpVll4U2RqSF9PdEVXZEZqM3ZwVTZZUjd5MUpkMDZxbUlRTXJrd3JJUlRDdWVKYUpfdHlkWFQyZXRlVjhaTEY3RzhSNTh6eXBtUHB"
+          "date": "Mon, 02 Mar 2026 04:07:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSDczQTZZNDU2YVVIUVc3NENEYWg2TWoxbnYwNklMUDVGckdTQzFfWGstT21HU0xtTnB0SFZsLVNtU0pwR1l2aXVSZ1NVdm9Jal8zbHc3c3NpT253YTByY3JqT0dneTJtY3RIQ2t"
         },
         {
-          "headline": "U.S. Trade Deficit Narrows Slightly Despite Trump Tariffs - National Today",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa2F3V0s2ekR2RUd0cm1pTWxYdEdLU0E1dWpFbEVoM2Z3VHBxVm9vdEhYSFJNSTV6OWxDc0E0NDhhLV9QZlJKX2otVmFrZlNfd2t3LUNhMkVVeHd4NW9YYTJQMkR1WV9Xb295OFc1aFVpdWcwRG16MkxTUkhRa1JCTE9hVzVLQU82S2RQUDJ3bU5yUHpvc00zQVFaVlNjck9zcmxBY3JwNDF4TTlDOUF0T0I2X1hHWmc?oc=5",
+          "headline": "Suits arise as tariff questions raise D&amp;O risk - businessinsurance.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTTItWmxfVldWN2U2XzVXcG1qQldTT3N4eE8tR1V4c3RUNkYxbHBlQkZ1UXp5QjNPZlcxLTluRFAtdGJ6Q0hPaDVFdFRzVFZCTTJLUTk2YXA1dDNERjdQQklzbndGaWlUbC1lNGFTall2NVJ6OW5ld2FON1E4dGczRmJhakt5dFU?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sat, 28 Feb 2026 23:47:02 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPa2F3V0s2ekR2RUd0cm1pTWxYdEdLU0E1dWpFbEVoM2Z3VHBxVm9vdEhYSFJNSTV6OWxDc0E0NDhhLV9QZlJKX2otVmFrZlNfd2t3LUNhMkVVeHd4NW9YYTJQMkR1WV9Xb295OFc"
+          "date": "Sun, 01 Mar 2026 13:06:06 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPTTItWmxfVldWN2U2XzVXcG1qQldTT3N4eE8tR1V4c3RUNkYxbHBlQkZ1UXp5QjNPZlcxLTluRFAtdGJ6Q0hPaDVFdFRzVFZCTTJLUTk2YXA1dDNERjdQQklzbndGaWlUbC1lNGF"
         },
         {
-          "headline": "US Farmers See New Trump Tariffs as Yet Another Round of Instability - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWhqd3BQYkY1Nk1PMDNiOE0wbVNHVTl0WW5kRWZ5RGhadVptV01qOFFUMllyTkxhYVNvYUVqaFc0a3o1bEUtSGZBQnR1TXRsUU5fcEsxRUk1M2pRQ3RiZFFndW5BVlo1Rm5YTTNWdXdPRjYzeDNOZWxmdkQ4SzVRcXU0ZU4xQkYzN2pLYjBuWXp6SHh4SzZpcWgyQy1LS3J0OHdWeF90czFCQ0gyQ1JlUmFuV0c0cnp3R0Rj?oc=5",
+          "headline": "Fox News Poll: Trump’s tariffs faced broad disapproval even before Supreme Court ruling - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tMVBBbmdIaW1yQ01NeW5zUmwzSmgtWmlFQlplVVJSUHJEb0dwLU9NdFJiaE9FREt5NFl5alI2a1B6LUtnb0pBTVREN0ttNGZld21Vck4zSEl2T01zai02YV9oR1BrYnNCUm1iVnJYbUw2UzNteE1yWWtNYw?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sat, 28 Feb 2026 14:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWhqd3BQYkY1Nk1PMDNiOE0wbVNHVTl0WW5kRWZ5RGhadVptV01qOFFUMllyTkxhYVNvYUVqaFc0a3o1bEUtSGZBQnR1TXRsUU5fcEsxRUk1M2pRQ3RiZFFndW5BVlo1Rm5YTTN"
+          "date": "Mon, 02 Mar 2026 03:39:15 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE4tMVBBbmdIaW1yQ01NeW5zUmwzSmgtWmlFQlplVVJSUHJEb0dwLU9NdFJiaE9FREt5NFl5alI2a1B6LUtnb0pBTVREN0ttNGZld21Vck4zSEl2T01zai02YV9oR1BrYnNCUm1iVnJ"
         },
         {
-          "headline": "Court blow to Trump triggers tariff twist - MSN",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUWJLc1V3SDE2em5JdmwtOFR6bHZKdTdCTjlNbmJlYm0wcXhETExrQVlBWnpkNy01R1QzUlZWNWlua2R5amRRWGM4QWx6X0NGa2JMeXBVcDFrQ3FIR284RTF2WTJPTXpNTVdVQUM4b1NhYTN3OTVwUmxsYnBDWEh6bmhoQmx2X2pJNGxWcVRUQWx6UTZjaHlyWUYzWF9qS0tVNDRxMEtYdkxqeXNROEJPa2ZjX1VuM1BGM2s2RGJSN01sVFo2RTFndEFOMnRfRG90RExnbUxORkxnV00?oc=5",
+          "headline": "Global Trade Reset: Supreme Court Ruling Forces Sudden Shift in U.S. Tariff Policy - Grants Pass Tribune",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzhBSW9BQUxDVVV3THFpMjRlZkE3Ti10SHZpVzNKU19XbEJmQzhmaTVMdzJVc1BVYXJkb3c5TVQ0VU94Ty1UTkFLRlVkVWlOeXc1MEZNVmVmY3ZtNjNCeXh1RzVKYW9vUmlDVFM3eldKYmt3Xzl6SjUxeVQ0QXNsZGdvMExhZnRtXzdaOGFPZVdGc3RKX1VDdDZzN3ZXcDd0bEJwY1AwbWQyQmIyekpBXzhPYnl1UQ?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sat, 28 Feb 2026 13:01:40 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUWJLc1V3SDE2em5JdmwtOFR6bHZKdTdCTjlNbmJlYm0wcXhETExrQVlBWnpkNy01R1QzUlZWNWlua2R5amRRWGM4QWx6X0NGa2JMeXBVcDFrQ3FIR284RTF2WTJPTXpNTVdVQUM"
+          "date": "Sun, 01 Mar 2026 15:07:36 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzhBSW9BQUxDVVV3THFpMjRlZkE3Ti10SHZpVzNKU19XbEJmQzhmaTVMdzJVc1BVYXJkb3c5TVQ0VU94Ty1UTkFLRlVkVWlOeXc1MEZNVmVmY3ZtNjNCeXh1RzVKYW9vUmlDVFM"
         },
         {
-          "headline": "US agricultural producers view the latest Trump tariffs as an additional wave of uncertainty - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZaElUSW1BNWZDSUpic2FhdWEyS0VrYVA2LW5nZlRiVFJPYWpwbEp5V18tWUt1VEVIU2VZODlVNk93MWQtRjNWZ01DdnpJaTY5Q2ROdWRPb00zLU9WdzJNbGJDRdIBY0FVX3lxTE5ZaElUSW1BNWZDSUpic2FhdWEyS0VrYVA2LW5nZlRiVFJPYWpwbEp5V18tWUt1VEVIU2VZODlVNk93MWQtRjNWZ01DdnpJaTY5Q2ROdWRPb00zLU9WdzJNbGJDRQ?oc=5",
+          "headline": "Corn production and imports in Mexico to reach 26 million tons in 2025-2026 - Opportimes",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFFwZ3pwVDVJMDhvbGxGNGNIZXRyekNyRl9kSXo1bFR2eGEtaVdGSDhHVkdCekJ1ZlQ2VC1VSWwzQ2JYY1RueUpfblNwUmF1UzcwaU52cnFhbmVpT0ViRTlWS3RVVHJaSzM4ZTV4RUlMaW95dlkxaGNEYUdKNEM4eFJ5VnpjNnFTUnN5Nl9NQ3lwaElNdElDblFuNldOMDNKeUtpYVJuVW8tQQ?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sat, 28 Feb 2026 15:34:38 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZaElUSW1BNWZDSUpic2FhdWEyS0VrYVA2LW5nZlRiVFJPYWpwbEp5V18tWUt1VEVIU2VZODlVNk93MWQtRjNWZ01DdnpJaTY5Q2ROdWRPb00zLU9WdzJNbGJDRdIBY0FVX3lxTE5"
+          "date": "Mon, 02 Mar 2026 02:35:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFFwZ3pwVDVJMDhvbGxGNGNIZXRyekNyRl9kSXo1bFR2eGEtaVdGSDhHVkdCekJ1ZlQ2VC1VSWwzQ2JYY1RueUpfblNwUmF1UzcwaU52cnFhbmVpT0ViRTlWS3RVVHJaSzM4ZTV"
         }
       ],
       "regional": [
         {
-          "headline": "More than 40,000 Hong Kong cabbies register to accept Octopus payment",
-          "url": "https://www.scmp.com/news/hong-kong/transport/article/3345030/more-40000-hong-kong-cabbies-register-accept-octopus-payment?utm_source=rss_feed",
+          "headline": "Mainland Chinese firm to build Northern Metropolis supercomputing centre",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3345158/mainland-chinese-firm-build-northern-metropolis-data-cluster-facility?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 11:11:37 +0000",
+          "date": "Mon, 02 Mar 2026 11:03:57 +0000",
           "description": ""
         },
         {
-          "headline": "As US names official for Tibet policy, is it eyeing China, its minority groups or trade?",
-          "url": "https://www.scmp.com/news/china/politics/article/3345029/us-names-official-tibet-policy-it-eyeing-china-its-minority-groups-or-trade?utm_source=rss_feed",
+          "headline": "Singapore strives to remain equidistant amid US-China rivalry: ‘same-same but different’",
+          "url": "https://www.scmp.com/week-asia/politics/article/3345152/singapore-strives-remain-equidistant-amid-us-china-rivalry-same-same-different?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 11:01:42 +0000",
+          "date": "Mon, 02 Mar 2026 11:00:29 +0000",
           "description": ""
         },
         {
-          "headline": "Inside Xi Jinping’s new guide to promoting Communist Party officials",
-          "url": "https://www.scmp.com/news/china/politics/article/3345015/inside-xi-jinpings-new-guide-promoting-communist-party-officials?utm_source=rss_feed",
+          "headline": "South China Sea expert warns 2026 code of conduct is ‘simply not achievable’",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3345137/south-china-sea-expert-warns-2026-code-conduct-simply-not-achievable?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 10:00:27 +0000",
+          "date": "Mon, 02 Mar 2026 11:00:14 +0000",
           "description": ""
         },
         {
-          "headline": "Warm winter no match: China’s sportswear sector posts surprise growth",
-          "url": "https://www.scmp.com/business/article/3345011/warm-winter-no-match-chinas-sportswear-sector-posts-surprise-growth?utm_source=rss_feed",
+          "headline": "India, Canada forge deals on uranium, renewable energy",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3345162/india-canada-forge-deals-uranium-renewable-energy?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 10:00:18 +0000",
+          "date": "Mon, 02 Mar 2026 10:58:41 +0000",
           "description": ""
         },
         {
-          "headline": "Why Chinese honour Toilet Goddess with straw effigies, rituals during Lantern Festival",
-          "url": "https://www.scmp.com/news/people-culture/article/3344710/why-chinese-honour-toilet-goddess-straw-effigies-rituals-during-lantern-festival?utm_source=rss_feed",
+          "headline": "Hong Kong, Shanghai sign pact on digital trade finance, cross-border data link",
+          "url": "https://www.scmp.com/business/banking-finance/article/3345160/hong-kong-shanghai-sign-pact-digital-trade-finance-cross-border-data-link?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 10:00:10 +0000",
+          "date": "Mon, 02 Mar 2026 10:55:30 +0000",
           "description": ""
         },
         {
-          "headline": "Pakistani, Afghan clashes widen as Arab states struggle to halt war",
-          "url": "https://www.scmp.com/news/asia/south-asia/article/3345024/pakistani-afghan-clashes-widen-arab-states-struggle-halt-war?utm_source=rss_feed",
+          "headline": "Middle East tensions highlight Hong Kong’s stability, opportunities: labour minister",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3345156/middle-east-tensions-highlight-hong-kongs-stability-opportunities-labour-minister?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 09:49:14 +0000",
+          "date": "Mon, 02 Mar 2026 10:32:13 +0000",
           "description": ""
         },
         {
-          "headline": "Hong Kong government ‘prepared’ for more volatility after Iran attacks: Paul Chan",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3345021/hong-kong-government-prepared-more-volatility-after-iran-attacks-paul-chan?utm_source=rss_feed",
+          "headline": "US-Israel war on Iran: everything you need to know from China’s reaction to what’s next",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3345095/us-israel-war-iran-everything-you-need-know-chinas-reaction-whats-next?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 09:09:42 +0000",
+          "date": "Mon, 02 Mar 2026 10:30:07 +0000",
           "description": ""
         },
         {
-          "headline": "China poised to earn vast profits from global energy transition: analysts",
-          "url": "https://www.scmp.com/economy/china-economy/article/3344902/china-poised-earn-vast-profits-global-energy-transition-analysts?utm_source=rss_feed",
+          "headline": "Eager China parents use apps to find partners for adult children, turn pairing into transactions",
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3344739/eager-china-parents-use-apps-find-partners-adult-children-turn-pairing-transactions?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 08:00:09 +0000",
+          "date": "Mon, 02 Mar 2026 10:00:09 +0000",
           "description": ""
         },
         {
-          "headline": "Death of Iran’s Khamenei sparks outrage and calls for restraint in Asia",
-          "url": "https://www.scmp.com/week-asia/politics/article/3345014/death-irans-khamenei-sparks-outrage-and-calls-restraint-asia?utm_source=rss_feed",
+          "headline": "Asia’s travel sector rattled by Iran attacks, fears of ‘domino effect’ slowdown",
+          "url": "https://www.scmp.com/week-asia/economics/article/3345150/asias-travel-sector-rattled-iran-attacks-fears-domino-effect-slowdown?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 07:57:35 +0000",
+          "date": "Mon, 02 Mar 2026 09:53:17 +0000",
           "description": ""
         },
         {
-          "headline": "Chairman of China’s second-largest liquor producer under corruption probe",
-          "url": "https://www.scmp.com/business/article/3345009/chairman-chinas-second-largest-liquor-producer-under-corruption-probe?utm_source=rss_feed",
+          "headline": "Taliban’s only hope for peace with Pakistan is renouncing terrorism",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3345086/why-talibans-only-hope-peace-pakistan-renouncing-terrorism?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 06:10:34 +0000",
+          "date": "Mon, 02 Mar 2026 09:30:07 +0000",
           "description": ""
         }
       ],
       "trade": [
         {
-          "headline": "Belgium seizes suspected Russian shadow fleet vessel",
-          "url": "https://www.politico.eu/article/belgium-seizes-suspected-russian-shadow-fleet-vessel/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Oil jumps, euro slumps as Iran conflict erupts",
+          "url": "https://www.politico.eu/article/oil-euro-dollar-iran-us-israel-conflict/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 09:36:00 +0000",
-          "description": "Europe is ramping up the targeting of Moscow's fleet of vessels suspected of carrying sanctioned oil or damaging undersea infrastructure."
+          "date": "Mon, 02 Mar 2026 11:12:11 +0000",
+          "description": "Prospect of an extended conflict triggers biggest energy shock in four years."
         },
         {
-          "headline": "Iran strikes threaten to deplete US weapons supplies — and put American troops at risk",
-          "url": "https://www.politico.com/news/2026/02/25/iran-weapons-trump-troops-defense-00797801?nid=0000018f-3124-de07-a98f-3be4d1400000&#038;nname=politico-toplines&#038;nrid=698bbb1d-36f5-4aea-92d6-b19048cb90d7&#038;utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Trump buries the 20th century",
+          "url": "https://www.politico.com/news/magazine/2026/03/02/trump-buries-the-20th-century-00806414?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 08:16:17 +0000",
-          "description": "The Trump administration already burned through significant stockpiles of air defense missiles in operations against Iran and its proxy groups."
+          "date": "Mon, 02 Mar 2026 10:49:04 +0000",
+          "description": "Donald Trump's legacy became clearer than ever with the attack on Iran's regime, the latest 20th century artifact to crumble in the Trump era."
         },
         {
-          "headline": "Ayatollah Khamenei is dead. Here’s what that means for Iran’s leadership.",
-          "url": "https://www.politico.com/news/2026/02/28/ayatollah-khamenei-iran-leadership-00806167?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Israel strikes Lebanon, widening Mideast conflict",
+          "url": "https://www.politico.eu/article/israel-strikes-lebanon-as-iran-conflict-spills-over/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 03:40:30 +0000",
-          "description": "The country’s supreme leader led the Islamic Republic for 37 years."
+          "date": "Mon, 02 Mar 2026 09:40:56 +0000",
+          "description": "The attack on Hezbollah in Beirut marks a sharp escalation in the war that started with U.S. and Israeli strikes on Iran."
         },
         {
-          "headline": "Iranian supreme leader killed in airstrike, leaving power vacuum atop regime",
-          "url": "https://www.politico.com/news/2026/02/28/iranian-supreme-leader-killed-in-airstrike-leaving-power-vacuum-atop-regime-00806018?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Meeting of EU ministers in Cyprus postponed after drone strike",
+          "url": "https://www.politico.eu/article/iran-eu-ministers-cyprus-postponed-after-drone-strike/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 22:05:29 +0000",
-          "description": "Ayatollah Ali Khamenei's death throws the future of the regime into doubt."
+          "date": "Mon, 02 Mar 2026 09:30:53 +0000",
+          "description": "European affairs ministers from around the bloc were due to arrive in Nicosia on Monday, but the spreading crisis in the Middle East has disrupted flights."
         },
         {
-          "headline": "Putin&#8217;s friendship has limits — as Iran just found out",
-          "url": "https://www.politico.eu/article/vladimir-putin-friendship-limits-iran-leader-khamenei-found-out/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Closing the nutritional gap in cancer care",
+          "url": "https://www.politico.eu/sponsored-content/closing-the-nutritional-gap-in-cancer-care/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 21:58:16 +0000",
-          "description": "Leaders in Damascus, Caracas and now Tehran have all discovered that Russian support only goes so far."
+          "date": "Mon, 02 Mar 2026 08:55:19 +0000",
+          "description": "As Europe redefines its health priorities, addressing persistent gaps like cancer-related malnutrition will be essential to ensure resilient systems and better outcomes for patients."
         },
         {
-          "headline": "Trump’s patience runs out: Inside the final days before the strike on Iran",
-          "url": "https://www.politico.com/news/2026/02/28/trumps-patience-runs-out-inside-the-final-days-before-the-strike-on-iran-00806014?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "British base in Cyprus hit by drone strike",
+          "url": "https://www.politico.eu/article/keir-starmer-iran-uk-british-base-cyprus-hit-by-drone-strike/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 21:13:06 +0000",
-          "description": "President Donald Trump, already upset with Tehran’s violent crackdown, gave diplomacy a final shot, but ultimately decided time was up."
+          "date": "Mon, 02 Mar 2026 08:47:02 +0000",
+          "description": "The attack came shortly after U.K. Prime Minister Keir Starmer said he would allow the U.S. to use British military bases to “destroy [Iranian] missiles at source.”"
         },
         {
-          "headline": "US Gulf allies rattled — and seeing few good options — following Iran strikes",
-          "url": "https://www.politico.com/news/2026/02/28/us-gulf-iran-allies-gcc-arab-00805858?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Why Starmer bowed to Trump on Iran",
+          "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/why-starmer-bowed-to-trump-on-iran/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 20:32:36 +0000",
-          "description": "Iran’s retaliation across the region forces Washington’s Arab partners — long opposed to strikes — to weigh deeper involvement as U.S. assets come under fire."
+          "date": "Mon, 02 Mar 2026 08:37:33 +0000",
+          "description": "Presented by Amazon"
         },
         {
-          "headline": "EU scrambles for unity as Iran crisis exposes transatlantic rift",
-          "url": "https://www.politico.eu/article/eu-scrambles-unity-iran-crisis-exposes-transatlantic-rift-united-states/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Europe&#8217;s balancing act on Iran",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/europes-balancing-act-on-iran/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 20:23:21 +0000",
-          "description": "Brussels has shifted into crisis mode, with emergency meetings piling up Saturday and Sunday."
+          "date": "Mon, 02 Mar 2026 05:30:00 +0000",
+          "description": "Presented by Amazon"
         },
         {
-          "headline": "Satellite imagery of devastation at Iranian supreme leader&#8217;s residence",
-          "url": "https://www.politico.com/news/2026/02/28/satellite-imagery-of-devastation-at-iranian-supreme-leaders-residence-00805793?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Resist ‘dangerous and socially unacceptable’ age checks for social media, scientists warn",
+          "url": "https://www.politico.eu/article/age-check-social-media-scientist-warning/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 20:05:45 +0000",
-          "description": "Photos appear to show smoke rising from the office building of Ayatollah Ali Khamenei."
+          "date": "Mon, 02 Mar 2026 05:00:00 +0000",
+          "description": "Computer scientists are campaigning against the global march toward age checks online."
         },
         {
-          "headline": "Poland says it had advance knowledge of US-Israel strikes on Iran",
-          "url": "https://www.politico.eu/article/poland-advance-knowledge-us-israel-strikes-iran/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Merz und Iran: Anführer der Hilflosen",
+          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/merz-und-iran-anfuhrer-der-hilflosen/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 19:59:24 +0000",
-          "description": "Unlike Paris, Warsaw and Berlin were told of the strikes before they happened, exposing differences in how Europe was looped in."
+          "date": "Mon, 02 Mar 2026 04:43:52 +0000",
+          "description": "Der Iran-Konflikt dominiert die internationale Lage: Nach einer Eskalationswelle zwischen Washington, Tel Aviv und Teheran steht auch Europa im Fokus. Wie handlungsfähig Europa wirklich ist, wie Einst"
         }
       ],
       "government": [
@@ -1404,116 +1404,166 @@
     "byPriority": {
       "primary": [
         {
-          "headline": "OPEC+ Agrees in Principle to Larger Oil Hike, Delegates Say",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/opec-agrees-in-principle-to-206k-b-d-hike-for-april-delegates",
+          "headline": "US Treasuries Fall as Inflation Angst Eclipses Haven Buying",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-02/treasuries-swing-to-losses-as-reports-of-talks-damp-haven-demand",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 10:51:17 GMT",
-          "description": "OPEC+ agreed in principle to a slightly larger increase in oil production next month, delegates said, as a conflict sparked by US-Israeli strikes on Iran threatened to bolster a rally in crude prices."
+          "date": "Mon, 02 Mar 2026 02:07:23 GMT",
+          "description": "US Treasuries fell as conflict in the Middle East sent oil prices soaring, stoking fear inflation will accelerate and forcing traders to scale back wagers on the scope of interest-rate cuts."
         },
         {
-          "headline": "Global Earnings Underscore Shift From US as S&amp;P 500 Slumped",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/global-earnings-underscore-shift-from-us-as-s-p-500-slumped",
+          "headline": "Defense to Airlines: How Stocks Are Reacting to Iran Attacks",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-01/energy-in-focus-as-global-equity-traders-brace-for-iran-impact",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 10:00:00 GMT",
-          "description": "As the latest earnings season wraps, investors could be forgiven for missing some of the fireworks, what with AI’s stranglehold on the market narrative, geopolitical angst and renewed trade uncertaint"
+          "date": "Sun, 01 Mar 2026 20:45:06 GMT",
+          "description": "Shares of airlines, cruise operators and hoteliers fell on Monday as investors reacted to conflict in the Middle East. Energy and defense stocks jumped."
         },
         {
-          "headline": "Wall Street Turns to ‘Haven-First’ Strategy Amid Iran Crisis",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/wall-street-turns-to-haven-first-strategies-amid-iran-attacks",
+          "headline": "US Says Three Fighter Jets Downed in 'Friendly Fire' Over Kuwait",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-03-01/iran-latest",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 08:41:58 GMT",
-          "description": "The fast‑moving conflict across the Middle East is heightening investor anxiety and strengthening the case for safe‑haven trades such as Treasuries, gold and the Swiss franc."
+          "date": "Sun, 01 Mar 2026 22:39:35 GMT",
+          "description": ""
         },
         {
-          "headline": "US Job Growth Seen Moderating After Robust January",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-28/us-job-growth-seen-moderating-after-robust-january",
+          "headline": "Stocks Sell Off as US Attack on Iran Drives Oil Prices Higher",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-03-02/stocks-sell-off-as-us-attack-on-iran-drives-oil-prices-higher",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sat, 28 Feb 2026 21:00:00 GMT",
-          "description": "US payrolls growth probably settled back in February after the strongest month of hiring in a year, returning to a more moderate and likely sustainable pace of hiring."
+          "date": "Mon, 02 Mar 2026 11:14:13 GMT",
+          "description": "Gold rallies, oil prices surge as Strait of Hormuz all but closed to shipping."
         },
         {
-          "headline": "Gulf Airlines Extend Flight Cancellations as Iran Targets Hubs",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/iran-strikes-disrupt-thousands-of-flights-dubai-airport-damaged",
+          "headline": "Emerging Assets Slump as Energy Costs Spike on Iran Conflict",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-02/emerging-market-currencies-stocks-fall-on-iran-conflict-worries",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 02:56:37 GMT",
-          "description": "Airlines across the Persian Gulf extended their suspension of operations as retaliatory strikes from Iran enter a second day, causing major disruptions at some of the world’s busiest airports."
+          "date": "Mon, 02 Mar 2026 02:07:36 GMT",
+          "description": "Emerging-market currencies and stocks slumped as US and Israeli strikes on Iran are triggering a jump in energy prices and bring a rally in riskier assets to a screeching halt."
         },
         {
-          "headline": "Japan Shipping Companies Suspend Operations in Persian Gulf",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/japan-s-shipping-companies-suspend-operations-in-persian-gulf",
+          "headline": "Fuel Prices Jump More Than Oil as Iran War Hits Supply",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-02/fuel-prices-jump-along-with-oil-on-delays-in-strait-of-hormuz",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 02:52:21 GMT",
-          "description": "Japanese shipping companies have suspended operations in the Persian Gulf as the military conflict in Iran escalates."
+          "date": "Mon, 02 Mar 2026 04:19:37 GMT",
+          "description": "Fuel prices surged across global markets on Monday as the war in Iran disrupted shipments from Persian Gulf refineries."
         },
         {
-          "headline": "How Starmer Stumbled Into a French-Style Fix for Britain’s Woes",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/how-starmer-stumbled-into-a-french-style-fix-for-britain-s-woes",
+          "headline": "Iran Conflict Disrupts Global Air Travel",
+          "url": "https://www.bloomberg.com/news/videos/2026-03-02/iran-conflict-disrupts-global-air-travel-video",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 06:00:00 GMT",
-          "description": "The UK’s growth plan is simple. It wants more investment to deliver higher productivity that lifts wages and boosts living standards. There is an unfortunate consequence, however: unemployment."
+          "date": "Mon, 02 Mar 2026 11:07:30 GMT",
+          "description": "Travel chaos extended through the Middle East and beyond, as carriers across the Persian Gulf extended blanket flight suspensions, causing major disruptions at some of the world’s busiest airports. (S"
         },
         {
-          "headline": "France’s CMA CGM Suspends Vessels’ Passage Through Suez Canal",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/france-s-cma-cgm-suspends-vessels-passage-through-suez-canal",
+          "headline": "Pakistan Stocks Fall Most on Record After Middle East War",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-02/pakistan-stocks-fall-trigger-trading-halt-on-us-iran-conflict",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 05:17:51 GMT",
-          "description": "France’s CMA CGM SA, the world’s third-largest container line, told vessels in the Persian Gulf to take shelter immediately and suspended passage through the Suez Canal."
+          "date": "Mon, 02 Mar 2026 04:42:45 GMT",
+          "description": "A key stock gauge in Pakistan plunged the most on record after geopolitical tensions in the Middle East escalated following US and Israel’s strikes on Iran."
         },
         {
-          "headline": "Iran Crisis Threatens Worst Disruption in Gas Markets Since 2022",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-01/iran-crisis-threatens-worst-disruption-in-gas-markets-since-2022",
+          "headline": "Clean Max Shares Slip 18% in Worst Indian Debut Since 2021",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-02/clean-max-shares-tumble-in-mumbai-debut-after-341-million-ipo",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 04:09:52 GMT",
-          "description": "A widening Middle East conflict looks set to create the most significant disruption for gas markets since Russia’s invasion of Ukraine upended global trade four years ago."
+          "date": "Mon, 02 Mar 2026 05:02:21 GMT",
+          "description": "Shares of Indian renewable energy firm Clean Max Enviro Energy Solutions Ltd. tumbled 18% on their first day of trading, making it the worst debut in more than four years for an offering of a similar "
         },
         {
-          "headline": "Iran’s Supreme Leader Ali Khamenei Dead at 86",
-          "url": "https://www.bloomberg.com/news/videos/2026-03-01/iran-s-supreme-leader-ali-khamenei-dead-at-86-video",
+          "headline": "JPMorgan Tests ‘Art of the Possible’ in Leveraged Buyouts",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-02/jpmorgan-tests-art-of-the-possible-in-leveraged-buyouts",
           "source": "Bloomberg Markets",
           "sourceId": "bloomberg_markets",
           "category": "business",
           "priority": "primary",
-          "date": "Sun, 01 Mar 2026 02:53:15 GMT",
-          "description": "Ali Khamenei, Iran’s anti-Western supreme leader who dominated the Islamic Republic for more than three decades, has died at 86. Bloomberg's Haslinda Amin explains. (Source: Bloomberg)"
+          "date": "Mon, 02 Mar 2026 11:00:00 GMT",
+          "description": "When JPMorgan Chase &amp; Co. took the lead last year in financing the $55 billion takeover of Electronic Arts Inc., a record-setting leveraged buyout, Wall Street saw it as a sign that a lucrative pe"
         }
       ],
       "secondary": [
         {
-          "headline": "Flights in and out of Middle East cancelled and diverted after Iran strikes",
+          "headline": "Oil prices jump and shares fall as conflict escalates",
+          "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Mon, 02 Mar 2026 09:56:32 GMT",
+          "description": "Experts have warned that a prolonged conflict could push global energy prices even higher."
+        },
+        {
+          "headline": "UK launches consultation asking for views on under-16s social media ban",
+          "url": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sun, 01 Mar 2026 22:35:18 GMT",
+          "description": "Discussions over what measures to implement to protect children's wellbeing will last for three months."
+        },
+        {
+          "headline": "Brewdog closes all bars for a day as it looks to complete sale",
+          "url": "https://www.bbc.com/news/articles/c04319pzeg5o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Mon, 02 Mar 2026 07:04:32 GMT",
+          "description": "The company brought in consultants AlixPartners last month, after failing to make a profit in recent years."
+        },
+        {
+          "headline": "Flights cancelled and new travel warnings issued after Iran strikes",
           "url": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC Business",
           "sourceId": "bbc_business",
           "category": "business",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 08:49:32 GMT",
+          "date": "Sun, 01 Mar 2026 18:05:14 GMT",
           "description": "BA and Virgin Atlantic are among major airlines to ground services to the Middle East in light of the attacks."
+        },
+        {
+          "headline": "Rent tops £1,000 a month in more areas - find out where",
+          "url": "https://www.bbc.com/news/articles/cx28njn2dwpo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Sat, 28 Feb 2026 00:14:04 GMT",
+          "description": "The cost of renting privately has surged in the last five years, but tenants may now see a slowdown."
+        },
+        {
+          "headline": "Deepfake attack: 'Many people could have been cheated'",
+          "url": "https://www.bbc.com/news/articles/c0j59vydxj9o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC Business",
+          "sourceId": "bbc_business",
+          "category": "business",
+          "priority": "secondary",
+          "date": "Mon, 02 Mar 2026 06:47:00 GMT",
+          "description": "The boss of the Bombay Stock Exchange was recently targeted in what is a growing global problem."
         },
         {
           "headline": "A firm hiring blind staff went bust - but its mission lives on",
@@ -1556,114 +1606,94 @@
           "description": "The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense."
         },
         {
-          "headline": "Why you can't get a signal at festivals and sports matches",
-          "url": "https://www.bbc.com/news/articles/c3rzq8d24y9o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC Business",
-          "sourceId": "bbc_business",
-          "category": "business",
-          "priority": "secondary",
-          "date": "Fri, 27 Feb 2026 00:03:10 GMT",
-          "description": "Connecting up music and sports events to the internet is a massive undertaking."
-        },
-        {
-          "headline": "What the Warner Bros deal could mean for streaming, cinemas and news",
-          "url": "https://www.bbc.com/news/articles/c20j5n2w4q6o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC Business",
-          "sourceId": "bbc_business",
-          "category": "business",
-          "priority": "secondary",
-          "date": "Fri, 27 Feb 2026 21:46:14 GMT",
-          "description": "If Paramount's takeover of Warner Bros goes ahead it could significantly reshape Hollywood."
-        },
-        {
-          "headline": "Brewdog expected to announce sale early next week",
-          "url": "https://www.bbc.com/news/articles/c07jmmgyx19o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC Business",
-          "sourceId": "bbc_business",
-          "category": "business",
-          "priority": "secondary",
-          "date": "Fri, 27 Feb 2026 17:16:32 GMT",
-          "description": "Staff are told Brewdog's German arm is not included in the sale and will now be liquidated but bars will trade as normal this weekend."
-        },
-        {
-          "headline": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
-          "url": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC Business",
-          "sourceId": "bbc_business",
-          "category": "business",
-          "priority": "secondary",
-          "date": "Fri, 27 Feb 2026 00:06:40 GMT",
-          "description": "The Twitter co-founder says he believes the majority of firms will make similar changes \"within the next year.\""
-        },
-        {
-          "headline": "Government to give go-ahead for £1bn defence helicopter deal",
-          "url": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC Business",
-          "sourceId": "bbc_business",
-          "category": "business",
-          "priority": "secondary",
-          "date": "Fri, 27 Feb 2026 16:20:07 GMT",
-          "description": "The chancellor has stepped in to protect jobs at the helicopter manufacturer in Somerset, the BBC understands."
-        },
-        {
-          "headline": "Ayatollah Khamenei's iron grip on power in Iran comes to an end",
-          "url": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Allies of US in the Gulf bear brunt of Iran attacks",
+          "url": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 01:47:42 GMT",
-          "description": "Iranian state TV confirms the supreme leader has been killed on the first day of massive US and Israeli air strikes on the country."
+          "date": "Sun, 01 Mar 2026 22:19:03 GMT",
+          "description": "Iran's attacks on Gulf Arab states suggest the Islamic Republic is targeting not just the US military but also civilian infrastructure."
         },
         {
-          "headline": "What we know so far about the US-Israel attacks and Iran's retaliation",
-          "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Oil prices jump and shares fall as conflict escalates",
+          "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 10:58:33 GMT",
-          "description": "Iran responds by launching missiles and drones towards Israel and four Gulf Arab countries that host US military bases."
+          "date": "Mon, 02 Mar 2026 09:56:32 GMT",
+          "description": "Experts have warned that a prolonged conflict could push global energy prices even higher."
         },
         {
-          "headline": "Iran says US and Israel strikes hit school killing 108",
+          "headline": "Kidnapping of foreigners soars in Africa's lawless Sahel region",
+          "url": "https://www.bbc.com/news/articles/c0lj18d5lx3o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Mon, 02 Mar 2026 00:02:10 GMT",
+          "description": "Growing insecurity in the Sahel made 2025 one of the worst years on record for the abduction of foreigners in Africa."
+        },
+        {
+          "headline": "Could Kim's teen daughter become North Korea's next leader?",
+          "url": "https://www.bbc.com/news/articles/cgjzdlx983po?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 01 Mar 2026 23:11:11 GMT",
+          "description": "Kim Jue Ae is becoming more visible alongside her father, but much about her remains a mystery."
+        },
+        {
+          "headline": "Michael B Jordan upends Oscars race as Sinners wins big at Actor Awards",
+          "url": "https://www.bbc.com/news/articles/clyzklvk79yo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC World",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Mon, 02 Mar 2026 05:08:35 GMT",
+          "description": "The US star's best actor win for Sinners leaves the Oscars race too close to call."
+        },
+        {
+          "headline": "At least 153 dead after reported strike on school, Iran says",
           "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 02:34:04 GMT",
-          "description": "There is no confirmation by the US or Israel of the strike on the school located near elite military troops."
+          "date": "Sun, 01 Mar 2026 15:32:26 GMT",
+          "description": "Iran has blamed the US and Israel for the strike; the US is looking into reports of the incident, while the IDF says it is \"not aware\" of operations in the area."
         },
         {
-          "headline": "Luxury Dubai hotel hit as Iran launches retaliatory strikes across region",
-          "url": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Nine dead in missile attack on Israel as Iran strikes region",
+          "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 18:15:02 GMT",
-          "description": "Smoke and flames rose from Dubai's Fairmont The Palm hotel as civilian targets came under fire along with the US military bases across the Middle East."
+          "date": "Sun, 01 Mar 2026 22:24:27 GMT",
+          "description": "Several deaths are reported across the Middle East as Tehran retaliates for massive strikes by the US and Israel."
         },
         {
-          "headline": "Where have Nepal's 'nepo kids' gone as corruption takes centre stage in election?",
-          "url": "https://www.bbc.com/news/articles/cgqgl3j5nj4o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Deadly Texas bar shooting 'potentially act of terrorism', FBI says",
+          "url": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 23:03:48 GMT",
-          "description": "The excess of politicians' children was front and centre of the anger that drove protests that toppled the government last year."
+          "date": "Mon, 02 Mar 2026 11:24:48 GMT",
+          "description": "Two people were killed and 14 injured, with the suspected gunman, identified by some media outlets, also shot dead."
         },
         {
-          "headline": "Wellness peptide craze: Why people are injecting drugs 'not for human consumption'",
-          "url": "https://www.bbc.com/news/articles/cdr268m5pxro?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "War photographer Paul Conroy dies as tributes paid",
+          "url": "https://www.bbc.com/news/articles/c5y6jvlv83ro?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC World",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 00:51:29 GMT",
-          "description": "Growing numbers of people are injecting unregulated peptides for health reasons - but one expert says they are \"lab rats\"."
+          "date": "Sun, 01 Mar 2026 19:47:03 GMT",
+          "description": "Jamie Doran played the photographer, who has died aged 61, in the 2018 movie A Private War."
         },
         {
           "headline": "Why is WhatsApp's privacy policy facing a legal challenge in India?",
@@ -1676,336 +1706,306 @@
           "description": "A 2021 policy update requires users to share data with Meta for ads purposes to continue using the app."
         },
         {
-          "headline": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
-          "url": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC World",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 13:00:39 GMT",
-          "description": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site."
-        },
-        {
-          "headline": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
-          "url": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC World",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 03:43:56 GMT",
-          "description": "The former president told the committee that he would never have flown on Epstein's plane if he \"had any inkling of what he was doing\"."
-        },
-        {
-          "headline": "Trump orders government to stop using Anthropic in battle over AI use",
-          "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC World",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 03:50:05 GMT",
-          "description": "The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense."
-        },
-        {
-          "headline": "More than 40,000 Hong Kong cabbies register to accept Octopus payment",
-          "url": "https://www.scmp.com/news/hong-kong/transport/article/3345030/more-40000-hong-kong-cabbies-register-accept-octopus-payment?utm_source=rss_feed",
+          "headline": "Mainland Chinese firm to build Northern Metropolis supercomputing centre",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3345158/mainland-chinese-firm-build-northern-metropolis-data-cluster-facility?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 11:11:37 +0000",
+          "date": "Mon, 02 Mar 2026 11:03:57 +0000",
           "description": ""
         },
         {
-          "headline": "As US names official for Tibet policy, is it eyeing China, its minority groups or trade?",
-          "url": "https://www.scmp.com/news/china/politics/article/3345029/us-names-official-tibet-policy-it-eyeing-china-its-minority-groups-or-trade?utm_source=rss_feed",
+          "headline": "Singapore strives to remain equidistant amid US-China rivalry: ‘same-same but different’",
+          "url": "https://www.scmp.com/week-asia/politics/article/3345152/singapore-strives-remain-equidistant-amid-us-china-rivalry-same-same-different?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 11:01:42 +0000",
+          "date": "Mon, 02 Mar 2026 11:00:29 +0000",
           "description": ""
         },
         {
-          "headline": "Inside Xi Jinping’s new guide to promoting Communist Party officials",
-          "url": "https://www.scmp.com/news/china/politics/article/3345015/inside-xi-jinpings-new-guide-promoting-communist-party-officials?utm_source=rss_feed",
+          "headline": "South China Sea expert warns 2026 code of conduct is ‘simply not achievable’",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3345137/south-china-sea-expert-warns-2026-code-conduct-simply-not-achievable?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 10:00:27 +0000",
+          "date": "Mon, 02 Mar 2026 11:00:14 +0000",
           "description": ""
         },
         {
-          "headline": "Warm winter no match: China’s sportswear sector posts surprise growth",
-          "url": "https://www.scmp.com/business/article/3345011/warm-winter-no-match-chinas-sportswear-sector-posts-surprise-growth?utm_source=rss_feed",
+          "headline": "India, Canada forge deals on uranium, renewable energy",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3345162/india-canada-forge-deals-uranium-renewable-energy?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 10:00:18 +0000",
+          "date": "Mon, 02 Mar 2026 10:58:41 +0000",
           "description": ""
         },
         {
-          "headline": "Why Chinese honour Toilet Goddess with straw effigies, rituals during Lantern Festival",
-          "url": "https://www.scmp.com/news/people-culture/article/3344710/why-chinese-honour-toilet-goddess-straw-effigies-rituals-during-lantern-festival?utm_source=rss_feed",
+          "headline": "Hong Kong, Shanghai sign pact on digital trade finance, cross-border data link",
+          "url": "https://www.scmp.com/business/banking-finance/article/3345160/hong-kong-shanghai-sign-pact-digital-trade-finance-cross-border-data-link?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 10:00:10 +0000",
+          "date": "Mon, 02 Mar 2026 10:55:30 +0000",
           "description": ""
         },
         {
-          "headline": "Pakistani, Afghan clashes widen as Arab states struggle to halt war",
-          "url": "https://www.scmp.com/news/asia/south-asia/article/3345024/pakistani-afghan-clashes-widen-arab-states-struggle-halt-war?utm_source=rss_feed",
+          "headline": "Middle East tensions highlight Hong Kong’s stability, opportunities: labour minister",
+          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3345156/middle-east-tensions-highlight-hong-kongs-stability-opportunities-labour-minister?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 09:49:14 +0000",
+          "date": "Mon, 02 Mar 2026 10:32:13 +0000",
           "description": ""
         },
         {
-          "headline": "Hong Kong government ‘prepared’ for more volatility after Iran attacks: Paul Chan",
-          "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3345021/hong-kong-government-prepared-more-volatility-after-iran-attacks-paul-chan?utm_source=rss_feed",
+          "headline": "US-Israel war on Iran: everything you need to know from China’s reaction to what’s next",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3345095/us-israel-war-iran-everything-you-need-know-chinas-reaction-whats-next?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 09:09:42 +0000",
+          "date": "Mon, 02 Mar 2026 10:30:07 +0000",
           "description": ""
         },
         {
-          "headline": "China poised to earn vast profits from global energy transition: analysts",
-          "url": "https://www.scmp.com/economy/china-economy/article/3344902/china-poised-earn-vast-profits-global-energy-transition-analysts?utm_source=rss_feed",
+          "headline": "Eager China parents use apps to find partners for adult children, turn pairing into transactions",
+          "url": "https://www.scmp.com/news/people-culture/trending-china/article/3344739/eager-china-parents-use-apps-find-partners-adult-children-turn-pairing-transactions?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 08:00:09 +0000",
+          "date": "Mon, 02 Mar 2026 10:00:09 +0000",
           "description": ""
         },
         {
-          "headline": "Death of Iran’s Khamenei sparks outrage and calls for restraint in Asia",
-          "url": "https://www.scmp.com/week-asia/politics/article/3345014/death-irans-khamenei-sparks-outrage-and-calls-restraint-asia?utm_source=rss_feed",
+          "headline": "Asia’s travel sector rattled by Iran attacks, fears of ‘domino effect’ slowdown",
+          "url": "https://www.scmp.com/week-asia/economics/article/3345150/asias-travel-sector-rattled-iran-attacks-fears-domino-effect-slowdown?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 07:57:35 +0000",
+          "date": "Mon, 02 Mar 2026 09:53:17 +0000",
           "description": ""
         },
         {
-          "headline": "Chairman of China’s second-largest liquor producer under corruption probe",
-          "url": "https://www.scmp.com/business/article/3345009/chairman-chinas-second-largest-liquor-producer-under-corruption-probe?utm_source=rss_feed",
+          "headline": "Taliban’s only hope for peace with Pakistan is renouncing terrorism",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3345086/why-talibans-only-hope-peace-pakistan-renouncing-terrorism?utm_source=rss_feed",
           "source": "South China Morning Post",
           "sourceId": "scmp",
           "category": "regional",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 06:10:34 +0000",
+          "date": "Mon, 02 Mar 2026 09:30:07 +0000",
           "description": ""
         },
         {
-          "headline": "Belgium seizes suspected Russian shadow fleet vessel",
-          "url": "https://www.politico.eu/article/belgium-seizes-suspected-russian-shadow-fleet-vessel/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Oil jumps, euro slumps as Iran conflict erupts",
+          "url": "https://www.politico.eu/article/oil-euro-dollar-iran-us-israel-conflict/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 09:36:00 +0000",
-          "description": "Europe is ramping up the targeting of Moscow's fleet of vessels suspected of carrying sanctioned oil or damaging undersea infrastructure."
+          "date": "Mon, 02 Mar 2026 11:12:11 +0000",
+          "description": "Prospect of an extended conflict triggers biggest energy shock in four years."
         },
         {
-          "headline": "Iran strikes threaten to deplete US weapons supplies — and put American troops at risk",
-          "url": "https://www.politico.com/news/2026/02/25/iran-weapons-trump-troops-defense-00797801?nid=0000018f-3124-de07-a98f-3be4d1400000&#038;nname=politico-toplines&#038;nrid=698bbb1d-36f5-4aea-92d6-b19048cb90d7&#038;utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Trump buries the 20th century",
+          "url": "https://www.politico.com/news/magazine/2026/03/02/trump-buries-the-20th-century-00806414?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 08:16:17 +0000",
-          "description": "The Trump administration already burned through significant stockpiles of air defense missiles in operations against Iran and its proxy groups."
+          "date": "Mon, 02 Mar 2026 10:49:04 +0000",
+          "description": "Donald Trump's legacy became clearer than ever with the attack on Iran's regime, the latest 20th century artifact to crumble in the Trump era."
         },
         {
-          "headline": "Ayatollah Khamenei is dead. Here’s what that means for Iran’s leadership.",
-          "url": "https://www.politico.com/news/2026/02/28/ayatollah-khamenei-iran-leadership-00806167?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Israel strikes Lebanon, widening Mideast conflict",
+          "url": "https://www.politico.eu/article/israel-strikes-lebanon-as-iran-conflict-spills-over/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sun, 01 Mar 2026 03:40:30 +0000",
-          "description": "The country’s supreme leader led the Islamic Republic for 37 years."
+          "date": "Mon, 02 Mar 2026 09:40:56 +0000",
+          "description": "The attack on Hezbollah in Beirut marks a sharp escalation in the war that started with U.S. and Israeli strikes on Iran."
         },
         {
-          "headline": "Iranian supreme leader killed in airstrike, leaving power vacuum atop regime",
-          "url": "https://www.politico.com/news/2026/02/28/iranian-supreme-leader-killed-in-airstrike-leaving-power-vacuum-atop-regime-00806018?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Meeting of EU ministers in Cyprus postponed after drone strike",
+          "url": "https://www.politico.eu/article/iran-eu-ministers-cyprus-postponed-after-drone-strike/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 22:05:29 +0000",
-          "description": "Ayatollah Ali Khamenei's death throws the future of the regime into doubt."
+          "date": "Mon, 02 Mar 2026 09:30:53 +0000",
+          "description": "European affairs ministers from around the bloc were due to arrive in Nicosia on Monday, but the spreading crisis in the Middle East has disrupted flights."
         },
         {
-          "headline": "Putin&#8217;s friendship has limits — as Iran just found out",
-          "url": "https://www.politico.eu/article/vladimir-putin-friendship-limits-iran-leader-khamenei-found-out/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Closing the nutritional gap in cancer care",
+          "url": "https://www.politico.eu/sponsored-content/closing-the-nutritional-gap-in-cancer-care/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 21:58:16 +0000",
-          "description": "Leaders in Damascus, Caracas and now Tehran have all discovered that Russian support only goes so far."
+          "date": "Mon, 02 Mar 2026 08:55:19 +0000",
+          "description": "As Europe redefines its health priorities, addressing persistent gaps like cancer-related malnutrition will be essential to ensure resilient systems and better outcomes for patients."
         },
         {
-          "headline": "Trump’s patience runs out: Inside the final days before the strike on Iran",
-          "url": "https://www.politico.com/news/2026/02/28/trumps-patience-runs-out-inside-the-final-days-before-the-strike-on-iran-00806014?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "British base in Cyprus hit by drone strike",
+          "url": "https://www.politico.eu/article/keir-starmer-iran-uk-british-base-cyprus-hit-by-drone-strike/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 21:13:06 +0000",
-          "description": "President Donald Trump, already upset with Tehran’s violent crackdown, gave diplomacy a final shot, but ultimately decided time was up."
+          "date": "Mon, 02 Mar 2026 08:47:02 +0000",
+          "description": "The attack came shortly after U.K. Prime Minister Keir Starmer said he would allow the U.S. to use British military bases to “destroy [Iranian] missiles at source.”"
         },
         {
-          "headline": "US Gulf allies rattled — and seeing few good options — following Iran strikes",
-          "url": "https://www.politico.com/news/2026/02/28/us-gulf-iran-allies-gcc-arab-00805858?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Why Starmer bowed to Trump on Iran",
+          "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/why-starmer-bowed-to-trump-on-iran/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 20:32:36 +0000",
-          "description": "Iran’s retaliation across the region forces Washington’s Arab partners — long opposed to strikes — to weigh deeper involvement as U.S. assets come under fire."
+          "date": "Mon, 02 Mar 2026 08:37:33 +0000",
+          "description": "Presented by Amazon"
         },
         {
-          "headline": "EU scrambles for unity as Iran crisis exposes transatlantic rift",
-          "url": "https://www.politico.eu/article/eu-scrambles-unity-iran-crisis-exposes-transatlantic-rift-united-states/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Europe&#8217;s balancing act on Iran",
+          "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/europes-balancing-act-on-iran/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 20:23:21 +0000",
-          "description": "Brussels has shifted into crisis mode, with emergency meetings piling up Saturday and Sunday."
+          "date": "Mon, 02 Mar 2026 05:30:00 +0000",
+          "description": "Presented by Amazon"
         },
         {
-          "headline": "Satellite imagery of devastation at Iranian supreme leader&#8217;s residence",
-          "url": "https://www.politico.com/news/2026/02/28/satellite-imagery-of-devastation-at-iranian-supreme-leaders-residence-00805793?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Resist ‘dangerous and socially unacceptable’ age checks for social media, scientists warn",
+          "url": "https://www.politico.eu/article/age-check-social-media-scientist-warning/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 20:05:45 +0000",
-          "description": "Photos appear to show smoke rising from the office building of Ayatollah Ali Khamenei."
+          "date": "Mon, 02 Mar 2026 05:00:00 +0000",
+          "description": "Computer scientists are campaigning against the global march toward age checks online."
         },
         {
-          "headline": "Poland says it had advance knowledge of US-Israel strikes on Iran",
-          "url": "https://www.politico.eu/article/poland-advance-knowledge-us-israel-strikes-iran/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
+          "headline": "Merz und Iran: Anführer der Hilflosen",
+          "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/merz-und-iran-anfuhrer-der-hilflosen/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication",
           "source": "Politico EU",
           "sourceId": "politico_eu",
           "category": "trade",
           "priority": "secondary",
-          "date": "Sat, 28 Feb 2026 19:59:24 +0000",
-          "description": "Unlike Paris, Warsaw and Berlin were told of the strikes before they happened, exposing differences in how Europe was looped in."
+          "date": "Mon, 02 Mar 2026 04:43:52 +0000",
+          "description": "Der Iran-Konflikt dominiert die internationale Lage: Nach einer Eskalationswelle zwischen Washington, Tel Aviv und Teheran steht auch Europa im Fokus. Wie handlungsfähig Europa wirklich ist, wie Einst"
         }
       ],
       "tertiary": [
         {
-          "headline": "Supreme Court ruling against Trump’s tariffs is unlikely to mean an end to trade policy chaos - Texarkana Gazette",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDc4bFpYN3Jud2ZwT2E3RzZyY1oxMWc0N1VKQUdZUXpKN3Fwc1gya1FGbkpWdG1mYTR6N1JLazRBT25vNG9BcE5FNklwcTVYLTRON2VqRmxKVlo3TklWQ0Iyd0FfVDRqS2RLZXZ3bFlaMnFMVFVPTFRldUl0R3B4SGVtWVpSTEdPdnBDNW84Mkt6eVN6eUhJV1QxeldtQQ?oc=5",
+          "headline": "US Supreme Court treats a symptom but the real cost of Trump’s tariffs is uncertainty - East Asia Forum",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFEycm5jem9lc0twSzlqRV9tN2hVa1FrejBZT0puTGp5bjJFemhVSFJiTUdXbjItRllSYTl3NnpPMElZTEZDOXNRTUdHcDBVUVRQb3FrSXVVTEx2S2s0RUljRGN2ZG9zM05QVkx0OFZ6QWxxVG9Fa2lWLW82dlZjMVlhSXlRQmhzVXF3ZnZwNHVwdmVTSmtCM0dHWnRuN3BwSWRJNVU2ZTdSRmlYcUo1QkJDWUdlMGxRNHJxWGt4QQ?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sun, 01 Mar 2026 05:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdDc4bFpYN3Jud2ZwT2E3RzZyY1oxMWc0N1VKQUdZUXpKN3Fwc1gya1FGbkpWdG1mYTR6N1JLazRBT25vNG9BcE5FNklwcTVYLTRON2VqRmxKVlo3TklWQ0Iyd0FfVDRqS2RLZXZ"
+          "date": "Sun, 01 Mar 2026 21:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFEycm5jem9lc0twSzlqRV9tN2hVa1FrejBZT0puTGp5bjJFemhVSFJiTUdXbjItRllSYTl3NnpPMElZTEZDOXNRTUdHcDBVUVRQb3FrSXVVTEx2S2s0RUljRGN2ZG9zM05QVkx"
         },
         {
-          "headline": "Trump’s tariffs have gutted Agoa’s duty‑free promise: our model shows how - The Conversation",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFVvQW8yUFhYQjUzbldzcXpGdEZHa2FOd1gwY2RrMHc5djJ5VVVqMFE0WXdTbDVYZ2lOR3RyWEhsNEh5QlRWYnlPWjYxYTFWSzRfUXRLbDVBSUN3U0d5VDFJMHRGZVlaSHRScWVRNnRZZjVEVWVWbFViSnlwemxUa2JrSlQyR2paNm1pWEM3Zl9BTHN1dFotSmoyUHlycThWako0M25hUVk?oc=5",
+          "headline": "What now for Asia after Trump's tariffs struck down? - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZlJWMTJLOXZwZGJud2JJVXJUX2NOaE9hZS1EaFR5N0QwRUpMUEpIYWZ5TG9qRV9jYkQyRWFhWGt1V1NuV0ZHVG00bkFyYWZmWVp3cnFuX19TR3JBNEhxQ1RTVHlqNm9Wa0dUajNTR01kZXNCMWRHUUM0dDgwTXM?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sun, 01 Mar 2026 04:54:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFVvQW8yUFhYQjUzbldzcXpGdEZHa2FOd1gwY2RrMHc5djJ5VVVqMFE0WXdTbDVYZ2lOR3RyWEhsNEh5QlRWYnlPWjYxYTFWSzRfUXRLbDVBSUN3U0d5VDFJMHRGZVlaSHRScWV"
+          "date": "Mon, 02 Mar 2026 06:08:13 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZlJWMTJLOXZwZGJud2JJVXJUX2NOaE9hZS1EaFR5N0QwRUpMUEpIYWZ5TG9qRV9jYkQyRWFhWGt1V1NuV0ZHVG00bkFyYWZmWVp3cnFuX19TR3JBNEhxQ1RTVHlqNm9Wa0dUajN"
         },
         {
-          "headline": "A Small Business Roundtable On Tariffs Paints An Unnerving Portrait Of A Trade Policy Gone Awry - The Hudson Independent",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUXc0WXh4N0pJVldCaXU4eW1NN1g5Yy13T3BQTnFaR2h0WGZvckZBSGJPTngzYi1INXBucXRfbXBoNFg3T21lTDdra3ktQk9qZm5xb1IzTkNZbEZNeFVVN2hCaG4yZVRkbGdRT3ZpeVNEV1ZWUjg5TmxlaGhPYU5DRGZObXZBVWRXbzFPczlCVUNpQXZXV1pKcFFVWklTZy15RUlJY0hWUHpUWXlhd2NBT01vZnpMNHFkbE9wX2o5cGVkcHlfS0ZfMw?oc=5",
+          "headline": "SCOTUS tariff ruling creates fresh uncertainty for US trade policy and global markets - Capital.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHpMdFJMd3NzVllVQWRGYlBhOHZpejFDWGNoM2RlM01VVmNlWkJDWURBMjhGbE5KY2FEOTVVSWp2WDgxQklRZU5JWDBUMWFmTE5LRnhkaWJFV016SUFjWjV6TW0zaWFGUkp5cnJwT3djcURvLVJTNThRRXZPd0M5ck85ZmFvcFE5M3l3WW1XTmVKZnk1ZTBocmtUbjE4d29jMjFGazVOcW5PQ3ExWkRXTHdBMkI4MjZ4OHhhMA?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sat, 28 Feb 2026 23:49:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUXc0WXh4N0pJVldCaXU4eW1NN1g5Yy13T3BQTnFaR2h0WGZvckZBSGJPTngzYi1INXBucXRfbXBoNFg3T21lTDdra3ktQk9qZm5xb1IzTkNZbEZNeFVVN2hCaG4yZVRkbGdRT3Z"
+          "date": "Mon, 02 Mar 2026 01:23:47 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHpMdFJMd3NzVllVQWRGYlBhOHZpejFDWGNoM2RlM01VVmNlWkJDWURBMjhGbE5KY2FEOTVVSWp2WDgxQklRZU5JWDBUMWFmTE5LRnhkaWJFV016SUFjWjV6TW0zaWFGUkp5cnJ"
         },
         {
-          "headline": "World markets jolted, dollar dips as Trump vows tariffs on Europe over Greenland - AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTTXNGZzZHSkxROFRGQ3dNVXZQVTZ6ZGZ4MDRPQ3g0Nzhkb2QtbnhXN0hDMFB2aW9vZzAwTUtudzIzSVYtNkJlR0VSX000ZVd3NlpwcmpicTBqR1pmVS15Q1dVMUpwNEQ1c216ZjZSRFQzQVdPMUZLdnpIZHBQdw?oc=5",
+          "headline": "Editorial | China now holds more cards ahead of Xi-Trump meeting - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0JNNFhXazNjQThDNGFEdHBHZG5ENG9NWXp6MkR3Rk84RVNHMjdSNHVaOWQ3cXlNeFd5bUJadW5wRFNNQWU3ak5qSFMzVTkyTUt1VjNYRDJtTU5JckxPZldyQlh5MXR4RXVYLVZ4VkxXZGI5aERnOEJGZnN0UU1PMTlBZTFmM1pKV1ZFUl9pal9leU80NHBHaUhWcGNwLXp1ZTZGa9IBpAFBVV95cUxQRndHMS02Y3ZIa05QWmpfNUF3NklCYTVldmpYUThTdWlkcmV5VW9pXzJrMU9OWExlcDRLRkpBN2hmY1BEcXRfOF9HUXpaTkdkbzhHWkdFYkJDQS1PSDFHRDU3WjBJb3pNWEhwUzFjUGYxUjhINWk5MFJTSGNjb0RybHhxU0R4WlRSbklLcTNjMWxpLTd2Z2NyVE9TcjdLN3VFeGl3aA?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sun, 01 Mar 2026 05:45:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBTTXNGZzZHSkxROFRGQ3dNVXZQVTZ6ZGZ4MDRPQ3g0Nzhkb2QtbnhXN0hDMFB2aW9vZzAwTUtudzIzSVYtNkJlR0VSX000ZVd3NlpwcmpicTBqR1pmVS15Q1dVMUpwNEQ1c216ZjZ"
+          "date": "Sun, 01 Mar 2026 23:15:16 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0JNNFhXazNjQThDNGFEdHBHZG5ENG9NWXp6MkR3Rk84RVNHMjdSNHVaOWQ3cXlNeFd5bUJadW5wRFNNQWU3ak5qSFMzVTkyTUt1VjNYRDJtTU5JckxPZldyQlh5MXR4RXVYLVZ"
         },
         {
-          "headline": "Thai economists urge caution despite lower US tariff - Thai PBS World",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1abkIycGJlM1p6SUx4YU9XRW1IT0lLZHpzajZUaTVEa3pNQTBhLWdoME9GUzJuV1dhdTJzODdvYkZMSDBwOFFGdHllcjh5bElQM3c?oc=5",
+          "headline": "Trump’s tariffs have gutted Agoa’s duty‑free promise: our model shows how - Polity.org.za",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVp5cDRVYnNBRl81SHRPVnQ4SE41cFVCT2kxa2VIeWN6Y2NScmplNDRUWmpsYXlYb3VjYlp0ZTJuVGRRYTJoUDIxY2JBYzNOSUFfUE1HaFh3VXQwcERPbVVFMG44bU9Mdnd2eHBrMk1jeEllcUIxRXlndVpBVUs3cWk1cnV6Sjg1YnE1VGJpYVo3V0F0UWsxbEtGRTRRekE2dEZwbWJ3ODdOWTMzRm5abjlYS1U?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sun, 01 Mar 2026 03:34:29 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1abkIycGJlM1p6SUx4YU9XRW1IT0lLZHpzajZUaTVEa3pNQTBhLWdoME9GUzJuV1dhdTJzODdvYkZMSDBwOFFGdHllcjh5bElQM3c?oc=5\" target=\"_blank\"&gt;Thai econo"
+          "date": "Mon, 02 Mar 2026 09:08:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVp5cDRVYnNBRl81SHRPVnQ4SE41cFVCT2kxa2VIeWN6Y2NScmplNDRUWmpsYXlYb3VjYlp0ZTJuVGRRYTJoUDIxY2JBYzNOSUFfUE1HaFh3VXQwcERPbVVFMG44bU9Mdnd2eHB"
         },
         {
-          "headline": "Tariffs and lower sales hit PACCAR’s profits in 2025 - Opportimes",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjVXc0IzMV9nQW5BMzZpYXlpRmxFSm5KY2RpVll4U2RqSF9PdEVXZEZqM3ZwVTZZUjd5MUpkMDZxbUlRTXJrd3JJUlRDdWVKYUpfdHlkWFQyZXRlVjhaTEY3RzhSNTh6eXBtUHBYT29MWGxQaXk4N3pUeXhjNVl5dHhDQTRvSDQzNHc?oc=5",
+          "headline": "Supreme Court Strikes Down Trump's 'Liberation Day' Tariffs, But Alternatives Remain - National Today",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSDczQTZZNDU2YVVIUVc3NENEYWg2TWoxbnYwNklMUDVGckdTQzFfWGstT21HU0xtTnB0SFZsLVNtU0pwR1l2aXVSZ1NVdm9Jal8zbHc3c3NpT253YTByY3JqT0dneTJtY3RIQ2tzQngya2VrQnhvMVY1UVEyN2FYZFRMT00zSUNnei1XX0J4TkNfR2FMMVdyS3VCUTEySjhRMFF2WG9Id1lJYUZzZmExZDhHaElBNGZvd3BXVFRMdXNHejh1WExXOGl6anB5VHF2aVJOcXlR?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sun, 01 Mar 2026 03:22:14 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjVXc0IzMV9nQW5BMzZpYXlpRmxFSm5KY2RpVll4U2RqSF9PdEVXZEZqM3ZwVTZZUjd5MUpkMDZxbUlRTXJrd3JJUlRDdWVKYUpfdHlkWFQyZXRlVjhaTEY3RzhSNTh6eXBtUHB"
+          "date": "Mon, 02 Mar 2026 04:07:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSDczQTZZNDU2YVVIUVc3NENEYWg2TWoxbnYwNklMUDVGckdTQzFfWGstT21HU0xtTnB0SFZsLVNtU0pwR1l2aXVSZ1NVdm9Jal8zbHc3c3NpT253YTByY3JqT0dneTJtY3RIQ2t"
         },
         {
-          "headline": "U.S. Trade Deficit Narrows Slightly Despite Trump Tariffs - National Today",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa2F3V0s2ekR2RUd0cm1pTWxYdEdLU0E1dWpFbEVoM2Z3VHBxVm9vdEhYSFJNSTV6OWxDc0E0NDhhLV9QZlJKX2otVmFrZlNfd2t3LUNhMkVVeHd4NW9YYTJQMkR1WV9Xb295OFc1aFVpdWcwRG16MkxTUkhRa1JCTE9hVzVLQU82S2RQUDJ3bU5yUHpvc00zQVFaVlNjck9zcmxBY3JwNDF4TTlDOUF0T0I2X1hHWmc?oc=5",
+          "headline": "Suits arise as tariff questions raise D&amp;O risk - businessinsurance.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTTItWmxfVldWN2U2XzVXcG1qQldTT3N4eE8tR1V4c3RUNkYxbHBlQkZ1UXp5QjNPZlcxLTluRFAtdGJ6Q0hPaDVFdFRzVFZCTTJLUTk2YXA1dDNERjdQQklzbndGaWlUbC1lNGFTall2NVJ6OW5ld2FON1E4dGczRmJhakt5dFU?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sat, 28 Feb 2026 23:47:02 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPa2F3V0s2ekR2RUd0cm1pTWxYdEdLU0E1dWpFbEVoM2Z3VHBxVm9vdEhYSFJNSTV6OWxDc0E0NDhhLV9QZlJKX2otVmFrZlNfd2t3LUNhMkVVeHd4NW9YYTJQMkR1WV9Xb295OFc"
+          "date": "Sun, 01 Mar 2026 13:06:06 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPTTItWmxfVldWN2U2XzVXcG1qQldTT3N4eE8tR1V4c3RUNkYxbHBlQkZ1UXp5QjNPZlcxLTluRFAtdGJ6Q0hPaDVFdFRzVFZCTTJLUTk2YXA1dDNERjdQQklzbndGaWlUbC1lNGF"
         },
         {
-          "headline": "US Farmers See New Trump Tariffs as Yet Another Round of Instability - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWhqd3BQYkY1Nk1PMDNiOE0wbVNHVTl0WW5kRWZ5RGhadVptV01qOFFUMllyTkxhYVNvYUVqaFc0a3o1bEUtSGZBQnR1TXRsUU5fcEsxRUk1M2pRQ3RiZFFndW5BVlo1Rm5YTTNWdXdPRjYzeDNOZWxmdkQ4SzVRcXU0ZU4xQkYzN2pLYjBuWXp6SHh4SzZpcWgyQy1LS3J0OHdWeF90czFCQ0gyQ1JlUmFuV0c0cnp3R0Rj?oc=5",
+          "headline": "Fox News Poll: Trump’s tariffs faced broad disapproval even before Supreme Court ruling - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tMVBBbmdIaW1yQ01NeW5zUmwzSmgtWmlFQlplVVJSUHJEb0dwLU9NdFJiaE9FREt5NFl5alI2a1B6LUtnb0pBTVREN0ttNGZld21Vck4zSEl2T01zai02YV9oR1BrYnNCUm1iVnJYbUw2UzNteE1yWWtNYw?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sat, 28 Feb 2026 14:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWhqd3BQYkY1Nk1PMDNiOE0wbVNHVTl0WW5kRWZ5RGhadVptV01qOFFUMllyTkxhYVNvYUVqaFc0a3o1bEUtSGZBQnR1TXRsUU5fcEsxRUk1M2pRQ3RiZFFndW5BVlo1Rm5YTTN"
+          "date": "Mon, 02 Mar 2026 03:39:15 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE4tMVBBbmdIaW1yQ01NeW5zUmwzSmgtWmlFQlplVVJSUHJEb0dwLU9NdFJiaE9FREt5NFl5alI2a1B6LUtnb0pBTVREN0ttNGZld21Vck4zSEl2T01zai02YV9oR1BrYnNCUm1iVnJ"
         },
         {
-          "headline": "Court blow to Trump triggers tariff twist - MSN",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUWJLc1V3SDE2em5JdmwtOFR6bHZKdTdCTjlNbmJlYm0wcXhETExrQVlBWnpkNy01R1QzUlZWNWlua2R5amRRWGM4QWx6X0NGa2JMeXBVcDFrQ3FIR284RTF2WTJPTXpNTVdVQUM4b1NhYTN3OTVwUmxsYnBDWEh6bmhoQmx2X2pJNGxWcVRUQWx6UTZjaHlyWUYzWF9qS0tVNDRxMEtYdkxqeXNROEJPa2ZjX1VuM1BGM2s2RGJSN01sVFo2RTFndEFOMnRfRG90RExnbUxORkxnV00?oc=5",
+          "headline": "Global Trade Reset: Supreme Court Ruling Forces Sudden Shift in U.S. Tariff Policy - Grants Pass Tribune",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzhBSW9BQUxDVVV3THFpMjRlZkE3Ti10SHZpVzNKU19XbEJmQzhmaTVMdzJVc1BVYXJkb3c5TVQ0VU94Ty1UTkFLRlVkVWlOeXc1MEZNVmVmY3ZtNjNCeXh1RzVKYW9vUmlDVFM3eldKYmt3Xzl6SjUxeVQ0QXNsZGdvMExhZnRtXzdaOGFPZVdGc3RKX1VDdDZzN3ZXcDd0bEJwY1AwbWQyQmIyekpBXzhPYnl1UQ?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sat, 28 Feb 2026 13:01:40 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUWJLc1V3SDE2em5JdmwtOFR6bHZKdTdCTjlNbmJlYm0wcXhETExrQVlBWnpkNy01R1QzUlZWNWlua2R5amRRWGM4QWx6X0NGa2JMeXBVcDFrQ3FIR284RTF2WTJPTXpNTVdVQUM"
+          "date": "Sun, 01 Mar 2026 15:07:36 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzhBSW9BQUxDVVV3THFpMjRlZkE3Ti10SHZpVzNKU19XbEJmQzhmaTVMdzJVc1BVYXJkb3c5TVQ0VU94Ty1UTkFLRlVkVWlOeXc1MEZNVmVmY3ZtNjNCeXh1RzVKYW9vUmlDVFM"
         },
         {
-          "headline": "US agricultural producers view the latest Trump tariffs as an additional wave of uncertainty - Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZaElUSW1BNWZDSUpic2FhdWEyS0VrYVA2LW5nZlRiVFJPYWpwbEp5V18tWUt1VEVIU2VZODlVNk93MWQtRjNWZ01DdnpJaTY5Q2ROdWRPb00zLU9WdzJNbGJDRdIBY0FVX3lxTE5ZaElUSW1BNWZDSUpic2FhdWEyS0VrYVA2LW5nZlRiVFJPYWpwbEp5V18tWUt1VEVIU2VZODlVNk93MWQtRjNWZ01DdnpJaTY5Q2ROdWRPb00zLU9WdzJNbGJDRQ?oc=5",
+          "headline": "Corn production and imports in Mexico to reach 26 million tons in 2025-2026 - Opportimes",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFFwZ3pwVDVJMDhvbGxGNGNIZXRyekNyRl9kSXo1bFR2eGEtaVdGSDhHVkdCekJ1ZlQ2VC1VSWwzQ2JYY1RueUpfblNwUmF1UzcwaU52cnFhbmVpT0ViRTlWS3RVVHJaSzM4ZTV4RUlMaW95dlkxaGNEYUdKNEM4eFJ5VnpjNnFTUnN5Nl9NQ3lwaElNdElDblFuNldOMDNKeUtpYVJuVW8tQQ?oc=5",
           "source": "Google News (Tariffs)",
           "sourceId": "google_tariffs",
           "category": "general",
           "priority": "tertiary",
-          "date": "Sat, 28 Feb 2026 15:34:38 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZaElUSW1BNWZDSUpic2FhdWEyS0VrYVA2LW5nZlRiVFJPYWpwbEp5V18tWUt1VEVIU2VZODlVNk93MWQtRjNWZ01DdnpJaTY5Q2ROdWRPb00zLU9WdzJNbGJDRdIBY0FVX3lxTE5"
+          "date": "Mon, 02 Mar 2026 02:35:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFFwZ3pwVDVJMDhvbGxGNGNIZXRyekNyRl9kSXo1bFR2eGEtaVdGSDhHVkdCekJ1ZlQ2VC1VSWwzQ2JYY1RueUpfblNwUmF1UzcwaU52cnFhbmVpT0ViRTlWS3RVVHJaSzM4ZTV"
         }
       ],
       "reference": [

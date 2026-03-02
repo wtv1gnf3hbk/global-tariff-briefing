@@ -1,29 +1,30 @@
-The data you've provided contains very limited trade and tariff content. Most headlines focus on Middle East geopolitical developments, earnings, and general business news. There's insufficient material for a comprehensive trade/tariff briefing meeting the specified structure and requirements.
+The conflict in the Middle East is disrupting global trade routes and energy markets, with [oil prices surging](https://www.bloomberg.com/news/newsletters/2026-03-02/stocks-sell-off-as-us-attack-on-iran-drives-oil-prices-higher) after US and Israeli strikes on Iran effectively closed the Strait of Hormuz to shipping. The energy shock is the [biggest in four years](https://www.politico.eu/article/oil-euro-dollar-iran-us-israel-conflict/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication), sending fuel prices jumping more than crude oil as Persian Gulf refineries face disruptions.
 
-Here's what I can extract that's trade-relevant:
+[Emerging market currencies](https://www.bloomberg.com/news/articles/2026-03-02/emerging-market-currencies-stocks-fall-on-iran-conflict-worries) and stocks are slumping as the energy cost spike brings a rally in riskier assets to a halt. The conflict has also disrupted air travel across the Middle East and beyond, with major carriers suspending flights and causing [chaos at airports](https://www.bloomberg.com/news/videos/2026-03-02/iran-conflict-disrupts-global-air-travel-video) worldwide.
 
-**Top Developments**
+## Tariff Actions & Retaliation
 
-Middle East tensions are disrupting global shipping and trade routes as Iranian retaliations force major carriers to suspend operations. France's [CMA CGM](https://www.bloomberg.com/news/articles/2026-03-01/france-s-cma-cgm-suspends-vessels-passage-through-suez-canal) suspended vessel passage through the Suez Canal and ordered ships in the Persian Gulf to take shelter immediately. Japanese [shipping companies](https://www.bloomberg.com/news/articles/2026-03-01/japan-s-shipping-companies-suspend-operations-in-persian-gulf) have also halted Persian Gulf operations as the military conflict escalates.
+• The US Trade Representative is [seeking public comment](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ustr-seeks-public-comment-design-plurilateral-agreement-trade-critical-minerals-and-policy-actions) on designing a plurilateral agreement for trade in critical minerals to strengthen supply chain resilience, though no specific tariff rates were announced.
 
-Belgium has [seized](https://www.politico.eu/article/belgium-seizes-suspected-russian-shadow-fleet-vessel/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication) a suspected Russian shadow fleet vessel as part of Europe's expanding efforts to target Moscow's fleet of ships suspected of carrying sanctioned oil.
+• A [US-Indonesia trade deal](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/us-indonesia-deal-draws-praise-american-farmers-and-industry-leaders) has drawn praise from American farmers and industry leaders, though details on market access terms were not disclosed.
 
-**Tariff Actions & Retaliation**
+## Trade Negotiations & Diplomacy
 
-No specific tariff announcements or rate changes were reported in the provided data.
+• Hong Kong and Shanghai [signed agreements](https://www.scmp.com/business/banking-finance/article/3345160/hong-kong-shanghai-sign-pact-digital-trade-finance-cross-border-data-link?utm_source=rss_feed) on digital trade finance and cross-border data links to facilitate commerce between the financial hubs.
 
-**Trade Negotiations & Diplomacy**
+• India and Canada [forged deals](https://www.scmp.com/news/asia/south-asia/article/3345162/india-canada-forge-deals-uranium-renewable-energy?utm_source=rss_feed) on uranium and renewable energy trade cooperation.
 
-• USTR is seeking public comment on designing a [plurilateral agreement](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ustr-seeks-public-comment-design-plurilateral-agreement-trade-critical-minerals-and-policy-actions) on trade in critical minerals and policy actions to strengthen supply chain resilience.
+## Market & Economic Impact
 
-**Market & Economic Impact**
+• [Fuel prices surged](https://www.bloomberg.com/news/articles/2026-03-02/fuel-prices-jump-along-with-oil-on-delays-in-strait-of-hormuz) across global markets Monday as the Iran conflict disrupted shipments from Persian Gulf refineries, with refined products jumping more than crude oil prices.
 
-• Global shipping disruptions are mounting as [Gulf airlines](https://www.bloomberg.com/news/articles/2026-03-01/iran-strikes-disrupt-thousands-of-flights-dubai-airport-damaged) extend flight cancellations following Iranian strikes on regional aviation hubs.
+• Pakistan stocks [fell the most on record](https://www.bloomberg.com/news/articles/2026-03-02/pakistan-stocks-fall-trigger-trading-halt-on-us-iran-conflict) after geopolitical tensions escalated, triggering trading halts.
 
-**Sources**
+• US Treasuries [fell as traders](https://www.bloomberg.com/news/articles/2026-03-02/treasuries-swing-to-losses-as-reports-of-talks-damp-haven-demand) scaled back bets on interest rate cuts due to inflation fears from soaring oil prices.
 
-• [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-01/france-s-cma-cgm-suspends-vessels-passage-through-suez-canal)
-• [Politico EU](https://www.politico.eu/article/belgium-seizes-suspected-russian-shadow-fleet-vessel/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication)
+## Sources
+
+• [Bloomberg Markets](https://www.bloomberg.com/news/newsletters/2026-03-02/stocks-sell-off-as-us-attack-on-iran-drives-oil-prices-higher)
+• [Politico EU](https://www.politico.eu/article/oil-euro-dollar-iran-us-israel-conflict/?utm_source=RSS_Feed&#038;utm_medium=RSS&#038;utm_campaign=RSS_Syndication)
 • [US Trade Representative](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/february/ustr-seeks-public-comment-design-plurilateral-agreement-trade-critical-minerals-and-policy-actions)
-
-*Note: Limited trade-specific content available in source material. Most headlines focus on Middle East geopolitics and general business news.*
+• [South China Morning Post](https://www.scmp.com/business/banking-finance/article/3345160/hong-kong-shanghai-sign-pact-digital-trade-finance-cross-border-data-link?utm_source=rss_feed)
