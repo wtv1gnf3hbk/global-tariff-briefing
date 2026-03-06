@@ -1,21 +1,19 @@
-Based on the available headlines, there's limited tariff and trade activity today, but some significant developments are emerging. The US Treasury has signaled that higher tariffs are coming this week, with Treasury Secretary Scott Bessent indicating the administration will [raise tariffs](https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss) above the current 10% global rate. The announcement comes as markets remain volatile due to the Iran conflict, which is driving oil prices higher and raising concerns about supply chain disruptions.
+I don't see any specific tariff announcements, trade negotiations, or concrete trade policy developments in the provided headlines. The data consists mainly of market movements related to Middle East conflicts, energy prices, and general economic news rather than trade-specific actions like new tariffs, retaliatory measures, or trade agreement negotiations.
 
-In a setback for the Trump administration, a trade court has [ordered refunds](https://www.bbc.com/news/articles/c1d66k5r1x4o?at_medium=RSS&amp;at_campaign=rss) for tariffs that the Supreme Court struck down last month, clearing the way for businesses to recover payments on duties ruled unconstitutional. Meanwhile, China has set its [lowest growth](https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&amp;at_campaign=rss) target since 1991, which could affect global trade flows as the world's second-largest economy scales back expansion plans.
+However, I can identify one relevant trade development from the government sources:
 
-**Tariff Actions & Retaliation**
+The [US and Mexico](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/march/united-states-and-mexico-launch-review-process-usmca) have launched the review process for USMCA, according to the US Trade Representative. This represents the formal beginning of the agreement's six-year review cycle, which could lead to updates or modifications to North America's primary trade framework.
 
-• The US will [raise tariffs](https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss) above the current 10% global rate "likely sometime this week," Treasury Secretary Scott Bessent announced, though specific rates and affected products were not disclosed.
-
-• A US trade court [ordered refunds](https://www.bbc.com/news/articles/c1d66k5r1x4o?at_medium=RSS&amp;at_campaign=rss) for businesses that paid tariffs later struck down by the Supreme Court, representing a procedural setback for Trump administration trade policy enforcement.
+**Trade Negotiations & Diplomacy**
+• The US and Mexico [formally launched](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/march/united-states-and-mexico-launch-review-process-usmca) the USMCA review process, beginning the agreement's mandatory six-year evaluation period.
 
 **Market & Economic Impact**
-
-• [Oil prices](https://www.bloomberg.com/news/articles/2026-03-04/stock-market-today-dow-s-p-live-updates-) continue climbing due to Middle East conflict disruptions, raising concerns about inflation and potential impacts on trade-dependent sectors.
-
-• China [set targets](https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&amp;at_campaign=rss) for its lowest economic growth since 1991, signaling reduced demand for imports and potential global trade headwinds.
+• Energy supply disruptions from Middle East conflict are [driving up](https://www.bloomberg.com/news/articles/2026-03-06/us-gasoline-pump-prices-advance-to-highest-level-since-2024) US gasoline prices to their highest level under Trump.
+• The US temporarily [eased sanctions](https://www.bbc.com/news/articles/cy031d1ny7jo) on Russian oil sales to India with a 30-day waiver as energy markets tighten during the Iran conflict.
 
 **Sources**
+• [US Trade Representative](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/march/united-states-and-mexico-launch-review-process-usmca)
+• [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-06/us-gasoline-pump-prices-advance-to-highest-level-since-2024)
+• [BBC Business](https://www.bbc.com/news/articles/cy031d1ny7jo)
 
-• [BBC Business](https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss)
-• [BBC World](https://www.bbc.com/news/articles/c1d66k5r1x4o?at_medium=RSS&at_campaign=rss)
-• [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-04/stock-market-today-dow-s-p-live-updates-)
+*Note: Limited trade-specific developments in today's headlines. Most stories focus on energy markets and Middle East conflict impacts rather than tariff actions or trade policy changes.*
