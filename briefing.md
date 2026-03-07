@@ -1,19 +1,19 @@
-I don't see any specific tariff announcements, trade negotiations, or concrete trade policy developments in the provided headlines. The data consists mainly of market movements related to Middle East conflicts, energy prices, and general economic news rather than trade-specific actions like new tariffs, retaliatory measures, or trade agreement negotiations.
+I don't see any specific tariff or trade policy developments in the provided headlines. The data is dominated by Middle East conflict coverage and general business news, with no new tariff announcements, trade negotiations, or retaliatory measures to report on.
 
-However, I can identify one relevant trade development from the government sources:
+However, there are significant trade-related disruptions from the Iran conflict affecting global commerce:
 
-The [US and Mexico](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/march/united-states-and-mexico-launch-review-process-usmca) have launched the review process for USMCA, according to the US Trade Representative. This represents the formal beginning of the agreement's six-year review cycle, which could lead to updates or modifications to North America's primary trade framework.
-
-**Trade Negotiations & Diplomacy**
-• The US and Mexico [formally launched](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/march/united-states-and-mexico-launch-review-process-usmca) the USMCA review process, beginning the agreement's mandatory six-year evaluation period.
+The [Strait of Hormuz](https://www.bloomberg.com/news/articles/2026-03-07/hormuz-tracker-iran-linked-ships-transit-as-others-stay-away) remains nearly shut down for a sixth day, with only Iran-linked tankers making crossings. This critical shipping lane handles about 20% of global oil transit. The [broader conflict](https://www.bloomberg.com/news/articles/2026-03-07/in-charts-how-the-iran-conflict-is-disrupting-global-trade) has disrupted global trade routes and pushed up commodity prices across multiple sectors.
 
 **Market & Economic Impact**
-• Energy supply disruptions from Middle East conflict are [driving up](https://www.bloomberg.com/news/articles/2026-03-06/us-gasoline-pump-prices-advance-to-highest-level-since-2024) US gasoline prices to their highest level under Trump.
-• The US temporarily [eased sanctions](https://www.bbc.com/news/articles/cy031d1ny7jo) on Russian oil sales to India with a 30-day waiver as energy markets tighten during the Iran conflict.
+• [Oil prices](https://www.bbc.com/news/articles/cy031ylgepro) hit a two-year high with Qatar warning all Gulf production could halt within days, potentially driving crude to $150 per barrel
+• [Jet fuel](https://www.politico.eu/article/jet-fuel-prices-iran-war-eu-airlines/) reached a 28-month high, squeezing European airlines already dealing with closed airspace over Azerbaijan and the Gulf region
+• The [global economy](https://www.bloomberg.com/news/articles/2026-03-07/global-economy-faces-widening-strains-as-mideast-war-intensifies) faces widening strains as the Middle East war spreads economic fallout beyond the region
+
+**Trade Negotiations & Diplomacy**
+• The US and Mexico [launched](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/march/united-states-and-mexico-launch-review-process-usmca) the formal review process for USMCA, the trilateral North American trade agreement
 
 **Sources**
+• [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-07/hormuz-tracker-iran-linked-ships-transit-as-others-stay-away)
+• [BBC Business](https://www.bbc.com/news/articles/cy031ylgepro)
+• [Politico EU](https://www.politico.eu/article/jet-fuel-prices-iran-war-eu-airlines/)
 • [US Trade Representative](https://ustr.gov/about/policy-offices/press-office/press-releases/2026/march/united-states-and-mexico-launch-review-process-usmca)
-• [Bloomberg Markets](https://www.bloomberg.com/news/articles/2026-03-06/us-gasoline-pump-prices-advance-to-highest-level-since-2024)
-• [BBC Business](https://www.bbc.com/news/articles/cy031d1ny7jo)
-
-*Note: Limited trade-specific developments in today's headlines. Most stories focus on energy markets and Middle East conflict impacts rather than tariff actions or trade policy changes.*
